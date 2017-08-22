@@ -29,6 +29,11 @@
 * [Open Ajax Accessibility ex. 5 Checkboxes using IMG elements for visual state..](http://oaa-accessibility.org/example/5/)
 * [Checkboxes and Radio Buttons by Deque](https://dequeuniversity.com/library/aria/custom-controls/sf-checkboxes-radios)
 
+### Articles
+* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
+* [Toggle Buttons](https://inclusive-components.design/toggle-button/)
+* [Accssible component modules: Aria Toggles, Checkboxes and Switches](http://whatsock.com/tsg/)
+
 ### Accessibility specification
 
 Accessible checkbox specification is defined in WAI-ARIA Authoring Practices 1.1.
@@ -129,9 +134,8 @@ Checkbox can be navigated with the following shortcuts:
 [...]
 
 ## WCAG Reference
-4.1.2 Name, Role, Value and 1.3.1, 1.3.3, 2.1.1
+* **1.3.1 Info and Relationships**(https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic) - Level A
+* **1.3.3 Sensory Characteristics**(https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-understanding) - Level A 
+* **2.1.1 Keyboard**(https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable) - Level A
+* **4.1.2 Name, Role, Value**(https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv) - Level A
 
-## Resources
-* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
-* [Toggle Buttons](https://inclusive-components.design/toggle-button/)
-* [Accssible component modules: Aria Toggles, Checkboxes and Switches](http://whatsock.com/tsg/)
