@@ -50,7 +50,7 @@ Tooltip can be navigated with the following shortcuts:
 * Focus **must** move from host to first focusable control in overlay.
 * Overlay **must** disappear when focus leaves flyout.
 * Focus should not move to overlay element itself, only it's focusable children.
-* The show and hide delays of a overlay may vary depending on the need, but the default is 200ms to show and 0ms to hide
+* The show and hide delays of an overlay may vary dependent upon the need, but the default is 200ms to show and 0ms to hide
 * Tooltips cannot be interacted with.
 
 ### Screenreader
@@ -71,22 +71,16 @@ Tooltip can be navigated with the following shortcuts:
 | **Role** | **States, and Properties** | **HTML tag** | - |
 | --- | --- | --- | --- |
 | **tooltip** | - | - | Element that serves as the tooltip container |
-| - | **aria- describedby** | - | The element that triggers the tooltip references the tooltip element with aria-describedby. |
+| - | **aria-describedby** | - | The element that triggers the tooltip references the tooltip element with aria-describedby. |
 
 ### Notes:
 
 An element that includes role="tooltip" should not be focusable.
-
 Instead, aria-describedby must be set on the triggering element so that it references the ID of the container element that includes role="tooltip".
-
 The triggering element may consist of any active element or interactive widget type that is focusable and includes a valid role.
-
 If the triggering element does not consist of a native active element, it must be made keyboard accessible.
-
 When the mouse moves over the triggering element, or when the triggering element receives focus, the Tooltip should be rendered.
-
 When the mouse moves away from the triggering element, or when the triggering element loses focus, the Tooltip should be removed or hidden.
-
 If the aria-describedby attribute is programmatically changed on the triggering element while it still has focus, a description\_changed event will fire so that assistive technologies can convey the new Tooltip information appropriately.
 
 ### Why is it important?
@@ -108,9 +102,6 @@ If the aria-describedby attribute is programmatically changed on the triggering 
 ## Guidance
 
 * Tooltips are attached to an element and appear when the element is hovered over
-* The show and hide delays of a tooltip may vary depending on the need, but the default is 200ms to show and 0ms to hide
-* Tooltips cannot be interacted with.
-
 
 ## Code patterns for Joomla and Joomla extension
 
