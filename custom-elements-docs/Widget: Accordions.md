@@ -65,7 +65,7 @@ The accordion takes up one **tab** stop in the tab order. It can be navigated wi
 * **aria-disabled**: If the accordion panel is expanded and is not allowed to be collapsed, then set to true.
 * **aria-labelledby**: Points to the accordion header; labels the landmark region with the accordion header.
 
-| **Role** | **States, and Properties** | **HTML tag** | - |
+| **Role** | **States, and&nbsp;Properties**&nbsp;&nbsp; | **HTML tag** | - |
 | --- | --- | --- | --- |
 | **tablist** | - | - | - |
 | **tab** | - | - | - |
