@@ -134,8 +134,8 @@ Checkbox can be navigated with the following shortcuts:
 [...]
 
 ## WCAG Reference
-* **1.3.1 Info and Relationships**(https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic) - Level A
-* **1.3.3 Sensory Characteristics**(https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-understanding) - Level A 
-* **2.1.1 Keyboard**(https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable) - Level A
-* **4.1.2 Name, Role, Value**(https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv) - Level A
+* **[1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)** - Level A
+* **[1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-understanding)** - Level A 
+* **[2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)** - Level A
+* **[4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)** - Level A
 
