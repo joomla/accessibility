@@ -6,7 +6,7 @@
 
 **Description**: A tooltip is a contextual popup that displays a description for an element. The tooltip typically becomes visible in response to a mouse hover, or after the owning element receives keyboard focus.
 
-##Resources
+## Resources
 
 ### Design Patterns
 
