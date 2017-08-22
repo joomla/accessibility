@@ -24,10 +24,10 @@
 
 ### Articles
 
-* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
 * [Building a fully-accessible help tooltip](https://www.sarasoueidan.com/blog/accessible-tooltips/)
 * [How can I make Twitter Bootstrap tooltips accessible?](https://stackoverflow.com/questions/19290384/how-can-i-make-twitter-bootstrap-tooltips-accessible)
 * [Thread: best tooltip markup and behavior?](http://webaim.org/discussion/mail_thread?thread=5041)
+* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
 
 ### Accessibility specification
 Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1.
