@@ -117,7 +117,6 @@ Checkbox can be navigated with the following shortcuts:
 
 ## Best practices
 * Surround a related set of checkboxes with a &lt;fieldset>. The &lt;legend> provides context for the grouping. Do not use fieldset and legend for a single check.
-* The custom checkboxes here are accessible to screen readers because the default checkboxes are moved off-screen with position: absolute; left: -999em.
 * Each input should have a semantic id attribute, and its corresponding label should have the same value in it's for attribute.
 * The title attribute can replace &lt;label>.
 * Users should be able to tap on or click on either the text label or the checkbox to select or deselect an option.
