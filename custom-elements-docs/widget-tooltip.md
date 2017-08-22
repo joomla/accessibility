@@ -76,11 +76,17 @@ Tooltip can be navigated with the following shortcuts:
 ### Notes:
 
 An element that includes role="tooltip" should not be focusable.
+
 Instead, aria-describedby must be set on the triggering element so that it references the ID of the container element that includes role="tooltip".
+
 The triggering element may consist of any active element or interactive widget type that is focusable and includes a valid role.
+
 If the triggering element does not consist of a native active element, it must be made keyboard accessible.
+
 When the mouse moves over the triggering element, or when the triggering element receives focus, the Tooltip should be rendered.
+
 When the mouse moves away from the triggering element, or when the triggering element loses focus, the Tooltip should be removed or hidden.
+
 If the aria-describedby attribute is programmatically changed on the triggering element while it still has focus, a description\_changed event will fire so that assistive technologies can convey the new Tooltip information appropriately.
 
 ### Why is it important?
