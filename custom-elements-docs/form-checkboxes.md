@@ -10,12 +10,6 @@
 * A single checkbox is used when a user is able to select or not select an option
 * When clicked, a checkbox's state toggles between unchecked and checked
 * Checkboxes can have an indeterminate state that is set based on external interactions (e.g., indicating that some but not all items in a collection are selected)
-* Checkbox labels should use sentence casing
-* Use concise labels
-* Align vertically when possible
-* Align in shorter columns if there are many options
-* The selected state of a checkbox should ideally indicate something 'positive' and may require the rephrasing of the label (e.g., Send me weekly reminders, vs. Do not send me weekly reminders)
-* Ensure there is adequate spacing between adjacent fields and radio/checkbox groups
 
 ## Resources
 
@@ -123,6 +117,12 @@ Checkbox can be navigated with the following shortcuts:
 * List options vertically if possible; horizontal listings can make it difficult to tell which label pertains to which checkbox.
 * Avoid using negative language in labels as they can be counterintuitive. For example, "I want to receive a promotional email" instead of "I don't want to receive promotional email."
 * If you customize, make sure selections are adequately spaced for touch screens.
+* Checkbox labels should use sentence casing
+* Use concise labels
+* Align vertically when possible
+* Align in shorter columns if there are many options
+* The selected state of a checkbox should ideally indicate something 'positive' and may require the rephrasing of the label (e.g., Send me weekly reminders, vs. Do not send me weekly reminders)
+* Ensure there is adequate spacing between adjacent fields and radio/checkbox groups
 
 ## Code patterns for Joomla and Joomla extension
 
