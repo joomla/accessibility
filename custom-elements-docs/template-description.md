@@ -1,26 +1,35 @@
-Name (title)
-What is this
-[…]
-Design Patterns
+### Name (title)
 
-Accessibility (Keyboard Interaction)
+#### What is this
 […]
-ARIA markup
+
+#### Design Patterns
+
+#### Accessibility (Keyboard Interaction)
 […]
-Why is it important?
+
+#### ARIA markup
 […]
-Usability
-When to use
+
+#### Why is it important?
 […]
-When to consider something else
+
+#### Usability
+##### When to use
 […]
-Use in Joomla
+ 
+##### When to consider something else
 […]
-Code patterns for Joomla and Joomla extension
-Current
+
+##### Use in Joomla
 […]
-Improved
+
+#### Code patterns for Joomla and Joomla extension
+##### Current
 […]
-Guidance
+##### Improved
 […]
-WCAG reference
+##### Guidance
+[…]
+#### WCAG reference
+
