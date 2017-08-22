@@ -6,9 +6,6 @@
 
 **Description**: A tooltip is a contextual popup that displays a description for an element. The tooltip typically becomes visible in response to a mouse hover, or after the owning element receives keyboard focus.
 
-
-[See: 2.23 Tooltip.](https://www.w3.org/TR/wai-aria-practices-1.1/)
-
 ##Resources
 
 ### Design Patterns
@@ -25,7 +22,6 @@
 * [Frend - A collective](https://frend.co/components/tooltip/)
 * [ghosh - microtip](https://github.com/ghosh/microtip)
 
-
 ### Articles
 
 * [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
@@ -34,8 +30,9 @@
 * [Thread: best tooltip markup and behavior?](http://webaim.org/discussion/mail_thread?thread=5041)
 
 ### Accessibility specification
-
 Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1.
+
+[See: 2.23 Tooltip.](https://www.w3.org/TR/wai-aria-practices-1.1/)
 
 ## Accessibility
 
