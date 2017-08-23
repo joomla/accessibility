@@ -168,32 +168,22 @@ The alert messages are displayed at the place marked in the template with a spec
 Alerts can be displayed from any component, module, plugin or template using the methods outlined below.
 
 ```php
-_// Get a handle to the Joomla! application object_
----
-$application = JFactory::getApplication();
----
-_// Add a message to the message queue_
----
-$application->enqueueMessage(JText::\_('SOME\_ERROR\_OCCURRED'), 'error');
----
+ // Get a handle to the Joomla! application object
+ $application = JFactory::getApplication();
+ // Add a message to the message queue_
+ $application->enqueueMessage(JText::\_('SOME\_ERROR\_OCCURRED'), 'error');
 ```
 
-_/\*\* Alternatively you may use chaining \*/_
-
----
+_Alternatively you may use chaining_
 
 ```php
 JFactory::getApplication()->enqueueMessage(JText::\_('SOME\_ERROR\_OCCURRED'), 'error');
 ```
----
-
 General syntax is:
 
 ```php
 JFactory::getApplication()->enqueueMessage('Your Message', 'type');
 ```
----
-
 The second argument to the enqueueMessage function is the type of the message. The default is ' _message_'.
 
 Type can be one of:
