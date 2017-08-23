@@ -7,7 +7,7 @@
    - [Radio button](/custom-elements-docs/Form-Radio-buttons)   
  - Messages
    - [Alert](/custom-elements-docs/Message-Alert)
-   - [Modal](/custom-elements-docs/Message-Modal)
+   - [Dialog (Modal)](/custom-elements-docs/Message-Dialog-Modal)
  - Navigation
    - [Pagination](/custom-elements-docs/Navigation-Pagination) 
  - Widgets
