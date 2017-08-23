@@ -3,6 +3,6 @@
 
 - Components
  - [Form Button](/custom-elements-docs/Form-Button)
- - [Form Calendar](/custom-elements-docs/Form-Callender)
- - [Form Checkboxes](/custom-elements-docs/Form-Checkboxes)
- - [Form Colorpicker](/custom-elements-docs/Form-Colorpicker)
+ - [Accordion](/custom-elements-docs/Widget-Accordions.md)
+ - [Tabs](/custom-elements-docs/Widget-Tabs.md)
+ - [Tooltip](/custom-elements-docs/Widget-Tooltip)
