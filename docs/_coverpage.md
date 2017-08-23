@@ -10,9 +10,8 @@
 - Fully customizable
 - CSS framework agnostic
 
-
-[GitHub](https://github.com/joomla-projects/custom-elements/)
 [Get Started](/quickstart)
+[GitHub](https://github.com/joomla-projects/custom-elements/)
 
 <!-- background color -->
 ![color](rgb(55, 101, 78))
