@@ -92,5 +92,10 @@ We use the following terminology when discussing this pattern.
 * [Pagination by ZURB Foundation](http://foundation.zurb.com/sites/docs/pagination.html)
 
 ### Articles
+* [Accessible pagination by Accessibility Matters](http://www.a11ymatters.com/pattern/pagination/).
+* [Pagination – Examples And Good Practices](https://www.smashingmagazine.com/2007/11/pagination-gallery-examples-and-good-practices/)
+* [MIke West: An Accessible Pagination Pattern](https://mikewest.org/2010/02/an-accessible-pagination-pattern) 
+* [Joe Watkins: Accessible Pagination Test](https://codepen.io/joe-watkins/pen/EgXGZo)
+* [Hanny Elemary: Accessible pagination with ARIA](http://hanyelemary.com/?p=889)
+* [Pagination by ZURB Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html)
 * [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
-
