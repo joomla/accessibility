@@ -171,13 +171,13 @@ Alerts can be displayed from any component, module, plugin or template using the
  // Get a handle to the Joomla! application object
  $application = JFactory::getApplication();
  // Add a message to the message queue_
- $application->enqueueMessage(JText::\_('SOME\_ERROR\_OCCURRED'), 'error');
+ $application->enqueueMessage(JText::_('SOME_ERROR_OCCURRED'), 'error');
 ```
 
 _Alternatively you may use chaining_
 
 ```php
-JFactory::getApplication()->enqueueMessage(JText::\_('SOME\_ERROR\_OCCURRED'), 'error');
+JFactory::getApplication()->enqueueMessage(JText::_('SOME_ERROR_OCCURRED'), 'error');
 ```
 General syntax is:
 
