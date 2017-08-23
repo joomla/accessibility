@@ -3,6 +3,7 @@
 
 - Components
  - [Form Button](/custom-elements-docs/Form-Button)
- - [Accordion](/custom-elements-docs/Widget-Accordions.md)
- - [Tabs](/custom-elements-docs/Widget-Tabs.md)
- - [Tooltip](/custom-elements-docs/Widget-Tooltip)
+ - Widgets
+   - [Accordion](/custom-elements-docs/Widget-Accordions.md)
+   - [Tabs](/custom-elements-docs/Widget-Tabs.md)
+   - [Tooltip](/custom-elements-docs/Widget-Tooltip)
