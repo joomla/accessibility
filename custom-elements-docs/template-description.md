@@ -1,13 +1,20 @@
 ### Name (title)
 
 #### What is this
+**Purpose**: […]
+**Description**: [...]
+
+#### Accessibility
+##### Accessibility specification
 […]
-
-#### Design Patterns
-
-#### Accessibility (Keyboard Interaction)
+##### Keyboard Interaction
 […]
-
+##### Screenreader Interaction
+[…]
+##### Mouse Interaction
+[…]
+##### Touch Interaction
+[…]
 #### ARIA markup
 […]
 
@@ -24,12 +31,18 @@
 ##### Use in Joomla
 […]
 
-#### Code patterns for Joomla and Joomla extension
+#### Design Patterns
+(Code patterns for Joomla and Joomla extensions)
+
 ##### Current
 […]
 ##### Improved
 […]
-##### Guidance
+
+##### Best practics
 […]
+
 #### WCAG reference
+
+#### Resources
 
