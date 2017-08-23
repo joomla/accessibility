@@ -11,7 +11,7 @@
 - CSS framework agnostic
 
 [Get Started](/quickstart)
-[GitHub](https://github.com/joomla-projects/custom-elements/)
+[GitHub](https://github.com/joomla/accessibility/)
 
 <!-- background color -->
 ![color](rgb(55, 101, 78))
