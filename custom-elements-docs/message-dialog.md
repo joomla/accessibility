@@ -1,6 +1,4 @@
-
 # Dialog (Modal)
-
 ## What is this
 
 **Purpose**:
@@ -23,7 +21,7 @@ Modal Dialogs are only usable when JS is enabled.
 
 * [WAI ARIA Practices 1.1 - dialog](https://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html)
 * [W3C using ARIA role=dialog](https://www.w3.org/WAI/GL/wiki/Using_Aria_role%3Ddialog_to_implement_a_modal_dialog_box)
-* - Bootstrap (v4) Modal
+* [Bootstrap (v4) Modal](https://v4-alpha.getbootstrap.com/components/modal/)
 * [Accessible jQuery-ui Components (Dialog Widget)](https://hanshillen.github.io/jqtest/)
 * [Open Ajax Accessibility ex. 2](http://oaa-accessibility.org/example/2/)
 * [Mozilla Org Accessibility ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_dialog_role)
@@ -39,7 +37,6 @@ Accessible dialog is defined in WAI-ARIA Authoring Practices 1.1.
 * See about role ddialog: [WAI-ARIA 1.1.](https://www.w3.org/TR/2016/CR-wai-aria-1.1-20161027/#dialog)
 
 ## Accessibility
-
 
 ### Small Screens
 
@@ -82,11 +79,10 @@ In the following description, the term tabbable element refers to any element wi
 **Close Dialog**
 
 When a dialog closes, focus returns to the element that invoked the dialog unless either:
-
-   - The invoking element no longer exists. Then, focus is set on another element that provides logical work flow.
-   - The work flow design includes the following conditions that can occasionally make focusing a different element a more logical choice:
-     - It is very unlikely users need to immediately re-invoke the dialog.
-     - The task completed in the dialog is directly related to a subsequent step in the work flow.
+* The invoking element no longer exists. Then, focus is set on another element that provides logical work flow.
+* The work flow design includes the following conditions that can occasionally make focusing a different element a more logical choice:
+* It is very unlikely users need to immediately re-invoke the dialog.
+* The task completed in the dialog is directly related to a subsequent step in the work flow.
 
 For example, a grid has an associated toolbar with a button for adding rows. the Add Rows button opens a dialog that prompts for the number of rows. After the dialog closes, focus is placed in the first cell of the first new row.
 
@@ -117,12 +113,8 @@ For example, a grid has an associated toolbar with a button for adding rows. the
 | --- | --- | --- | --- |
 | dialog | - | div | The role="dialog" attribute identifies the div element as a ARIA dialog. |
 | - | aria-labelledby="IDREF" | div | Gives the dialog an accessible name by referring to the element that provides the dialog title. |
-| - | aria-describedby="IDREF" | div |  - Gives the dialog an accessible description by referring to the dialog content that describes the primary message or purpose of the dialog.
- - Used in three of the four dialogs included in the example. See the above accessibility features section for an explanation.
-
- |
+| - | aria-describedby="IDREF" | div | Gives the dialog an accessible description by referring to the dialog content that describes the primary message or purpose of the dialog.<br />Used in three of the four dialogs included in the example. See the above accessibility features section for an explanation. |
 | - | aria-modal="true" | div | Tells assistive technologies that the windows underneath the current dialog are not available for interaction (inert). |
-
 
 ## Usability
 
@@ -150,7 +142,6 @@ Inexperienced users who do not understand the principle of overlaying windows tr
 
 * Nearly all 3rd party components use this technique.
 
-
 ## Code patterns for Joomla and Joomla extension
 
 ### Current
@@ -170,10 +161,7 @@ Joomla Components use the
 ```php
 JHtml::_('behavior.modal');
 ```
-
 See: administrator/components/com_banners/views/banners/tmpl/default.php
-
-uses libraries/cms/bootstrap
 
 https://github.com/joomla/joomla-cms/blob/3.8-dev/libraries/cms/html/bootstrap.php#L254
 
@@ -193,7 +181,4 @@ There are different types of dialogs which overlay the primary window.
 * **Alerts**: Overlaying windows which may require an (.. Bestätigung durch den user)
 * Popovers, Tooltips
 
-This document is on modal dialog windows
-
-
-
+This document is on modal dialog windows.
