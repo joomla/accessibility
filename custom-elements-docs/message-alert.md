@@ -62,12 +62,12 @@ Dynamically rendered alerts are automatically announced by most screen readers, 
 * As a notification that keeps people informed of the status of the system and which may or may not require the user to respond. This includes errors, warnings, and general updates.
 * As a validation message that alerts someone that they just did something that needs to be corrected or as confirmation that a task was completed successfully.
 
-### When to consider something else**
+### When to consider something else
 
 * On long forms, always include in-line validation in addition to any error messages that appear at the top of the form.
 * If an action will result in destroying a user's work (for example, deleting an application) use a more intrusive pattern, such as a confirmation modal dialogue, to allow the user to confirm that this is what they want.
 
-### Use in Joomla**
+### Use in Joomla
 
 Alerts are positioned at the very top of the main content area.
 
@@ -77,7 +77,7 @@ Alerts are positioned at the very top of the main content area.
 * Do not visually hide alert messages on the page and then make them visible when they are needed. Users of older assistive technologies may still be able to perceive the alert messages even if they are not currently applicable.
 * Ensure that information about type of alert denoted by the color is either obvious from the content itself (e.g. the visible text), or is included through alternative means, such as additional text hidden with the.sr-only class.
 
-## Code patterns for Joomla and Joomla extension**
+## Code patterns for Joomla and Joomla extension
 
 ### Current
 
@@ -90,29 +90,29 @@ Alerts are positioned at the very top of the main content area.
 * The text of the link is the x character, which may be incomprehensible to screen readers
 
 ```php
-<?php
-//...
 $msgList = $displayData['msgList'];
+
 ?>
 <div id="system-message-container">
- <?php if (is\_array($msgList) &&!empty($msgList)) :?>
- <div id="system-message">
- <?php foreach ($msgList as $type => $msgs) :?>
- <div class="alert alert-<?php echo $type;?>">
- <?php // This requires JS so we should add it through JS. Progressive enhancement and stuff.?>
- <a class="close" data-dismiss="alert">×</a>
- <?php if (!empty($msgs)) :?>
- <h4 class="alert-heading"><?php echo JText::\_($type);?></h4>
- <div>
- <?php foreach ($msgs as $msg) :?>
- <div class="alert-message"><?php echo $msg;?></div>
- <?php endforeach;?>
- </div>
- <?php endif;?>
- </div>
- <?php endforeach;?>
- </div>
- <?php endif;?>
+	<?php if (is_array($msgList) && !empty($msgList)) : ?>
+		<div id="system-message">
+			<?php foreach ($msgList as $type => $msgs) : ?>
+				<div class="alert alert-<?php echo $type; ?>">
+					<?php // This requires JS so we should add it through JS. Progressive enhancement and stuff. ?>
+					<a class="close" data-dismiss="alert">×</a>
+
+					<?php if (!empty($msgs)) : ?>
+						<h4 class="alert-heading"><?php echo JText::_($type); ?></h4>
+						<div>
+							<?php foreach ($msgs as $msg) : ?>
+								<div class="alert-message"><?php echo $msg; ?></div>
+							<?php endforeach; ?>
+						</div>
+					<?php endif; ?>
+				</div>
+			<?php endforeach; ?>
+		</div>
+	<?php endif; ?>
 </div>
 ```
 
@@ -127,30 +127,31 @@ $msgList = $displayData['msgList'];
 
 ```php
 <?php
-//...
+// ...
 $msgList = $displayData['msgList'];
+
 ?>
 <div id="system-message-container">
- <?php if (is\_array($msgList) &&!empty($msgList)) :?>
- <div id="system-message">
- <?php foreach ($msgList as $type => $msgs) :?>
- <div class="alert alert-<?php echo $type;?>" role="alert">
- <?php // This requires JS so we should add it trough JS. Progressive enhancement and stuff.?>
- <?php if (!empty($msgs)) :?>
- <h4 class="alert-heading"><?php echo JText::\_($type);?></h4>
- <div>
- <?php foreach ($msgs as $msg) :?>
- <div class="alert-message"><?php echo $msg;?></div>
- <?php endforeach;?>
- </div>
- <?php endif;?>
- <button type="button" class="close" data-dismiss="alert" aria-label="<?php echo JText::\_('JLIB\_HTML\_BEHAVIOR\_CLOSE');?>">
- <span aria-hidden="true">&times;</span>
- </button>
- </div>
- <?php endforeach;?>
- </div>
- <?php endif;?>
+   <?php if (is_array($msgList) && !empty($msgList)) : ?>
+      <div id="system-message">
+         <?php foreach ($msgList as $type => $msgs) : ?>
+         <div class="alert alert-<?php echo $type; ?>" role="alert">
+            <?php // This requires JS so we should add it trough JS. Progressive enhancement and stuff. ?>
+            <?php if (!empty($msgs)) : ?>
+            <h4 class="alert-heading"><?php echo JText::_($type); ?></h4>
+         <div>
+            <?php foreach ($msgs as $msg) : ?>
+               <div class="alert-message"><?php echo $msg; ?></div>
+            <?php endforeach; ?>
+         </div>
+      <?php endif; ?>
+            <button type="button" class="close" data-dismiss="alert" aria-label="<?php echo JText::_('JLIB_HTML_BEHAVIOR_CLOSE'); ?>">
+               <span aria-hidden="true">&times;</span>
+            </button>
+      </div>
+   <?php endforeach; ?>
+   </div>
+   <?php endif; ?>
 </div>
 ```
 
