@@ -1,8 +1,15 @@
 - Getting started
  - [Quick start](/quickstart)
 
-- Components
- - [Form Button](/custom-elements-docs/Form-Button)
+- UI components
+ - Forms element
+   - [Checkboxes](/custom-elements-docs/Form-Checkboxes)
+   - [Radio button](/custom-elements-docs/Form-Radio-buttons)   
+ - Messages
+   - [Alert](/custom-elements-docs/Message-Alert)
+   - [Modal](/custom-elements-docs/Message-Modal)
+ - Navigation
+   - [Pagination](/custom-elements-docs/Navigation-Pagination) 
  - Widgets
    - [Accordion](/custom-elements-docs/Widget-Accordions.md)
    - [Tabs](/custom-elements-docs/Widget-Tabs.md)
