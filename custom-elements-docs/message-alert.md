@@ -1,4 +1,4 @@
-# Messages - Alert
+# Alert
 
 ## What is this
 
