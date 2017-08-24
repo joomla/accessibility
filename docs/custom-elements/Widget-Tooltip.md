@@ -95,7 +95,7 @@ If the aria-describedby attribute is programmatically changed on the triggering 
 ### Design Patterns
 * [WAI ARIA practices - Work on this design pattern is in progress and tracked on Github](https://github.com/w3c/aria-practices/issues/128)
 * [Accessible jQuery-ui Components](http://hanshillen.github.io/jqtest/?tabid=tooltip)
-* [Bootstrap – ](http://getbootstrap.com/components/)
+* [Bootstrap 4.0: Tooltips](https://getbootstrap.com/docs/4.0/components/tooltips/)
 * [Open Ajax Accessibility ex. 39  - Tooltip](http://oaa-accessibility.org/example/39/) 
 * [Open Ajax Accessibility ex. 40 - Tooltip: ARIA CSS selectors](http://oaa-accessibility.org/example/40/)
 * Simple Tooltip by Whatsock.com: http://whatsock.com/tsg/Coding%20Arena/Tooltips/Tooltip%20(Internal%20Content)/demo.htm
