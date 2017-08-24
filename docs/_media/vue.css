@@ -33,8 +33,8 @@ div#app:empty:before {
 }
 
 .progress {
-  background-color: #42b983;
-  background-color: var(--theme-color, #42b983);
+  background-color: #1b63a2;
+  background-color: var(--theme-color, #1b63a2);
   height: 2px;
   left: 0;
   position: fixed;
@@ -47,8 +47,8 @@ div#app:empty:before {
 }
 
 .search .search-keyword, .search a:hover {
-  color: #42b983;
-  color: var(--theme-color, #42b983)
+  color: #1b63a2;
+  color: var(--theme-color, #1b63a2)
 }
 
 .search .search-keyword {
@@ -112,19 +112,19 @@ nav.app-nav li, nav.app-nav ul {
 nav.app-nav a {
   font-size: 16px;
   text-decoration: none;
-  color: inherit;
+  color:  #1b63a2;
   -webkit-transition: color .3s;
   transition: color .3s
 }
 
 nav.app-nav a.active, nav.app-nav a:hover {
-  color: #42b983;
-  color: var(--theme-color, #42b983)
+  color: #4086c4;
+  color: var(--theme-color, #4086c4)
 }
 
 nav.app-nav a.active {
-  border-bottom: 2px solid #42b983;
-  border-bottom: 2px solid var(--theme-color, #42b983)
+  border-bottom: 2px solid #4086c4;
+  border-bottom: 2px solid var(--theme-color, #4086c4)
 }
 
 nav.app-nav li {
@@ -192,8 +192,8 @@ nav.app-nav.no-badge {
   color: #fff;
   height: 80px;
   width: 80px;
-  fill: #42b983;
-  fill: var(--theme-color, #42b983)
+  fill: #1b63a2;
+  fill: var(--theme-color, #1b63a2)
 }
 
 .github-corner:hover .octo-arm {
@@ -216,7 +216,7 @@ main {
 }
 
 .anchor span {
-  color: #0036D9
+  color: #1b63a2
 }
 
 .anchor:hover {
@@ -313,8 +313,8 @@ main {
 }
 
 .sidebar-toggle span {
-  background-color: #42b983;
-  background-color: var(--theme-color, #42b983);
+  background-color: #1b63a2;
+  background-color: var(--theme-color, #1b63a2);
   display: block;
   width: 16px;
   height: 2px;
@@ -623,10 +623,10 @@ section.cover ul {
 }
 
 section.cover .cover-main > p:last-child a {
-  color:#42b983;
+  color:#1b63a2;
   border-radius: 2em;
-  border-color: #42b983;
-  border: 1px solid var(--theme-color, #42b983);
+  border-color: #1b63a2;
+  border: 1px solid var(--theme-color, #1b63a2);
   box-sizing: border-box;
   font-size: 1.05em;
   letter-spacing: .1em;
@@ -640,31 +640,31 @@ section.cover .cover-main > p:last-child a {
 
 section.cover .cover-main > p:last-child a:last-child {
   margin-right: 0;
-  color:#42b983;
+  color:#1b63a2;
 }
 
 section.cover .cover-main > p:last-child a:last-child:hover {
   opacity: .8;
-  background-color: #42b983;
+  background-color: #1b63a2;
   color: #fff
 }
 
 section.cover .cover-main > p:last-child a:hover {
   opacity: .8;
-  background-color: #42b983;
+  background-color: #1b63a2;
   color: #fff
 }
 
 section.cover blockquote > p > a {
-  border-bottom: 2px solid #42b983;
-  border-bottom: 2px solid var(--theme-color, #42b983);
+  border-bottom: 2px solid #1b63a2;
+  border-bottom: 2px solid var(--theme-color, #1b63a2);
   -webkit-transition: color .3s;
   transition: color .3s
 }
 
 section.cover blockquote > p > a:hover {
   background-color: #fff;
-  color: #42b983
+  color: #1b63a2
 }
 
 section.cover.show {
@@ -713,8 +713,8 @@ section.cover.has-mask .mask {
 }
 
 .sidebar ul li.active > a {
-  color: #42b983;
-  color: var(--theme-color, #42b983);
+  color: #1b63a2;
+  color: var(--theme-color, #1b63a2);
   font-weight: 600;
   border-right: 2px solid
 }
@@ -731,8 +731,8 @@ section.cover.has-mask .mask {
 }
 
 .markdown-section a {
-  color: #42b983;
-  color: var(--theme-color, #42b983);
+  color: #1b63a2;
+  color: var(--theme-color, #1b63a2);
   font-weight: 600
 }
 
@@ -780,8 +780,8 @@ section.cover.has-mask .mask {
 
 .markdown-section blockquote {
   color: #858585;
-  border-left: 4px solid #42b983;
-  border-left: 4px solid var(--theme-color, #42b983);
+  border-left: 4px solid #1b63a2;
+  border-left: 4px solid var(--theme-color, #1b63a2);
   margin: 2em 0;
   padding-left: 20px
 }
@@ -849,8 +849,8 @@ section.cover.has-mask .mask {
 }
 
 .token.string {
-  color: #42b983;
-  color: var(--theme-color, #42b983)
+  color: #1b63a2;
+  color: var(--theme-color, #1b63a2)
 }
 
 .token.selector {
@@ -867,8 +867,8 @@ section.cover.has-mask .mask {
 }
 
 .token.attr-value, .token.control, .token.directive, .token.unit {
-  color: #42b983;
-  color: var(--theme-color, #42b983)
+  color: #1b63a2;
+  color: var(--theme-color, #1b63a2)
 }
 
 .token.keyword {
@@ -950,8 +950,8 @@ pre:after {
 }
 
 section.cover.show {
-  background-color: #fff;
-  color:#000;
+  background-color: #1e013e;
+  color:#fff;
 }
 .cover-main img {
   padding-top: 20px;
