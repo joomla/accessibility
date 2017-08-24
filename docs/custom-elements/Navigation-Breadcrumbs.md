@@ -7,7 +7,7 @@ The term 'breadcrumbs' comes from the trail of breadcrumbs left by Hansel and Gr
 ### Keyboard interaction
 * **Tab** key moves from breadcrumb to breadcrumb. The last breadcrumb is not a link and therefore must not be in the tab order.
 
-### Screenreader internaction
+### Screenreader interaction
 * The screen reader will recognize the breadcrumbs as a navigation landmark.
 * Each breadcrumb will be announced as 'link', followed by the link text.
 * The screen reader will announce each separator symbol as 'greater than'. This is the typically convention for separating breadcrumbs.
@@ -27,7 +27,7 @@ The term 'breadcrumbs' comes from the trail of breadcrumbs left by Hansel and Gr
 * [Accessible breadcrumbs using ARIA](https://www.uvd.co.uk/blog/accessible-breadcrumbs-using-aria/)
 * [Chris Coyier: Exploring Markup for Breadcrumbs](https://css-tricks.com/markup-for-breadcrumbs/)
 * [Jacob Nielsen: Breadcrumb Navigation Increasingly Useful](https://www.nngroup.com/articles/breadcrumb-navigation-useful/)
-* [Michel Vloon: Mission Impossible? Making Drupal 7 more accessible(https://www.nomensa.com/blog/2015/mission-impossible-making-drupal-7-more-accessible)
+* [Michel Vloon: Mission Impossible? Making Drupal 7 more accessible](https://www.nomensa.com/blog/2015/mission-impossible-making-drupal-7-more-accessible)
 * [Brandon Leibowitz: Breadcrumb Navigation: Good for Website Usability or Not?](http://blog.usabilla.com/breadcrumb-navigation-good-website-usability-not/)
 
 ### Design patterns
