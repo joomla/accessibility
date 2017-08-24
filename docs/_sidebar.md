@@ -8,6 +8,7 @@
  - [Alert](custom-elements/Message-Alert.md)
  - [Dialog (Modal)](custom-elements/Message-Dialog-Modal.md)
 - **Navigation**
+ - [Breadcrumbs](custom-elements/Navigation-Breadcrumbs.md) 
  - [Pagination](custom-elements/Navigation-Pagination.md) 
 - **Widgets**
  - [Accordion](custom-elements/Widget-Accordions.md)
