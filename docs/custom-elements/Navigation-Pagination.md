@@ -85,12 +85,6 @@ We use the following terminology when discussing this pattern.
 * **[4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)** - Level A
 
 ## Resources
-### Design Patterns
-* [Pagination by Upsto design](http://uspto.github.io/designpatterns/1.x/docs/components/pagination.html)
-* [Accessible pagination by Accessibility Matters](http://www.a11ymatters.com/pattern/pagination/)
-* [Pagination by Bootstrap](http://getbootstrap.com/components/)
-* [Pagination by ZURB Foundation](http://foundation.zurb.com/sites/docs/pagination.html)
-
 ### Articles
 * [Accessible pagination by Accessibility Matters](http://www.a11ymatters.com/pattern/pagination/).
 * [Pagination – Examples And Good Practices](https://www.smashingmagazine.com/2007/11/pagination-gallery-examples-and-good-practices/)
@@ -99,3 +93,10 @@ We use the following terminology when discussing this pattern.
 * [Hanny Elemary: Accessible pagination with ARIA](http://hanyelemary.com/?p=889)
 * [Pagination by ZURB Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/components/pagination.html)
 * [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
+
+### Design Patterns
+* [Pagination by Upsto design](http://uspto.github.io/designpatterns/1.x/docs/components/pagination.html)
+* [Accessible pagination by Accessibility Matters](http://www.a11ymatters.com/pattern/pagination/)
+* [Bootstrap 4.0: Pagination](https://getbootstrap.com/docs/4.0/components/pagination/)
+* [ZURB Foundation: Pagination](http://foundation.zurb.com/sites/docs/pagination.html)
+
