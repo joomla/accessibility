@@ -2,14 +2,14 @@
  - [Quick start](/quickstart)
 - **Form controls**
  - [Callender (test)](/custom-elements-docs/Form-Callender)
- - [Checkboxes](/custom-elements-docs/Form-Checkboxes)
- - [Radio button](/custom-elements-docs/Form-Radio-buttons)   
+ - [Checkboxes](/custom-elements-docs/Form-Checkboxes.md)
+ - [Radio button](/custom-elements-docs/Form-Radio-buttons.md)   
 - **Messages**
- - [Alert](/custom-elements-docs/Message-Alert)
- - [Dialog (Modal)](/custom-elements-docs/Message-Dialog-Modal)
+ - [Alert](/custom-elements-docs/Message-Alert.md)
+ - [Dialog (Modal)](/custom-elements-docs/Message-Dialog-Modal.md)
 - **Navigation**
- - [Pagination](/custom-elements-docs/Navigation-Pagination) 
+ - [Pagination](/custom-elements-docs/Navigation-Pagination.md) 
 - **Widgets**
  - [Accordion](/custom-elements-docs/Widget-Accordions.md)
  - [Tabs](/custom-elements-docs/Widget-Tabs.md)
- - [Tooltip](/custom-elements-docs/Widget-Tooltip)
+ - [Tooltip](/custom-elements-docs/Widget-Tooltip.md)
