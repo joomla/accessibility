@@ -5,13 +5,12 @@
 
 **Description**:
 
- - Radio buttons come in a group of two or more mutually exclusive options.
- - A radio button is either checked or unchecked.
- - There can only be one radio button checked in a group.
+* Radio buttons come in a group of two or more mutually exclusive options.
+* A radio button is either checked or unchecked.
+* There can only be one radio button checked in a group.
 
 ## Accessibility
 ### Accessibility specification
-
 Accessible radio buttons specification is defined in WAI-ARIA Authoring Practices 1.1.
 
 See: [2.18 Radio Group](https://www.w3.org/TR/wai-aria-practices-1.1/).
@@ -50,13 +49,13 @@ ARIA markup
 
 | **Role** | **Attributes** | **Element** | **Usage** |
 | --- | --- | --- | --- |
-| radiogroup | - | div | The role="radiogroup" attribute identifies the div element as a container for a group of radio buttons.The descendent radio buttons are considered part of the group.The accessible name comes the aria-labelledby attribute, which points to the element that contains the label text.The radiogroup widget does not need a tabindex value, since the ul[role"radiogroup"] element never receives keyboard focus. |
+| radiogroup | - | div | The role="radiogroup" attribute identifies the div element as a container for a group of radio buttons.The descendent radio buttons are considered part of the group. The accessible name comes the aria-labelledby attribute, which points to the element that contains the label text. The radiogroup widget does not need a tabindex value, since the ul[role"radiogroup"] element never receives keyboard focus. |
 | - | aria-labelledby="[IDREF]" | div | The aria-labelledby attribute points to the element that contains the test for defining an accessible name (e.g. label) for the group of radio buttons. |
-| radio | - | div | The role="radio" attribute identifies the div element as an ARIA radio button.The accessible name comes the child text content of the div element.The radio widget has a manged tabindex value, one radio button must have a tabindex="0" and the rest of the daio buttons in the group a tabindex="-1".See HYPERLINK "https://www.w3.org/TR/wai-aria-practices-1.1/" \l "kbd\_roving\_tabindex" roving tabindex for more information |
-| - | tabindex="-1" | div | All radio buttons in a group that are unchecked, except for the first radio button in the case when no radio buttons are checked.[See roving tabindex for more information][7] |
-| - | tabindex="0" | div | The radio button that is checked, or if no radio button is checked the first radio button in the radio group.[See roving tabindex for more information][8] |
-| - | aria-checked="false" | div | Indentifies the radio button is not checked.CSS attribute selectors (e.g. [aria-checked="false"]) are used to synchronize the visual states with the value of the aria-checked attribute.The CSS :before psuedo selector and the content property is used to indicate visual state of unchecked to support high contrast setting in operating systems and browsers. |
-| - | aria-checked="true" | div | Indentifies the radio button is checked.CSS attribute selectors (e.g. [aria-checked="true"]) are used to synchronize the visual states with the value of the aria-checked attribute.The CSS :before psuedo selector and the content property is used to indicate visual state of checked to support high contrast setting in operating systems and browsers. |
+| radio | - | div | The role="radio" attribute identifies the div element as an ARIA radio button. The accessible name comes the child text content of the div element. The radio widget has a manged tabindex value, one radio button must have a tabindex="0" and the rest of the daio buttons in the group a tabindex="-1". See [ Managing Focus ... Using a Roving tabindex](https://www.w3.org/TR/wai-aria-practices-1.1/#kbd_roving_tabindex) for more information |
+| - | tabindex="-1" | div | All radio buttons in a group that are unchecked, except for the first radio button in the case when no radio buttons are checked. See [ Managing Focus ... Using a Roving tabindex](https://www.w3.org/TR/wai-aria-practices-1.1/#kbd_roving_tabindex) for more information |
+| - | tabindex="0" | div | The radio button that is checked, or if no radio button is checked the first radio button in the radio group. See [ Managing Focus ... Using a Roving tabindex](https://www.w3.org/TR/wai-aria-practices-1.1/#kbd_roving_tabindex) for more information  |
+| - | aria-checked="false" | div | Indentifies the radio button is not checked. CSS attribute selectors (e.g. [aria-checked="false"]) are used to synchronize the visual states with the value of the aria-checked attribute. The CSS :before psuedo selector and the content property is used to indicate visual state of unchecked to support high contrast setting in operating systems and browsers. |
+| - | aria-checked="true" | div | Indentifies the radio button is checked. CSS attribute selectors (e.g. [aria-checked="true"]) are used to synchronize the visual states with the value of the aria-checked attribute. The CSS :before psuedo selector and the content property is used to indicate visual state of checked to support high contrast setting in operating systems and browsers. |
 
 ### Why is it important?
 
@@ -107,9 +106,10 @@ Utilities
 
 ## Resources
 ### Articles
-* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
 * [Toggle Buttons](https://inclusive-components.design/toggle-button/)
-* [Accssible component modules: Aria Toggles, Checkboxes and Switches](http://whatsock.com/tsg/)
+* [Accessible component modules: Aria Toggles, Checkboxes and Switches](http://whatsock.com/tsg/)
+* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
+
 ### Design Patterns
 * [WAI ARIA practices - Radio group example using roving tabindex](https://www.w3.org/TR/wai-aria-practices-1.1/examples/radio/radio-1/radio-1.html)
 * [WAI ARIA practices - Radio group example using managed focus with aria-activedescendant](https://www.w3.org/TR/wai-aria-practices-1.1/examples/radio/radio-2/radio-2.html)
