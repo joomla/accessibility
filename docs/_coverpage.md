@@ -1,14 +1,13 @@
 ![logo](_images/80px-Joomla_logo.png)
 
 
-# Joomla Documentation of UI Accessible Components
+# Joomla Accessibility Documentation
 
-> Next generation components.
+> Joomla UI component specification.
 
-- Simple, fully functional and lightweight
-- Extremely small footprint, no dependencies
-- Fully customizable
-- CSS framework agnostic
+> Testing procedures.
+
+> Accessibility Tutorials
 
 [Get Started](/quickstart)
 [GitHub](https://github.com/joomla/accessibility/)
