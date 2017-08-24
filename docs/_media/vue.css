@@ -623,10 +623,10 @@ section.cover ul {
 }
 
 section.cover .cover-main > p:last-child a {
-  color:#1b63a2;
+  color:#75bee9;
   border-radius: 2em;
-  border-color: #1b63a2;
-  border: 1px solid var(--theme-color, #1b63a2);
+  border-color: #75bee9;
+  border: 1px solid var(--theme-color, #75bee9);
   box-sizing: border-box;
   font-size: 1.05em;
   letter-spacing: .1em;
@@ -640,18 +640,18 @@ section.cover .cover-main > p:last-child a {
 
 section.cover .cover-main > p:last-child a:last-child {
   margin-right: 0;
-  color:#1b63a2;
+  color:#75bee9;
 }
 
 section.cover .cover-main > p:last-child a:last-child:hover {
   opacity: .8;
-  background-color: #1b63a2;
+  background-color: #75bee9;
   color: #fff
 }
 
 section.cover .cover-main > p:last-child a:hover {
   opacity: .8;
-  background-color: #1b63a2;
+  background-color: #75bee9;
   color: #fff
 }
 
@@ -958,15 +958,6 @@ section.cover.show {
   max-height:300px;
 }
 
-section.cover.show {
-  background-color: #1e013e;
-  color:#fff;
-}
-.cover-main img {
-  padding-top: 20px;
-  max-height:300px;
-}
-
 section.cover .cover-main h1 > .anchor span {
   color: #75bee9
 }
@@ -987,3 +978,4 @@ body[data-page="README.md"] nav.app-nav a.active {
   border-bottom: 2px solid #1b63a2;
   border-bottom: 2px solid var(--theme-color, #1b63a2)
 }
+
