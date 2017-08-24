@@ -14,4 +14,4 @@
 [GitHub](https://github.com/joomla/accessibility/)
 
 <!-- background color -->
-![color](rgb(55, 101, 78))
+![color](rgb(255, 255, 255))
