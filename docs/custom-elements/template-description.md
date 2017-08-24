@@ -1,49 +1,51 @@
-## Name (title)
-
-### What is this
+# Name (title)
+## What is this
 **Purpose**: […]
 
 **Description**: [...]
 
-### Accessibility
-#### Accessibility specification
+## Accessibility
+### Accessibility specification
 […]
-#### Keyboard Interaction
+### Keyboard interaction
 […]
-#### Screenreader Interaction
+### Screen reader interaction
 […]
-#### Mouse Interaction
+### Mouse interaction
 […]
-#### Touch Interaction
+### Touch interaction
 […]
-### ARIA markup
-[…]
-
-### Why is it important?
+## ARIA markup
 […]
 
-### Usability
-#### When to use
+## Why is it important?
 […]
 
-#### When to consider something else
+## Usability
+### When to use
 […]
 
-#### Use in Joomla
+### When to consider something else
 […]
 
-### Design Patterns
-(Code patterns for Joomla and Joomla extensions)
-
-#### Current
-[…]
-#### Improved
+### Use in Joomla
 […]
 
-#### Best practics
+## Code patterns for Joomla and Joomla extensions
+
+### Current
+[…]
+### Improved
 […]
 
-### WCAG reference
+## Best practics
+[…]
 
-### Resources
+## WCAG reference
 
+## Resources
+## Articles
+[...]
+
+## Design Patterns
+[...]
