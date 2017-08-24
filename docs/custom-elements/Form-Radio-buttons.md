@@ -18,14 +18,14 @@ See: [2.18 Radio Group](https://www.w3.org/TR/wai-aria-practices-1.1/).
 ### Keyboard Interaction
 Tabbing into the group will set focus on the currently checked radio button. If no button is currently checked, focus will move to the first button or the last depending on whether TAB or SHIFT+TAB was used to enter the group.
 
-* **Tab and Shift+Tab: **Moves keyboard focus to the checked radio button in a radiogroup.
+* **Tab** and **Shift+Tab**: Moves keyboard focus to the checked radio button in a radiogroup.
 If no radio button is checked, focus moves to the first radio button in the group.
-* **Space:**  If the radio button with focus is unchecked, it's state will be changed to checked.
-* **Right**and **Down arrow:** Moves focus to next radio button in the group.
+* **Space**:  If the radio button with focus is unchecked, it's state will be changed to checked.
+* **Right** and **Down arrow**: Moves focus to next radio button in the group.
 If focus is on the last radio button in the group, move focus to the first radio button.
-* **Left**and **Up arrow:** Moves focus to previous radio button in the group.
+* **Left** and **Up arrow**: Moves focus to previous radio button in the group.
 If focus is on the first radio button in the group, move focus to the last radio but
-* **Enter:**  Submits the form that the radio group belongs to.
+* **Enter**:  Submits the form that the radio group belongs to.
 
 ### Screen reader Interaction
 
