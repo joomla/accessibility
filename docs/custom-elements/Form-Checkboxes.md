@@ -122,6 +122,7 @@ Checkbox can be navigated with the following shortcuts:
 * [Toggle Buttons](https://inclusive-components.design/toggle-button/)
 * [Accessible component modules: Aria Toggles, Checkboxes and Switches](http://whatsock.com/tsg/)
 * [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
+
 ### Design Patterns
 * [WAI ARIA practices - two state ](https://www.w3.org/TR/wai-aria-practices-1.1/examples/checkbox/checkbox-1/checkbox-1.html)
 * [WAI ARIA practices - mixed state ](https://www.w3.org/TR/wai-aria-practices-1.1/examples/checkbox/checkbox-2/checkbox-2.html)
