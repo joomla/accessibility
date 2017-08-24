@@ -103,7 +103,7 @@ Warning! This label will override any inner text that may be present. This prope
 * [WAI ARIA practices - Actions Menu Button Example Using aria-activedescendant](https://www.w3.org/TR/wai-aria-practices-1.1/examples/menu-button/menu-button-actions-active-descendant.html)
 * [Accessible jQuery-ui Components - Buttons](http://hanshillen.github.io/jqtest/?tabid=tooltip#goto_button)
 * [U.S. Web Design Standards - Buttons](https://standards.usa.gov/components/buttons/)
-* [Bootstrap - Put the link to the example, ...](http://getbootstrap.com/components/)
+* [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/components/buttons/)
 * [Open Ajax Accessibility ex. 3  - Button role example using text-only buttons  ](http://oaa-accessibility.org/example/3/)
 * [Open Ajax Accessibility ex. 4 - Button role example using image buttons ](http://oaa-accessibility.org/example/4/)
 * [EBay MIND patterns](http://ianmcburnie.github.io/mindpatterns/input/button/)
