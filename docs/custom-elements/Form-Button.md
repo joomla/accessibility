@@ -34,18 +34,12 @@ Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1
 * Any description must be announced (i.e. via aria-describedby).
 
 ### Pointer interaction
-
 * Clicking on the button executes the action for the button.
 * If focus is on another element when a button is clicked with a mouse, the focus moves to the clicked button.
 * If focus is on another element and the mouse is moved over a button, a visual indicator is provided to show that the button may be clicked, but focus does not yet move.
 * If focus is on another element and the mouse is moved over a button then moved away, the visual indicator goes away and focus is unchanged.
 
-### Touch Interaction
-
-[Describe the expected behavior]
-
 ## ARIA markup
-
 This section lists all relevant ARIA roles, states and properties for a button.
 
 * **aria-haspopup**: Informs AT that the button opens a menu when clicked.
@@ -56,26 +50,20 @@ Warning! This label will override any inner text that may be present. This prope
 * **aria-describedby**: Informs AT of any extended description or context related to the button. Note that this property has no effect on the accessible label of the button.
 
 ## Why is it important?
-
 [...]
 
 ## Utilities
-
 ### When to use
-
 * Use buttons for the most important actions you want users to take on your site, such as "download," "sign up," or "log out."
 
 ### When to consider something else
-
 * If you want to lead users between pages of a website. Use links instead.
 * Less popular or less important actions may be visually styled as links.
 
 ### Use in Joomla
-
  - [...]
 
 ## Best practices
-
 * Use the &lt;a> tag if the button is a link to another page, or a link to an anchor within a page.
 * Use the &lt;button> tag if the button performs an action that changes something on the current page.
 * Generally, use primary buttons for actions that go to the next step and use secondary buttons for actions that happen on the current page.
@@ -89,7 +77,6 @@ Warning! This label will override any inner text that may be present. This prope
 * Make sure that the text of the button is descriptive. If for some reason, your button contains no readable text (for example, just a symbol or icon), add screen reader-only text to the button to clarify its purpose. The symbol or icon should be wrapped in an element with the attribute aria-hidden="true", to prevent screen readers from trying to pronounce the symbol.
 
 ## Code patterns for Joomla and Joomla extension
-
 ### Current
 
 [...]
