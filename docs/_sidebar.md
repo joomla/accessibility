@@ -9,6 +9,6 @@
 - **Navigation**
  - [Pagination](/custom-elements-docs/Navigation-Pagination) 
 - **Widgets**
-  - [Accordion](/custom-elements-docs/Widget-Accordions.md)
-  - [Tabs](/custom-elements-docs/Widget-Tabs.md)
-  - [Tooltip](/custom-elements-docs/Widget-Tooltip)
+ - [Accordion](/custom-elements-docs/Widget-Accordions.md)
+ - [Tabs](/custom-elements-docs/Widget-Tabs.md)
+ - [Tooltip](/custom-elements-docs/Widget-Tooltip)
