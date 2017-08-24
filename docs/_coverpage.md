@@ -1,7 +1,7 @@
 ![logo](_images/80px-Joomla_logo.png)
 
 
-# Joomla UI components
+# Joomla Documentation of UI Accessible Components
 
 > Next generation components.
 
