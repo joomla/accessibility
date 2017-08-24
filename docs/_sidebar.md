@@ -1,5 +1,5 @@
 - **Getting started**
- - [Quick start](docs/quickstart.md)
+ - [Quick start](/quickstart.md)
 - **Form controls**
  - [Callender (test)](/custom-elements-docs/Form-Callender)
  - [Checkboxes](/custom-elements-docs/Form-Checkboxes.md)
