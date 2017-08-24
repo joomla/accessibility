@@ -3,9 +3,9 @@
 
 # Joomla Accessibility Documentation
 
-> Joomla UI component specification.
+> Joomla UI component specification
 
-> Testing procedures.
+> Testing procedures
 
 > Accessibility Tutorials
 
