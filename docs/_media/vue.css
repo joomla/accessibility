@@ -216,7 +216,7 @@ main {
 }
 
 .anchor span {
-  color: #42b983
+  color: #0036D9
 }
 
 .anchor:hover {
@@ -950,8 +950,8 @@ pre:after {
 }
 
 section.cover.show {
-  background-color: #1e013e;
-  color:#fff;
+  background-color: #fff;
+  color:#000;
 }
 .cover-main img {
   padding-top: 20px;
