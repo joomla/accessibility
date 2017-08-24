@@ -1,14 +1,14 @@
-- Getting started
+- **Getting started**
  - [Quick start](/quickstart)
-- Forms element
+- **Form controls**
  - [Checkboxes](/custom-elements-docs/Form-Checkboxes)
  - [Radio button](/custom-elements-docs/Form-Radio-buttons)   
-- Messages
+- **Messages**
  - [Alert](/custom-elements-docs/Message-Alert)
  - [Dialog (Modal)](/custom-elements-docs/Message-Dialog-Modal)
-- Navigation
+- **Navigation**
  - [Pagination](/custom-elements-docs/Navigation-Pagination) 
-- Widgets
+- **Widgets**
   - [Accordion](/custom-elements-docs/Widget-Accordions.md)
   - [Tabs](/custom-elements-docs/Widget-Tabs.md)
   - [Tooltip](/custom-elements-docs/Widget-Tooltip)
