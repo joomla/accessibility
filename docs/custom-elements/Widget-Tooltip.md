@@ -4,25 +4,6 @@
 
 **Description**: A tooltip is a contextual popup that displays a description for an element. The tooltip typically becomes visible in response to a mouse hover, or after the owning element receives keyboard focus.
 
-## Resources
-### Design Patterns
-* [WAI ARIA practices - Work on this design pattern is in progress and tracked on Github](https://github.com/w3c/aria-practices/issues/128)
-* [Accessible jQuery-ui Components](http://hanshillen.github.io/jqtest/?tabid=tooltip)
-* [Bootstrap – ](http://getbootstrap.com/components/)
-* [Open Ajax Accessibility ex. 39  - Tooltip](http://oaa-accessibility.org/example/39/) 
-* [Open Ajax Accessibility ex. 40 - Tooltip: ARIA CSS selectors](http://oaa-accessibility.org/example/40/)
-* [Live demo: Simple Tooltip by http://whatsock.com](http://whatsock.com/tsg/Coding%20Arena/Tooltips/Tooltip%20(Internal%20Content)/demo.htm)
-* [PaulJAdam's Modern Web Accessibility Demos](http://pauljadam.com/demos/)
-* [jQuery API documentation](http://api.jqueryui.com/tooltip/)
-* [Tooltip Dialog by Deque ](https://dequeuniversity.com/library/aria/popups-dialogs/sf-tooltip-dialog)
-* [Frend - A collective](https://frend.co/components/tooltip/)
-* [ghosh - microtip](https://github.com/ghosh/microtip)
-### Articles
-* [Building a fully-accessible help tooltip](https://www.sarasoueidan.com/blog/accessible-tooltips/)
-* [How can I make Twitter Bootstrap tooltips accessible?](https://stackoverflow.com/questions/19290384/how-can-i-make-twitter-bootstrap-tooltips-accessible)
-* [Thread: best tooltip markup and behavior?](http://webaim.org/discussion/mail_thread?thread=5041)
-* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
-
 ### Accessibility specification
 Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1.
 
@@ -104,4 +85,22 @@ If the aria-describedby attribute is programmatically changed on the triggering 
 * **[2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)** - Level A
 * **[4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)** - Level A
 
+## Resources
+### Articles
+* [Building a fully-accessible help tooltip](https://www.sarasoueidan.com/blog/accessible-tooltips/)
+* [How can I make Twitter Bootstrap tooltips accessible?](https://stackoverflow.com/questions/19290384/how-can-i-make-twitter-bootstrap-tooltips-accessible)
+* [Thread: best tooltip markup and behavior?](http://webaim.org/discussion/mail_thread?thread=5041)
+* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
 
+### Design Patterns
+* [WAI ARIA practices - Work on this design pattern is in progress and tracked on Github](https://github.com/w3c/aria-practices/issues/128)
+* [Accessible jQuery-ui Components](http://hanshillen.github.io/jqtest/?tabid=tooltip)
+* [Bootstrap – ](http://getbootstrap.com/components/)
+* [Open Ajax Accessibility ex. 39  - Tooltip](http://oaa-accessibility.org/example/39/) 
+* [Open Ajax Accessibility ex. 40 - Tooltip: ARIA CSS selectors](http://oaa-accessibility.org/example/40/)
+* Simple Tooltip by Whatsock.com: http://whatsock.com/tsg/Coding%20Arena/Tooltips/Tooltip%20(Internal%20Content)/demo.htm
+* [PaulJAdam's Modern Web Accessibility Demos](http://pauljadam.com/demos/)
+* [jQuery API documentation](http://api.jqueryui.com/tooltip/)
+* [Tooltip Dialog by Deque ](https://dequeuniversity.com/library/aria/popups-dialogs/sf-tooltip-dialog)
+* [Frend - A collective](https://frend.co/components/tooltip/)
+* [ghosh - microtip](https://github.com/ghosh/microtip)
