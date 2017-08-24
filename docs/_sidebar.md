@@ -2,7 +2,6 @@
  - [Quick start](quickstart.md)
 - **Form controls**
  - [Button](custom-elements/Form-Button.md)
- - [Callender (test)](custom-elements/Form-Callender.md)
  - [Checkboxes](custom-elements/Form-Checkboxes.md)
  - [Radio button](custom-elements/Form-Radio-buttons.md)   
 - **Messages**
