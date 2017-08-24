@@ -957,3 +957,33 @@ section.cover.show {
   padding-top: 20px;
   max-height:300px;
 }
+
+section.cover.show {
+  background-color: #1e013e;
+  color:#fff;
+}
+.cover-main img {
+  padding-top: 20px;
+  max-height:300px;
+}
+
+section.cover .cover-main h1 > .anchor span {
+  color: #75bee9
+}
+body[data-page="README.md"] nav.app-nav a {
+  color:  #75bee9;	
+}
+
+body[data-page="README.md"] nav.app-nav a.active  {
+  color: #75bee9;
+  color: var(--theme-color, #75bee9)
+}
+body[data-page="README.md"] nav.app-nav a:hover {
+  color: #a2d6f5;
+  color: var(--theme-color, #a2d6f5)
+}
+
+body[data-page="README.md"] nav.app-nav a.active {
+  border-bottom: 2px solid #1b63a2;
+  border-bottom: 2px solid var(--theme-color, #1b63a2)
+}
