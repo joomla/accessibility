@@ -1,9 +1,11 @@
 # Breadcrumbs (draft)
+## What it this
 **Purpose**: Users need to understand their current location and navigate within a hierarchical navigation scheme.
 
 **Description**: Breadcrumbs display the current path to a particular page relative to the starting point. Breadcrumbs let the user know their current position in the site hierarchy and the ability to navigate up the structure easily.
 The term 'breadcrumbs' comes from the trail of breadcrumbs left by Hansel and Gretel in the popular fairytale.
 
+## Accessibility
 ### Keyboard interaction
 * **Tab** key moves from breadcrumb to breadcrumb. The last breadcrumb is not a link and therefore must not be in the tab order.
 
@@ -11,6 +13,17 @@ The term 'breadcrumbs' comes from the trail of breadcrumbs left by Hansel and Gr
 * The screen reader will recognize the breadcrumbs as a navigation landmark.
 * Each breadcrumb will be announced as 'link', followed by the link text.
 * The screen reader will announce each separator symbol as 'greater than'. This is the typically convention for separating breadcrumbs.
+
+## ARIA markup
+[...]
+
+## Utilities
+### When to use
+[...]
+### When to consider something else
+[...]
+## Use in Joomla
+* Module **Breadcrumbs**
 
 ## Best Practices
 * Breadcrumbs are typically used as secondary navigation on sites that are organized in a hierarchical manner.
