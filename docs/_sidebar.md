@@ -1,4 +1,4 @@
-- [Introduction](custom-elements/Form-Button.md)
+- [Introduction](custom-elements/introduction.md)
 - **Form controls**
  - [Button](custom-elements/Form-Button.md)
  - [Checkboxes](custom-elements/Form-Checkboxes.md)
