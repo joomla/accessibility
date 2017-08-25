@@ -10,7 +10,7 @@ The goal of the Joomla Accessibility Team is to create a complete documentation 
 
 Part of the work on Joomla 4 is [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements/) project, which aims to create a library of their own Joomla UI components.
 
-In the future, this documentation will be synchronized with the [Joomla UI Components]https://joomla-projects.github.io/custom-elements/#/) project documentation.
+In the future, this documentation will be synchronized with the [Joomla UI Components](https://joomla-projects.github.io/custom-elements/#/) project documentation.
 
 ## Who is this documentation for?
 
