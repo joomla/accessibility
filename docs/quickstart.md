@@ -8,6 +8,7 @@ For example: alert, buton, checkobox and accordion, calendar, tabs are the user 
 
 The goal of the Joomla Accessibility Team is to create a complete documentation of the accessibility of Joomla UI components.
 
+### This project and Joomla UI custom elements project
 Part of the work on Joomla 4 is [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements/) project, which aims to create a library of their own Joomla UI components.
 
 In the future, this documentation will be synchronized with the [Joomla UI Components](https://joomla-projects.github.io/custom-elements/#/) project documentation.
@@ -23,6 +24,9 @@ You can also contribute to the documentation.
 If you do not already have a component specification, you can develop it or develop a draft for it.
 * [Use the instructions for the author](INSTRUCTION.md) of the specification.
 * [Use the specification template](template-description.md).
+
+### Test Joomla UI custom elements
+You can also contribute to the development of this documentation by testing the new Joomla UI components that are part of the [Joomla UI Components](https://joomla-projects.github.io/custom-elements/#/). 
 
 ### Submit your suggestions
 If you have comments, suggestions for changes, corrections, report them [using the Issues](https://github.com/joomla/accessibility/issues).
