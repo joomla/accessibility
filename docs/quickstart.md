@@ -26,7 +26,7 @@ If you do not already have a component specification, you can develop it or deve
 * [Use the specification template](template-description.md).
 
 ### Test Joomla UI custom elements
-You can also contribute to the development of this documentation by testing the new UI custom elements that are part of the [Joomla UI Components](https://joomla-projects.github.io/custom-elements/#/). 
+You can also contribute to the development of this documentation by testing the new UI custom elements that are part of the [Joomla UI Components](https://joomla-projects.github.io/custom-elements/#/) project. 
 
 ### Submit your suggestions
 If you have comments, suggestions for changes, corrections, report them [using the Issues](https://github.com/joomla/accessibility/issues).
