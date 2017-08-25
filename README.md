@@ -13,13 +13,13 @@ Web accessibility means designing and developing your website so that people wit
 
 Our main goal is to make all the Joomla Properties, the CMS, Framework and Portal, compliant with the WCAG 2.0 AA standard, a set of rules that make sure all aspects of a website or platform is Accessible for people with disabilities
 
-## This repositorium
+## This repository
 This repository contains:
 * [Joomla Accessibility Tutorials](https://github.com/joomla/accessibility/tree/master/docs/tutorials)
 * [Joomla accessibility of Joomla UI Components](https://github.com/joomla/accessibility/tree/master/docs/custom-elements)
 * [Accessibility Testing Procedures Documentation](https://github.com/joomla/accessibility/tree/master/docs/testing)
 
-## How can you help?
+## How you can help?
 The Joomla Community would love if you could keep volunteering at the Joomla Accessibility Team (JAT). 
 If that is the case, we can schedule a call to know a little bit more about you and your work, and about your objectives at the JAT.
 
