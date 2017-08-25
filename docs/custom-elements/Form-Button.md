@@ -12,8 +12,8 @@ All button labels are sentence case. They should be as short as possible while c
 ### Accessibility specification
 
 Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1.
-
-[See: 2.6 Button. ](https://www.w3.org/TR/wai-aria-practices-1.1/)
+* [See: 2.6 Button. ](https://www.w3.org/TR/wai-aria-practices-1.1/#button)
+* [See also about rolu button](https://www.w3.org/TR/wai-aria-1.1/#button)
 
 ### Keyboard interaction
 
@@ -93,8 +93,11 @@ Warning! This label will override any inner text that may be present. This prope
 
 ## Resources
 ### Articles
-* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
 * [Using the button role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)
+* [WebAIM: Creating Accessible Forms](http://webaim.org/techniques/forms/controls)
+* [Paul J. Adam: Building Accessible Buttons with ARIA: A11y Support Series](https://www.deque.com/blog/accessible-aria-buttons/)
+* [Nicholas C. Zakas: Making accessible icon buttons](https://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
+* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
 
 ### Design Patterns
 
@@ -104,7 +107,7 @@ Warning! This label will override any inner text that may be present. This prope
 * [Accessible jQuery-ui Components - Buttons](http://hanshillen.github.io/jqtest/?tabid=tooltip#goto_button)
 * [U.S. Web Design Standards - Buttons](https://standards.usa.gov/components/buttons/)
 * [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/components/buttons/)
-* [Open Ajax Accessibility ex. 3  - Button role example using text-only buttons  ](http://oaa-accessibility.org/example/3/)
+* [Open Ajax Accessibility ex. 3 - Button role example using text-only buttons  ](http://oaa-accessibility.org/example/3/)
 * [Open Ajax Accessibility ex. 4 - Button role example using image buttons ](http://oaa-accessibility.org/example/4/)
 * [EBay MIND patterns](http://ianmcburnie.github.io/mindpatterns/input/button/)
 
