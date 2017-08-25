@@ -20,7 +20,7 @@ This repository contains:
 * [Accessibility Testing Procedures Documentation](https://github.com/joomla/accessibility/tree/master/docs/testing)
 
 ## How can you help?
-The Joomla Community would love if you could keep volunteering at the JAT. 
+The Joomla Community would love if you could keep volunteering at the Joomla Accessibility Team (JAT). 
 If that is the case, we can schedule a call to know a little bit more about you and your work, and about your objectives at the JAT.
 
 If you would like to volunteer or contribute to our team in any way, we would love to have you on board! Please join us or contact us on [Volunteers Portal](https://volunteers.joomla.org/teams/accessibility-team).
