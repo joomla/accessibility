@@ -4,7 +4,7 @@ This is a repository for everyone who wants to collaborate in implementing acces
 Here you can find [a presentation of all documents ](https://joomla.github.io/accessibility/#/).
 
 ## What is Joomla!?
-Joomla! is a Content Management System (CMS) which enables you to build websites and powerful online applications.
+[Joomla!](https://www.joomla.org/about-joomla.html) is a Content Management System (CMS) which enables you to build websites and powerful online applications.
 
 ## What is Accessibility?
 Web accessibility means designing and developing your website so that people with disabilities can perceive, understand, navigate, and interact with, and contribute to, the  Web.
