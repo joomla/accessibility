@@ -9,7 +9,7 @@ Our goal is to create a complete documentation of the accessibiliity of Joomla u
 
 In the future, this documentation will be synchronized with the [Joomla UI Components](https://joomla-projects.github.io/custom-elements/#/) project documentation.
 
-## How can you help
+## How can you help?
 You can also contribute to the documentation.
 
 ### Develop a specification that is not yet available.
