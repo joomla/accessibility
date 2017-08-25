@@ -13,10 +13,13 @@ In the future, this documentation will be synchronized with the [Joomla UI Compo
 You can also contribute to the documentation
 
 ### Develop a specification that is not yet available.
-
+If you do not already have a component specification, you can develop it or develop a draft for it.
+* [Use the instructions for the author](INSTRUCTION.md) of the specification
+* [Use the specification template](template-description.md)
 ### Submit your suggestions
+If you have comments, suggestions for changes, corrections, report them [using the option Issues](https://github.com/joomla/accessibility/issues)
 
 ### Report Pull request
-
+You can also report [Pull request](https://github.com/joomla/accessibility/pulls). To do this, you must first create your local repository
 ## License
-Documentation is published under the terms of the [Joomla! Electronic Documentation License v 1.0](https://docs.joomla.org/JEDL)
+Documentation is published under the terms of the [Joomla! Electronic Documentation License v 1.0](LICENSE.md)
