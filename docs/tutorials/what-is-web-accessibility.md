@@ -9,9 +9,9 @@ The Web is for all people, for everyone. This idea was best expressed by W3C Dir
 However, when websites, web technologies or web tools are poorly designed, they can create barriers that exclude users from the Web.
 
 ## Dispute over definition
-Occasionally, the dispute over the definition of accessibility is revived. In general, we meet two approaches to accessibility, two perspectives. 
-
-Representatives of the first approach saying that "accessibility" means "possible to access for everyone". Representatives of the second approach saying that "accessibility" means "possible to access for people with disabilities".
+Occasionally, the dispute over the definition of accessibility is revived. In general, we meet two approaches to accessibility, two perspectives: 
+* Representatives of the first approach saying that "accessibility" means "possible to access for everyone". 
+* Representatives of the second approach saying that "accessibility" means "possible to access for people with disabilities".
 
 In fact, there are no contradictions between the two approaches. Design that recognizes the needs of all people also serves people with disabilities. Designing for people with disabilities brings benefits to all people, also people without disabilities.
 
