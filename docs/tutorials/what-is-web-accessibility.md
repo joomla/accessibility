@@ -1,10 +1,10 @@
 # What is Web accessibility?
-There are many different definitions of accessibility. We will use the W3C WAI definition:
+There are many different definitions of accessibility. We will use the [W3C WAI definition](https://www.w3.org/WAI/intro/accessibility):
 
 > Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web. Web accessibility also benefits others, including older people with changing abilities due to aging.
 
 ## Web is for all people
-The Web is for all people, for everyone. This idea was best expressed by W3C Director and inventor of the World Wide Web, Tim John Berners-Lee in words:
+The Web is for all people, for everyone. This idea was best expressed by W3C Director and inventor of the World Wide Web, **Tim John Berners-Lee** in the words:
 > The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
 However, when websites, web technologies or web tools are poorly designed, they can create barriers that exclude users from the Web.
 
