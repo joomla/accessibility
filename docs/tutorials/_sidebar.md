@@ -3,7 +3,7 @@
 - **Intro to Accessibility**
  - [What is Web accessibility](tutorials/what-is-web-accessibility)
 - **Understanding Accessibility**
- -
+ - [Understanding disability](tutorials/understanding-disability)
 - **Standards & Law**
  - 
 - **Accessibility Design**
