@@ -6,7 +6,6 @@ There are many different definitions of accessibility. We will use the [W3C WAI 
 ## Web is for all people
 The Web is for all people, for everyone. This idea was best expressed by W3C Director and inventor of the World Wide Web, **Tim John Berners-Lee** in the words:
 > The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
-However, when websites, web technologies or web tools are poorly designed, they can create barriers that exclude users from the Web.
 
 ## Dispute over definition
 Occasionally, the dispute over the definition of accessibility is revived. In general, we meet two approaches to accessibility, two perspectives: 
