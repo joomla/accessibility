@@ -1,5 +1,7 @@
 - **Getting started**
  - [Quick start](tutorials/)
+- **Intro to accessibility**
+ - [What is Web accessibility](what-is-web-accessibility.md) 
 - **Example**
  - [Screenreader testing](tutorials/sc-testing)
  - [NVDA testing](tutorials/sc-nvda-testing)
