@@ -10,8 +10,7 @@ Here you can find [a presentation of all documents ](https://joomla.github.io/ac
 Web accessibility means designing and developing your website so that people with disabilities can perceive, understand, navigate, and interact with, and contribute to, the  Web.
 
 ## Our mission
-
-Our main goal is to make all the Joomla Properties, the CMS, Framework and Portal, compliant with the WCAG 2.0 AA standard, a set of rules that make sure all aspects of a website or platform is Accessible for people with disabilities.
+Our mission is to make all the Joomla properties, the CMS, framework and portal accessible for everyone, for all people, no matter what their ability, disability, age, device, Internet connection, user-agent.
 
 ## This repository
 This repository contains:
