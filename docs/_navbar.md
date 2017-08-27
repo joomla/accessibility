@@ -1,3 +1,3 @@
 [Tutorials](/tutorials/)
-[UI Components](/quickstart)
+[UI Components](/custom-elements/)
 [Testing](/testing/)
