@@ -9,8 +9,6 @@ We will not guarantee that our pages will be accessible to everyone without unde
 People capabilities can be broken down into various categories, of which the following four are particularly relevant for website interaction.
 
 ## Vision capabilities
-
-
 <img src="../_images/visual.png" alt="Vision sign" align="right">
 
 Vision is the ability to use the colour and brightness of light to perceive objects, distinguish them, and detect them. People have different vision problems. In general, we can distinguish three groups:
@@ -32,6 +30,8 @@ People who have color disabilities may need the right colors and more contrast a
 
 
 ## Motor and dexterity capabilities
+<img src="../_images/motor.png" alt="Motor sign" align="right">
+
 Web browsing requires a keyboard and pointing device. These tasks require the skill and dexterity of the hands and shoulders. Many people have different difficulties with manipulating their hands. These difficulties include:
  
 * Amputation of limbs or fingers or other parts of the human body
@@ -51,6 +51,8 @@ People with dexterity disabilities may have little or no motor control in their 
 Many can continue to operate the computer with one hand, one foot, eyes, a headpointer or a mouth stick or other assistive technologies such as adaptive keyboards, switches, sip and puff, etc.
 
 ## Hearing
+<img src="../_images/hearing.png" alt="Hearing sign" align="right">
+
 The hearing is the ability to differentiate specific tones or speech from ambient noise and orientation, where sounds come from.
 Hearing disorders include:
 
@@ -61,6 +63,8 @@ Hearing disorders include:
 Deaf and hearing impaired people need sound alternatives - transcripts and captions and information in clear, comprehensible language.
 
 ## Intellectual capabilities
+<img src="../_images/intelectual.png" alt="Intellectual sign" align="right">
+
 There are many types of intellectual disability that limit the ability to perceive, recognize, understand, interpret or respond to information.
 
 **Learning difficulties**
