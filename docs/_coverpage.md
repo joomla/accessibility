@@ -3,14 +3,15 @@
 
 # Joomla Accessibility Documentation
 
+> Accessibility Tutorials
+
 > Joomla UI component specification
 
 > Testing procedures
 
-> Accessibility Tutorials
 
-[Get Started](/quickstart)
 [GitHub](https://github.com/joomla/accessibility/)
+[Get Started](/quickstart)
 
 <!-- background color -->
 ![color](rgb(37, 48, 79))
