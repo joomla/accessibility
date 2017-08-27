@@ -1,6 +1,11 @@
 # Understanding disability
 Each individual is unique. People have diverse abilities, skills, preferences, and expectations that can impact how they use the Web. 
 
+We will not guarantee that our pages will be accessible to everyone without understanding:
+* Why people experience problems using websites?
+* What kind of difficulty they are experiencing?
+* What support technologies do they use to cope with them to meet the challenges?
+
 ## Types of user capabilities
 People capabilities can be broken down into various categories, of which the following four are particularly relevant for website interaction.
 
@@ -81,6 +86,29 @@ There are many types of intellectual disability that limit the ability to percei
 * many other disorders.
 
 This group of people uses such assistive technologies as word prediction aids, reading/writing comprehension aids.
+
+## Statistics disability
+Here are some statistics showing the disability problem.
+* Over a billion people, about 15% of the world's population, have some form of disability.
+* Between 110 million and 190 million adults have significant difficulties in functioning.
+* Rates of disability are increasing due to population ageing and increases in chronic health conditions, among other causes.
+* Between 250 million and 500 million people worldwide suffer a spinal cord injury.
+* 300 million people worldwide are affected by depression
+* 47 million people worldwide have dementia
+
+The table below shows the percentage of different types of disability on the example of USA. 
+As we can see the largest group of disability is learning disability. It affects nearly half of USA population. 
+We do not expect much difference in Europe. The next one is motor impairment – strightly connected with only-keyboard users.
+
+| Disability types | Frequency |
+| --- | --- |
+| Learning disabilities | 45.7%
+| Motor impairments | 13.9%
+| Health impairments | 11.6%
+| Mental illness | 7.8% |
+| Hearing impairments | 5.6% | 
+| Visually impairments | 4.4% |
+| Speech impairments | 0.9% |
 
 ## Feature reading
 * [Diversity of Web Users. How People with Disabilities Use the Web](https://www.w3.org/WAI/intro/people-use-web/diversity#auditory)
