@@ -109,7 +109,7 @@ We do not expect much difference in Europe. The next one is motor impairment –
 | Visually impairments | 4.4% |
 | Speech impairments | 0.9% |
 
-## Feature reading
+## Further reading
 * [Diversity of Web Users. How People with Disabilities Use the Web](https://www.w3.org/WAI/intro/people-use-web/diversity#auditory)
 * [Inclusive Design Toolkit: About users](http://www.inclusivedesigntoolkit.com/usercapabilities/usercap.html)
 * [Visual Disabilities - Introduction](http://webaim.org/articles/visual/)
