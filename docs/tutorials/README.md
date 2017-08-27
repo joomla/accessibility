@@ -7,7 +7,7 @@ The Joomla Accessibility Team is responsible for educating and popularizing acce
 
 Initiating and organizing the work on these tutorials is one way to accomplish the mission of the team.
 
-## Get Involved
+## Get involved
 You can also help. The Joomla Accessible Team needs your time and talent.
 Authors, editors, correctionists, documentalists - anyone can help. 
 
