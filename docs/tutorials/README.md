@@ -10,7 +10,6 @@ Initiating and organizing the work on these tutorials is one way to accomplish t
 ## Get involved
 You can also help. The Joomla Accessible Team needs your time and talent.
 Authors, editors, correctionists, documentalists - anyone can help. 
-
 Joomla means "all together". Together we will achieve our goal more quickly. 
 
 Create the required chapter or article. Suggest changes. Correct errors. Develop a better version of an existing part. Add illustrations, examples. Report a fault. Suggest new topics.
