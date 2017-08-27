@@ -20,5 +20,5 @@
 - **Tools & Reesources**
  - 
 - **Dictionary**
- - [Terms of accessibility](glossarry-accessibility)
- - [Terms of disability](glossary-disability)
+ - [Terms of accessibility](tutorials/glossary-accessibility)
+ - [Terms of disability](tutorials/glossary-disability)
