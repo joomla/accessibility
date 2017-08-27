@@ -19,3 +19,6 @@
  - [NVDA testing](tutorials/sc-nvda-testing)
 - **Tools & Reesources**
  - 
+- **Dictionary**
+ - Terms of accessibility(glossarry-accessibility)
+ - Terms of disability(glossary-disability)
