@@ -72,7 +72,6 @@ There are many types of intellectual disability that limit the ability to percei
 * Limited short-term memory
 * Missing long-term memory
 * Limited ability to recall language
-* Epilepsy - may be subject to epileptic episodes
 * Alzheimer's disease
 * Parkinson's disease
 * Multiple sclerosis 
@@ -97,7 +96,7 @@ Here are some statistics showing the disability problem.
 
 The table below shows the percentage of different types of disability on the example of USA. 
 As we can see the largest group of disability is learning disability. It affects nearly half of USA population. 
-We do not expect much difference in Europe. The next one is motor impairment – strightly connected with only-keyboard users.
+The next one is motor impairment – strightly connected with only-keyboard users.
 
 | Disability types | Frequency |
 | --- | --- |
