@@ -9,7 +9,7 @@ We will not guarantee that our pages will be accessible to everyone without unde
 People capabilities can be broken down into various categories, of which the following four are particularly relevant for website interaction.
 
 ## Vision capabilities
-<img src="../_images/visual.png" alt="Vision sign" align="right">
+<img src="https://raw.githubusercontent.com/joomla/accessibility/master/docs/_images/visual.png" alt="Vision sign" align="right">
 
 Vision is the ability to use the colour and brightness of light to perceive objects, distinguish them, and detect them. People have different vision problems. In general, we can distinguish three groups:
 * Blindness - unable to see visual information
