@@ -979,3 +979,4 @@ body[data-page="README.md"] nav.app-nav a.active {
   border-bottom: 2px solid var(--theme-color, #1b63a2)
 }
 
+p img[align="right"] {margin-left:1em} 
