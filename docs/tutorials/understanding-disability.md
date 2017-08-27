@@ -10,7 +10,9 @@ People capabilities can be broken down into various categories, of which the fol
 
 ## Vision capabilities
 
-<img src="../_images/visual.png" alt="Vision sign" align="left">
+
+<img src="../_images/visual.png" alt="Vision sign" align="right">
+
 Vision is the ability to use the colour and brightness of light to perceive objects, distinguish them, and detect them. People have different vision problems. In general, we can distinguish three groups:
 * Blindness - unable to see visual information
 * Low vision (loss of central or peripheral vision, blurred vision, generalized haze, extreme light sensitivity); low vision significant visual impairment that can't be corrected fully with glasses, contact lenses, medication or eye surgery
