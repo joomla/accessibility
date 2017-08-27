@@ -1,6 +1,5 @@
 # Understanding disability
 Each individual is unique. People have diverse abilities, skills, preferences, and expectations that can impact how they use the Web. 
-
 We will not guarantee that our pages will be accessible to everyone without understanding:
 * Why people experience problems using websites?
 * What kind of difficulty they are experiencing?
