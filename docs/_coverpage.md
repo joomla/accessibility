@@ -11,7 +11,7 @@
 
 
 [GitHub](https://github.com/joomla/accessibility/)
-[Get Started](/quickstart)
+[Get Started](/totorials/)
 
 <!-- background color -->
 ![color](rgb(37, 48, 79))
