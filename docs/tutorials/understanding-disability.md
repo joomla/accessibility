@@ -9,11 +9,10 @@ We will not guarantee that our pages will be accessible to everyone without unde
 People capabilities can be broken down into various categories, of which the following four are particularly relevant for website interaction.
 
 ## Vision capabilities
-![vision sign](https://github.com/joomla/accessibility/_images/visual.svg)
 Vision is the ability to use the colour and brightness of light to perceive objects, distinguish them, and detect them. People have different vision problems. In general, we can distinguish three groups:
 * Blindness - unable to see visual information
 * Low vision (loss of central or peripheral vision, blurred vision, generalized haze, extreme light sensitivity); low vision significant visual impairment that can't be corrected fully with glasses, contact lenses, medication or eye surgery
-* [Color deficiency](http://www.color-blindness.com/)
+* Color deficiency
   * Deuteranopia – red-green color blindness
   * Protanopia – red color blindness  
   * Tritanopia – blue-yellow color blindness
