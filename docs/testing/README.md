@@ -14,4 +14,4 @@ Anyone can help. If you are an advisor, auditor or accessibility tester and you 
 Join us to help improve the of Joomla accessibility. You can also help us occasionally - post your comments on testing procedures, submit your own procedures, etc.
 
 ## License
-Documentation is published under the terms of the [Joomla! Electronic Documentation License v 1.0](../docs/custom-elementsLICENSE.md).
+Documentation is published under the terms of the [Joomla! Electronic Documentation License v 1.0](../custom-elementsLICENSE.md).
