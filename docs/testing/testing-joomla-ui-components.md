@@ -8,6 +8,7 @@ Instigated by Stefan Wajda and begun 6 August 2017
 
 ### Introduction
 The purpose of this document is to collect and develop a set of procedures for testing and evaluating Joomla UI components for their accessibility. It is supplied as an RFC.
+
 Please, contribute to RFCs, speak up, if you think you may have anything to contribute, comment, improve, suggest your own ideas. Together we will do more, faster and better.
 
 ### Description policy

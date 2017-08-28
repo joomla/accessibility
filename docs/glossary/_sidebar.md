@@ -1,0 +1,3 @@
+- [Quick start](glossary/)
+- [Term of Accessibility](glossary/glossary-accessibility)
+- [Term of Disability](glossary/glossary-disability)

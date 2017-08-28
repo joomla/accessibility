@@ -1,4 +1,4 @@
-# Joomla accessibility of Joomla UI Components 
+# Accessibility of Joomla UI Components 
 ## What is it?
 This is the repository of documents defining the requirements for the accessibiliity of the Joomla user interface components (Joomla UI Components).
 

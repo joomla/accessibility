@@ -5,14 +5,21 @@
 - **Understanding Accessibility**
  - [Understanding disability](tutorials/understanding-disability)
 - **Standards & Law**
- - 
+ - [W3C WAI](tutorials/sl-wai)
+ - [WCAG 2.0](tutorials/sl-wcag-2-0)
+ - [ATAG 2.0](tutorials/sl-atag-2-0)
+ - [UAAG 2.0](tutorials/sl-uaag-2-0)
+ - [WAI-ARIA 1.1](tutorials/sl-wai-aria-1-1) 
+ - [DHTML Style guide](tutorials/sl-dhtml-style-guide)
+ - [US Web design standards](tutorials/sl-us-web-design-standards)
+ 
 - **Accessibility Design**
  - 
 - **Accessibility Content**
  - 
-- **Accessibility template**
+- **Accessibility Template**
  - 
-- **Accessibility management**
+- **Accessibility Management**
  - 
 - **Evaluation & Testing**
  - [Screenreader testing](tutorials/sc-testing)

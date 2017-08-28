@@ -1,4 +1,4 @@
 - **Getting started**
- - [Quick start](testing/quickstart)
+ - [Quick start](testing/)
 - **Example**
  - [Testing procedures](testing/testing)
