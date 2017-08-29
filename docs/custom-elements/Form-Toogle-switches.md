@@ -26,17 +26,14 @@
 * User may click / touch a switch to toggle the state
 
 ## ARIA markup
-**role="switch" attribute**
+* **role="switch" attribute**
+   Indicates that the widget is a switch that represents on/off values, as opposed to checked/unchecked values.
+*  **aria-pressed** attribute
+   Indicates the current "pressed" state of toggle buttons. If the attribute is not present, the button is not a toggle button.
+   
+   Toggle buttons require a full press-and-release cycle to change their value. Activating it once changes the value to true, and activating it another time changes the value back to false.
 
-Indicates that the widget is a switch that represents on/off values, as opposed to checked/unchecked values.
-
-**aria-pressed** attribute
-
-Indicates the current "pressed" state of toggle buttons. If the attribute is not present, the button is not a toggle button.
-
-Toggle buttons require a full press-and-release cycle to change their value. Activating it once changes the value to true, and activating it another time changes the value back to false.
-
-The aria-pressed attribute is similar but not identical to the aria-checked attribute. Operating systems support pressed on buttons and checked on checkboxes
+   The aria-pressed attribute is similar but not identical to the aria-checked attribute. Operating systems support pressed on buttons and checked on checkboxes
 
 ### Why is it important?
 
