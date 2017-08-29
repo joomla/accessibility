@@ -83,7 +83,8 @@ _The content for this section is not yet available, please check back again for 
 
 ### Design Patterns
 * [U.S. Web Design Standards - Tables][4]
-* [Bootstrap 4.0 - Table - ][5][MIND EBay  ][6]
+* [Bootstrap 4.0 - Table - ][5]
+* [MIND EBay  ][6]
 
 ### Articles
 * [WebAIM: Creating Accessible Tables][7]
