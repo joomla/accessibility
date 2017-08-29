@@ -14,8 +14,8 @@ You can also contribute to the documentation.
 
 ### Develop a specification that is not yet available.
 If you do not already have a component specification, you can develop it or develop a draft for it.
-* [Use the instructions for the author](INSTRUCTION.md) of the specification.
-* [Use the specification template](template-description.md).
+* [Use the instructions for the author](custom-elements/INSTRUCTION.md) of the specification.
+* [Use the specification template](custom-elements/template-description.md).
 ### Submit your suggestions
 If you have comments, suggestions for changes, corrections, report them [using the Issues](https://github.com/joomla/accessibility/issues).
 
