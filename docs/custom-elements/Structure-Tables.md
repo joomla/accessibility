@@ -35,7 +35,7 @@ The only special consideration for table is sortable columns. Typically this is 
 The only special consideration for table is sortable columns. Typically this is achieved by adding a toggle button as the contents of the table header cell. The usual rules for button apply.
 
 ## ARIA markup
-* role=" presentation": If you need to use a layout formatting table, use this role
+* **role=" presentation"**: If you need to use a layout formatting table, use this role
 
 ## Why is it important?
 > **Why is this important?**
