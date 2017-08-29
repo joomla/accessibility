@@ -7,6 +7,8 @@
 - **Messages**
  - [Alert](custom-elements/Message-Alert)
  - [Dialog (Modal)](custom-elements/Message-Dialog-Modal)
+- **Structure**
+ - [Tables](custom-elements/Structure-Tables)
 - **Navigation**
  - [Breadcrumbs](custom-elements/Navigation-Breadcrumbs) 
  - [Pagination](custom-elements/Navigation-Pagination) 
