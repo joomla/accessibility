@@ -1,15 +1,15 @@
-- [Introduction](introduction)
+- [Introduction](custom-elements/introduction)
 - **Form controls**
- - [Button](Form-Button)
- - [Checkboxes](Form-Checkboxes)
- - [Radio button](Form-Radio-buttons)   
+ - [Button](custom-elements/Form-Button)
+ - [Checkboxes](custom-elements/Form-Checkboxes)
+ - [Radio button](custom-elements/Form-Radio-buttons)   
 - **Messages**
- - [Alert](Message-Alert)
- - [Dialog (Modal)](Message-Dialog-Modal)
+ - [Alert](custom-elements/Message-Alert)
+ - [Dialog (Modal)](custom-elements/Message-Dialog-Modal)
 - **Navigation**
- - [Breadcrumbs](Navigation-Breadcrumbs) 
- - [Pagination](Navigation-Pagination) 
+ - [Breadcrumbs](custom-elements/Navigation-Breadcrumbs) 
+ - [Pagination](custom-elements/Navigation-Pagination) 
 - **Widgets**
- - [Accordion](Widget-Accordions)
- - [Tabs](Widget-Tabs)
- - [Tooltip](Widget-Tooltip)
+ - [Accordion](custom-elements/Widget-Accordions)
+ - [Tabs](custom-elements/Widget-Tabs)
+ - [Tooltip](custom-elements/Widget-Tooltip)
