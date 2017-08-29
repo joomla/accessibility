@@ -6,11 +6,11 @@
 **Description**: Tables show tabular data in columns and rows.
 
 ## Accessibility
+
 ### Accessibility specification
 Simple tables can have two levels of headers. Each header cell should have scope="col" or scope="row".
-
 * Complex tables are tables with more than two levels of headers. Each header should be given a unique id and each data cell should have a headers attribute with each related header cell's id listed.
-* When adding a title to a table, include it in a <caption> tag inside of the <table> element.
+* When adding a title to a table, include it in a <caption> tag inside of the &lt;table> element.
 
 ## Design interaction
 ### Screen look, behavior
