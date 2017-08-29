@@ -1,4 +1,4 @@
-- [Introduction](custom-elements/introduction)
+- [Introduction](custom-elements/README)
 - **Form controls**
  - [Button](custom-elements/Form-Button)
  - [Checkboxes](custom-elements/Form-Checkboxes)
