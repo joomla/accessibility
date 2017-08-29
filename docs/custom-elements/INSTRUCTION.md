@@ -10,7 +10,7 @@
 - [USPTO UI Design Library](http://uspto.github.io/designpatterns/1.x/docs/index.html)
 - [The A11Y Project](http://a11yproject.com/patterns.html)
 - [AccDC Technical Style Guide](http://whatsock.com/tsg/)
-- [Code Library (Beta) by Deque](https://dequeuniversity.com/library/aria/tabpanels-accordions/sf-responsive-tabs-to-accordion)
+- [Code Library (Beta) by Deque](https://dequeuniversity.com/library/)
    
    **Note**:
    You can complete this list if you find here the specification that is not mentioned here.
