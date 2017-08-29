@@ -79,7 +79,7 @@ _The content for this section is not yet available, please check back again for 
 
 ## Resources
 ### WCAG reference
-* 1.3.1 Info and Relationships (Level A): Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.
+* **[1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)** - Level A:   Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.
 
 ### Design Patterns
 * [U.S. Web Design Standards - Tables][4]
