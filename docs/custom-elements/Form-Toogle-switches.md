@@ -6,7 +6,7 @@
 **Description**: A switch provides approximately the same functionality as a checkbox and toggle button, but makes it possible for assistive technologies to present the widget in a fashion consistent with its on-screen appearance.
 
 ## Accessibility specification
-[WAI-ARIA defines and describes only the switch attribute. Please read: The ARIA 1.1 switch role specification . ][6]Accessibility
+WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA 1.1 switch role specification . ][6]Accessibility
 
 ### Screen interaction
 * When the switch is selected, it receives focus. Focus is visible.
@@ -66,7 +66,7 @@
 
 ### Design Patterns
 * [Bootstrap Toogle -][1]
-* [ARIA Switch button component and demo ][2]
+* [ARIA Switch button component][2] and [demo][14]
 * [CSS toogle switch][3]
 * [Switches by ZURB Fondation][4]
 * [Gogle Design Materials][5]
@@ -93,3 +93,4 @@
   [11]: https://yoast.com/dev-blog/a11y-monthly-story-toggle/
   [12]: http://whatsock.com/training/matrices/
   [13]: https://ghinda.net/css-toggle-switch/
+  [14]: https://scottaohara.github.io/aria-switch-button/
