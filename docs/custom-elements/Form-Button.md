@@ -12,7 +12,7 @@ All button labels are sentence case. They should be as short as possible while c
 
 Accessible buttons specification is defined in WAI-ARIA Authoring Practices 1.1.
 * [See: 2.6 Button. ](https://www.w3.org/TR/wai-aria-practices-1.1/#button)
-* [See also about rolu button](https://www.w3.org/TR/wai-aria-1.1/#button)
+* [See also about role button](https://www.w3.org/TR/wai-aria-1.1/#button)
 
 ### Screen look, behavior
 _The content for this section is not yet available, please check back again for updates._
