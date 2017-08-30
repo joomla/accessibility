@@ -87,22 +87,14 @@ _The content for this section is not yet available, please check back again for 
 
 _The content for this section is not yet available, please check back again for updates._
 
-## WCAG Reference
+## Resources
+### WCAG Reference
 * **[1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)** - Level A
 * **[1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-understanding)** - Level A 
 * **[2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)** - Level A
 * **[4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)** - Level A
 
-## Resources
-### Articles
-* [Using the button role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)
-* [WebAIM: Creating Accessible Forms](http://webaim.org/techniques/forms/controls)
-* [Paul J. Adam: Building Accessible Buttons with ARIA: A11y Support Series](https://www.deque.com/blog/accessible-aria-buttons/)
-* [Nicholas C. Zakas: Making accessible icon buttons](https://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
-* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
-
 ### Design Patterns
-
 * [WAI ARIA practices - Button Examples ](https://www.w3.org/TR/wai-aria-practices-1.1/examples/button/button.html)
 * [WAI ARIA practices - Actions Menu Button Example Using element.focus()](https://www.w3.org/TR/wai-aria-practices-1.1/examples/menu-button/menu-button-actions.html)
 * [WAI ARIA practices - Actions Menu Button Example Using aria-activedescendant](https://www.w3.org/TR/wai-aria-practices-1.1/examples/menu-button/menu-button-actions-active-descendant.html)
@@ -113,3 +105,9 @@ _The content for this section is not yet available, please check back again for 
 * [Open Ajax Accessibility ex. 4 - Button role example using image buttons ](http://oaa-accessibility.org/example/4/)
 * [EBay MIND patterns](http://ianmcburnie.github.io/mindpatterns/input/button/)
 
+### Articles
+* [Using the button role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)
+* [WebAIM: Creating Accessible Forms](http://webaim.org/techniques/forms/controls)
+* [Paul J. Adam: Building Accessible Buttons with ARIA: A11y Support Series](https://www.deque.com/blog/accessible-aria-buttons/)
+* [Nicholas C. Zakas: Making accessible icon buttons](https://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
+* [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
