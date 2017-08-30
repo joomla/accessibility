@@ -8,12 +8,14 @@
 All button labels are sentence case. They should be as short as possible while clearly explaining what will happen when the button is clicked.
 
 ## Accessibility
-
 ### Accessibility specification
 
 Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1.
 * [See: 2.6 Button. ](https://www.w3.org/TR/wai-aria-practices-1.1/#button)
 * [See also about rolu button](https://www.w3.org/TR/wai-aria-1.1/#button)
+
+### Screen look, behavior
+_The content for this section is not yet available, please check back again for updates._
 
 ### Keyboard interaction
 
@@ -50,7 +52,7 @@ Warning! This label will override any inner text that may be present. This prope
 * **aria-describedby**: Informs AT of any extended description or context related to the button. Note that this property has no effect on the accessible label of the button.
 
 ## Why is it important?
-[...]
+_The content for this section is not yet available, please check back again for updates._
 
 ## Utilities
 ### When to use
@@ -61,7 +63,7 @@ Warning! This label will override any inner text that may be present. This prope
 * Less popular or less important actions may be visually styled as links.
 
 ### Use in Joomla
- - [...]
+ - _The content for this section is not yet available, please check back again for updates._
 
 ## Best practices
 * Use the &lt;a> tag if the button is a link to another page, or a link to an anchor within a page.
@@ -79,11 +81,11 @@ Warning! This label will override any inner text that may be present. This prope
 ## Code patterns for Joomla and Joomla extension
 ### Current
 
-[...]
+_The content for this section is not yet available, please check back again for updates._
 
 ### Improved
 
-[...]
+_The content for this section is not yet available, please check back again for updates._
 
 ## WCAG Reference
 * **[1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)** - Level A
