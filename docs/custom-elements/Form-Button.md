@@ -10,7 +10,7 @@ All button labels are sentence case. They should be as short as possible while c
 ## Accessibility
 ### Accessibility specification
 
-Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1.
+Accessible buttons specification is defined in WAI-ARIA Authoring Practices 1.1.
 * [See: 2.6 Button. ](https://www.w3.org/TR/wai-aria-practices-1.1/#button)
 * [See also about rolu button](https://www.w3.org/TR/wai-aria-1.1/#button)
 
