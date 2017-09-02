@@ -63,7 +63,19 @@ _The content for this section is not yet available, please check back again for 
 * Less popular or less important actions may be visually styled as links.
 
 ### Use in Joomla
- - _The content for this section is not yet available, please check back again for updates._
+* Components:
+  - com_config: view/templates/tmpl/default.php, view/modules/tmpl/default.php, view/config/tmpl/default.php
+  - com_contact: contact/tmpl/default_form.php
+  - com_content: archive/tmpl/default.php, category/tmpl/default_articles.php, edit.php
+  - com_finder: form/tmpl/edit.php
+  - com_mailto: default.php
+  - com_search: default_form.php
+  - com_tags: tag/tmpl/default_items.php, tag//tmpl/list_items.php, tags/tmpl/default_items.php
+  - com_users: login, profile, registration, remind, reset
+* Modules
+  - mod_finder: tmpl/default.php
+  - mod_login: tmpl/default.php, tmpl//default_logout.php
+  - mod_search: helper.php, mod_search.php, tmpl/default.php
 
 ## Best practices
 * Use the &lt;a> tag if the button is a link to another page, or a link to an anchor within a page.
