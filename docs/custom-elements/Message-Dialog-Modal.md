@@ -92,13 +92,9 @@ For example, a grid has an associated toolbar with a button for adding rows. the
   * A label specified by aria-label.
 * Optionally, the aria-describedby property is set on the element with the dialog role to indicate which element or elements in the dialog contain content that describes the primary purpose or message of the dialog. Specifying descriptive elements enables screen readers to announce the description along with the dialog title and initially focused element when the dialog opens.
 
-
-| Role | Attribute | Element | Usage |
-| --- | --- | --- | --- |
-| dialog | - | div | The role="dialog" attribute identifies the div element as a ARIA dialog. |
-| - | aria-labelledby="IDREF" | div | Gives the dialog an accessible name by referring to the element that provides the dialog title. |
-| - | aria-describedby="IDREF" | div | Gives the dialog an accessible description by referring to the dialog content that describes the primary message or purpose of the dialog.<br />Used in three of the four dialogs included in the example. See the above accessibility features section for an explanation. |
-| - | aria-modal="true" | div | Tells assistive technologies that the windows underneath the current dialog are not available for interaction (inert). |
+* **aria-labelledby="IDREF"**: Gives the dialog an accessible name by referring to the element that provides the dialog title. 
+* **aria-describedby="IDREF"**: Gives the dialog an accessible description by referring to the dialog content that describes the primary message or purpose of the dialog. Used in three of the four dialogs included in the example. See the above accessibility features section for an explanation.
+* **aria-modal="true"**: Tells assistive technologies that the windows underneath the current dialog are not available for interaction (inert).
 
 ## Usability
 
@@ -169,6 +165,12 @@ In Joomla V 4.0 use [Bootstrap v4](https://v4-alpha.getbootstrap.com/components/
 * [harvard.edu Keyboard Interaction](https://accessibility.huit.harvard.edu/support-keyboard-interaction)
 * [Making an accessible dialog box by ENZOnline](https://www.nczonline.net/blog/2013/02/12/making-an-accessible-dialog-box/) 
 * [Modal Dialog - Code Library of Accessibility Examples by Deque](https://dequeuniversity.com/library/aria/popups-dialogs/sf-modal-dialog)
+
+### Articles
+* [How to Build WAI-ARIA Modal Alert Dialogs: A11y Support Series](https://www.deque.com/blog/aria-modal-alert-dialogs-a11y-support-series-part-2/)
+* [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)
+* [jQuery simple and accessible modal window, using ARIA](https://a11y.nicolas-hoffmann.net/modal/)
+* [The Incredible Accessible Modal Window](https://www.npmjs.com/package/accessible-modal-dialog)
 
 ## Notes
 
