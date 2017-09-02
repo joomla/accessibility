@@ -6,6 +6,14 @@
 **Description**: Buttons are used as triggers for actions. Depending on the use case, buttons contain a label and/or an icon. There are a variety of styles, sizes, and variations that can be used for different situations.
 
 All button labels are sentence case. They should be as short as possible while clearly explaining what will happen when the button is clicked.
+ 
+### `<button>` vs `<a href="#">`
+
+* `<button>` has a button role, `<a href>` has a link role.
+* `<a href="#" role="button">' only works with click and enter key, `<button>` works with spacebar also.
+* Focus jumps to top of page when user activates an `<a href="#">` control whereas focus stays put on a `<button>`.
+`<button>` looks like a Button, `<a href>` looks like a link.
+* If you forget the href attribute, i.e. `<a onclick>` then there is NO role, NO keyboard focusability, and NO enter key activation. `<a>` is basically the same as a `<span>` unless you have the href attribute.
 
 ## Accessibility
 ### Accessibility specification
@@ -78,8 +86,8 @@ _The content for this section is not yet available, please check back again for 
   - mod_search: helper.php, mod_search.php, tmpl/default.php
 
 ## Best practices
-* Use the &lt;a> tag if the button is a link to another page, or a link to an anchor within a page.
-* Use the &lt;button> tag if the button performs an action that changes something on the current page.
+* Use the `<a>` tag if the button is a link to another page, or a link to an anchor within a page.
+* Use the `<button>` tag if the button performs an action that changes something on the current page.
 * Generally, use primary buttons for actions that go to the next step and use secondary buttons for actions that happen on the current page.
 * Style the button most users should click in a way that distinguishes from other buttons on the page. Try using the "large button" or the most visually distinct fill color.
 * Make sure buttons should look clickable - use color variations to distinguish static, hover and active states.
