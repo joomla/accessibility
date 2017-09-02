@@ -10,7 +10,7 @@ All button labels are sentence case. They should be as short as possible while c
 ### `<button>` vs `<a href="#">`
 
 * `<button>` has a button role, `<a href>` has a link role.
-* `<a href="#" role="button">' only works with click and enter key, `<button>` works with spacebar also.
+* `<a href="#" role="button">` only works with click and enter key, `<button>` works with spacebar also.
 * Focus jumps to top of page when user activates an `<a href="#">` control whereas focus stays put on a `<button>`.
 `<button>` looks like a Button, `<a href>` looks like a link.
 * If you forget the href attribute, i.e. `<a onclick>` then there is NO role, NO keyboard focusability, and NO enter key activation. `<a>` is basically the same as a `<span>` unless you have the href attribute.
