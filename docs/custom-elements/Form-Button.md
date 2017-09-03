@@ -23,7 +23,10 @@ Accessible buttons specification is defined in WAI-ARIA Authoring Practices 1.1.
 * [See also about role button](https://www.w3.org/TR/wai-aria-1.1/#button)
 
 ### Screen look, behavior
-_The content for this section is not yet available, please check back again for updates._
+
+Buttons are interactive controls and thus focusable.
+
+Buttons can be operated by both mouse users as well as keyboard users. For native HTML `<button>` elements, the button's onclick event will fire both for mouse clicks and when pressing **Space** or **Enter**, while the button has focus. 
 
 ### Keyboard interaction
 
@@ -51,13 +54,14 @@ _The content for this section is not yet available, please check back again for 
 
 ## ARIA markup
 This section lists all relevant ARIA roles, states and properties for a button.
-
-* **aria-haspopup**: Informs AT that the button opens a menu when clicked.
-* **aria-controls**: Informs AT that the button controls another element.
-* **aria-expanded**: Informs AT of the expanded state of any controlled element. Used in conjunction with aria- controls.
 * **aria-label**: Creates a label for the button.
 Warning! This label will override any inner text that may be present. This property is most commonly used for critical icon buttons (i.e. buttons with icon and no text).
 * **aria-describedby**: Informs AT of any extended description or context related to the button. Note that this property has no effect on the accessible label of the button.
+
+If the button controls another element:
+* **aria-haspopup**: Informs AT that the button opens a menu when clicked.
+* **aria-controls**: Informs AT that the button controls another element.
+* **aria-expanded**: Informs AT of the expanded state of any controlled element. Used in conjunction with aria- controls.
 
 ## Why is it important?
 _The content for this section is not yet available, please check back again for updates._
@@ -88,20 +92,85 @@ _The content for this section is not yet available, please check back again for 
 ## Best practices
 * Use the `<a>` tag if the button is a link to another page, or a link to an anchor within a page.
 * Use the `<button>` tag if the button performs an action that changes something on the current page.
-* Generally, use primary buttons for actions that go to the next step and use secondary buttons for actions that happen on the current page.
-* Style the button most users should click in a way that distinguishes from other buttons on the page. Try using the "large button" or the most visually distinct fill color.
-* Make sure buttons should look clickable - use color variations to distinguish static, hover and active states.
-* Avoid using too many buttons on a page.
+* Buttons should always have an accessible name. For most buttons, this name will be the same as the text inside the button. In some cases, for example for icon buttons, the accessible name can be provided through an aria-label or aria-labelledby attribute.
 * Use sentence case for button labels.
 * Button labels should be as short as possible with "trigger words" that your users will recognize to clearly explain what will happen when the button is clicked (for example, "download," "view" or "sign up").
 * Make the first word of the button's label a verb. For example, instead of "Complaint Filing" label the button "File a complaint."
 * At times, consider adding an icon to signal specific actions ("download", "open in a new window", etc).
 * Make sure that the text of the button is descriptive. If for some reason, your button contains no readable text (for example, just a symbol or icon), add screen reader-only text to the button to clarify its purpose. The symbol or icon should be wrapped in an element with the attribute aria-hidden="true", to prevent screen readers from trying to pronounce the symbol.
+* Generally, use primary buttons for actions that go to the next step and use secondary buttons for actions that happen on the current page.
+* Style the button most users should click in a way that distinguishes from other buttons on the page. Try using the "large button" or the most visually distinct fill color.
+* Make sure buttons should look clickable - use color variations to distinguish static, hover and active states.
+* Avoid using too many buttons on a page.
 
 ## Code patterns for Joomla and Joomla extension
 ### Current
 
-_The content for this section is not yet available, please check back again for updates._
+**file: com_users/views/registration/tmpl/default.php**
+
+```php
+		<div class="control-group">
+			<div class="controls">
+				<button type="submit" class="btn btn-primary validate"><?php echo JText::_('JREGISTER'); ?></button>
+				<a class="btn" href="<?php echo JRoute::_(''); ?>" title="<?php echo JText::_('JCANCEL'); ?>"><?php echo JText::_('JCANCEL'); ?></a>
+				<input type="hidden" name="option" value="com_users" />
+				<input type="hidden" name="task" value="registration.register" />
+			</div>
+		</div>
+```
+
+**file: com_mailto/views/mailto/tmpl/default.php**
+
+```php
+			<button class="button" onclick="return Joomla.submitbutton('send');">
+				<?php echo JText::_('COM_MAILTO_SEND'); ?>
+			</button>
+			<button class="button" onclick="window.close();return false;">
+				<?php echo JText::_('COM_MAILTO_CANCEL'); ?>
+			</button>
+````
+
+**file com_finder/views/search/tmpl/default_form.php**
+
+```php
+		<?php if ($this->escape($this->query->input) != '' || $this->params->get('allow_empty_query')) : ?>
+			<button name="Search" type="submit" class="btn btn-primary"><span class="icon-search icon-white"></span> <?php echo JText::_('JSEARCH_FILTER_SUBMIT'); ?></button>
+		<?php else : ?>
+			<button name="Search" type="submit" class="btn btn-primary disabled"><span class="icon-search icon-white"></span> <?php echo JText::_('JSEARCH_FILTER_SUBMIT'); ?></button>
+		<?php endif; ?>
+```
+
+**file: com_tags/views/tags/tmpl/default_items.php**
+```php
+				<div class="btn-group">
+					<label class="filter-search-lbl element-invisible" for="filter-search">
+						<?php echo JText::_('COM_TAGS_TITLE_FILTER_LABEL') . '&#160;'; ?>
+					</label>
+					<input type="text" name="filter-search" id="filter-search" value="<?php echo $this->escape($this->state->get('list.filter')); ?>" class="inputbox" onchange="document.adminForm.submit();" title="<?php echo JText::_('COM_TAGS_FILTER_SEARCH_DESC'); ?>" placeholder="<?php echo JText::_('COM_TAGS_TITLE_FILTER_LABEL'); ?>" />
+					<button type="button" name="filter-search-button" title="<?php echo JText::_('JSEARCH_FILTER_SUBMIT'); ?>" onclick="document.adminForm.submit();" class="btn">
+						<span class="icon-search"></span>
+					</button>
+					<button type="reset" name="filter-clear-button" title="<?php echo JText::_('JSEARCH_FILTER_CLEAR'); ?>" class="btn" onclick="resetFilter(); document.adminForm.submit();">
+						<span class="icon-remove"></span>
+					</button>
+				</div>
+'''
+
+**file: com_content/views/category/tmpl/default_articles.php**
+
+```php 
+	<div class="control-group hide pull-right">
+		<div class="controls">
+			<button type="submit" name="filter_submit" class="btn btn-primary"><?php echo JText::_('COM_CONTENT_FORM_FILTER_SUBMIT'); ?></button>
+		</div>
+	</div>
+```
+
+**file: com_content/views/archive/tmpl/default.php**
+
+```php 
+		<button type="submit" class="btn btn-primary" style="vertical-align: top;"><?php echo JText::_('JGLOBAL_FILTER_BUTTON'); ?></button>
+```
 
 ### Improved
 
@@ -133,6 +202,4 @@ _The content for this section is not yet available, please check back again for 
 * [Nicholas C. Zakas: Making accessible icon buttons](https://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
 * [Anchors, Buttons, And Accessibility](https://formidable.com/blog/2014/05/08/anchors-buttons-and-accessibility/)
 * [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
-
-
 
