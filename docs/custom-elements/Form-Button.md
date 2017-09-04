@@ -98,7 +98,6 @@ _The content for this section is not yet available, please check back again for 
 * Make the first word of the button's label a verb. For example, instead of "Complaint Filing" label the button "File a complaint."
 * At times, consider adding an icon to signal specific actions ("download", "open in a new window", etc).
 * Make sure that the text of the button is descriptive. If for some reason, your button contains no readable text (for example, just a symbol or icon), add screen reader-only text to the button to clarify its purpose. The symbol or icon should be wrapped in an element with the attribute aria-hidden="true", to prevent screen readers from trying to pronounce the symbol.
-* Generally, use primary buttons for actions that go to the next step and use secondary buttons for actions that happen on the current page.
 * Style the button most users should click in a way that distinguishes from other buttons on the page. Try using the "large button" or the most visually distinct fill color.
 * Make sure buttons should look clickable - use color variations to distinguish static, hover and active states.
 * Avoid using too many buttons on a page.
