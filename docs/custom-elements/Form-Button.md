@@ -1,4 +1,6 @@
 # Button
+**Work in progress**: This page is a work in progress. Please [file an issue](https://github.com/joomla/accessibility/issues) or submit a pull request if information or coding is missing, incorrect or out of sync with the main repository
+
 ## What is this
 
 **Purpose**: User need input a command with one of the following possible action: submit form, reset form or action defined by JavaScript.
