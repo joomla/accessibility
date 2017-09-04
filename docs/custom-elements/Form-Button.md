@@ -172,6 +172,34 @@ _The content for this section is not yet available, please check back again for 
 		<button type="submit" class="btn btn-primary" style="vertical-align: top;"><?php echo JText::_('JGLOBAL_FILTER_BUTTON'); ?></button>
 ```
 
+**file: com_config/views/modules/tmpl/default.php**
+
+```php
+			<div class="btn-toolbar" role="toolbar" aria-label="<?php echo JText::_('JTOOLBAR'); ?>">
+				<div class="btn-group">
+					<button type="button" class="btn btn-primary"
+						onclick="Joomla.submitbutton('config.save.modules.apply')">
+						<span class="icon-apply"></span>
+						<?php echo JText::_('JAPPLY') ?>
+					</button>
+				</div>
+				<div class="btn-group">
+					<button type="button" class="btn"
+						onclick="Joomla.submitbutton('config.save.modules.save')">
+						<span class="icon-save"></span>
+						<?php echo JText::_('JSAVE') ?>
+					</button>
+				</div>
+				<div class="btn-group">
+					<button type="button" class="btn"
+						onclick="Joomla.submitbutton('config.cancel.modules')">
+						<span class="icon-cancel"></span>
+						<?php echo JText::_('JCANCEL') ?>
+					</button>
+				</div>
+			</div>
+```
+
 ### Improved
 
 _The content for this section is not yet available, please check back again for updates._
