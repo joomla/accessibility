@@ -57,7 +57,18 @@ Depending on the type of content, consider using other presentation formats such
 
 ### Use in Joomla
 
-[List of back-end and front-end screens on which this UI element is used]
+* Components
+  - com_contact/views/futured/tmpl/default_items.php
+  - com_content/views/category/tmpl/default_articles.php
+  - com_tags/views/tag/tmpl/list_items.php
+
+* Plugins
+  - system/debug/debug.php
+  - twofactorauth/totp/tmpl/form.php
+
+* Administrator
+  In 120 files
+
 
 ## Code patterns for Joomla and Joomla extensions
 
