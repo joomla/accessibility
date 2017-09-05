@@ -68,6 +68,7 @@ WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA
 * [Bootstrap Toogle -][1]
 * [ARIA Switch button component][2] and [demo][14]
 * [CSS toogle switch][3]
+* [On/Off CSS Radio Switches by Nick Bottomley][15]
 * [Switches by ZURB Fondation][4]
 * [Gogle Design Materials][5]
 
@@ -94,3 +95,4 @@ WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA
   [12]: http://whatsock.com/training/matrices/
   [13]: https://ghinda.net/css-toggle-switch/
   [14]: https://scottaohara.github.io/aria-switch-button/
+  [15]: https://codepen.io/nickbottomley/pen/uhfmn
