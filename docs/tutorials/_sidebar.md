@@ -4,6 +4,7 @@
  - [What is Web accessibility](tutorials/what-is-web-accessibility)
 - **Understanding Accessibility**
  - [Understanding disability](tutorials/understanding-disability)
+ - [Understanding assistive technologies](tutorials/assistive-technologies.md)
 - **Standards & Law**
  - [W3C WAI](tutorials/sl-wai)
  - [WCAG 2.0](tutorials/sl-wcag-2-0)
