@@ -26,7 +26,7 @@ Speech synthesizers receive information going to the screen in the form of lette
 Using speech synthesizers allows computer users who are blind or who have learning difficulties to hear what they are typing and also provide a spoken voice for individuals who can not communicate orally, but can communicate their thoughts through typing.
 
 ### Speech recognition or voice recognition programs
-Software that captures speech from a microphone or phone and saves it as text, or interprets it as commands instead of a mouse or keyboard. It may be used by people who have certain physical disabilities. Allows the user with limited or no arm and hand fine motor control to input text and/or control the user interface via speech. Note: The term 'voice recognition' also often refers to software, that is aimed at identifying the person who is speaking.
+Software that captures speech from a microphone or phone and saves it as text, or interprets it as commands instead of a mouse or keyboard. It may be used by people who have certain physical disabilities. Allows the user with limited or no arm and hand fine motor control to input text and/or control the user interface via speech. **Note**: The term _voice recognition_ also often refers to software, that is aimed at identifying the person who is speaking.
 
 ### An alternative pointing device or alternative input devices
 Allows users with limited or no arm and hand fine motor control their computers through means other than a standard keyboard or pointing device. Examples include smaller or larger keyboards, joysticks, trackballs, foot pedals, eye-gaze pointing devices, head pointers, sip-and-puff systems controlled by breathing and other special input devices.
