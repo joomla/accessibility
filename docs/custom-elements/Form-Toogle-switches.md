@@ -5,8 +5,9 @@
 
 **Description**: A switch provides approximately the same functionality as a checkbox and toggle button, but makes it possible for assistive technologies to present the widget in a fashion consistent with its on-screen appearance.
 
-## Accessibility specification
-WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA 1.1 switch role specification . ][6]Accessibility
+## Accessibility
+### Accessibility specification
+WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA 1.1 switch role specification . ][6]
 
 ### Screen interaction
 * When the switch is selected, it receives focus. Focus is visible.
