@@ -87,7 +87,7 @@ WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA
   [3]: https://ghinda.net/css-toggle-switch/
   [4]: http://foundation.zurb.com/sites/docs/v/5.5.3/components/switch.html
   [5]: https://material.io/guidelines/components/selection-controls.html
-  [6]: https://www.w3.org/TR/wai-aria-1.1/
+  [6]: https://www.w3.org/TR/wai-aria-1.1/#switch
   [7]: https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/
   [8]: https://inclusive-components.design/toggle-button/
   [9]: http://whatsock.com/tsg/
