@@ -1,8 +1,6 @@
-# Color Analyser Tools or Color Contrast Analyser Tools
+# Color Tools
 
 Here are some tools that specifically check for color contrast accessibility issues on websites. And a few related links below. Know any others?			
-
- 
 
 * [Colour Contrast Determinator (beta) by Vision Australia](http://www.visionaustralia.org/digital-access-determinator)
 
@@ -135,30 +133,35 @@ Here are some tools that specifically check for color contrast accessibility iss
 
   "Simply select or enter a foreground and background color in RGB hexadecimal format (e.g., #fd3 or #f7da39). Select the lighten and darken options to modify the colors slightly. You can use the color picker to change colors or change luminosity..."
 * [Color Contrast Comparison - Joe Dolson](http://www.joedolson.com/color-contrast-compare.php)
-* [Color Contrast Test - Joe Dolson](http://www.joedolson.com/color-contrast-tester.php)
-* [Color Contrast Tester by Joe Dolson](https://www.joedolson.com/2008/05/testing-color-contrast/)
 
-* [Colour Contrast Analyser - Gez Lemon](http://juicystudio.com/services/luminositycontrastratio.php)
+  &quot;I’ve created a basic tool which compares two colors, as well. Evaluate contrast between two colors.&quot;
+  
+* [Color Contrast Spectrum - Joe Dolson](http://www.joedolson.com/color-contrast-tester.php)
+   
+  &quot;This test allows you to see a spectrum of color combinations with a color of your choice. The spectrum is sorted into groups which pass or fail the color contrast tests specified in the Web Content Accessibility Guidelines (WCAG) versions 1 and 2.&quot;
 
-  This tool can help determine if foreground and background colour combinations provide sufficient color contrast. Updated for WCAG 2.0 acceptable minimum color contrast ratios.
 * [Colour Contrast Check Tool - Jonathan Snook.](https://snook.ca/technical/colour_contrast/colour.html)
 
-  "The Colour Contrast Check Tool allows to specify a foreground and a background colour and determine if they provide enough of a contrast 'when viewed by someone having color deficits or when viewed on a black and white screen.'"
+  &quot;The Colour Contrast Check Tool allows to specify a foreground and a background colour and determine if they provide enough of a contrast 'when viewed by someone having color deficits or when viewed on a black and white screen.'[W3C] The tool will indicate that the colours pass the test if both the colour difference and the brightness difference exceed their threshold. It will indicate that it sort of passes if only one of the two values exceed their threshold. And finally, it'll fail to pass if neither value exceeds its threshold. The tool will also indicate if the colours pass the newer WCAG 2.0 contrast ratio formula. The WCAG 2.0 formula differentiates between text smaller than 18pt text larger than 18pt (or text that is bold and larger than 14pt). For AA compliance, text should have a ratio of at least 4.5:1 (larger text, at least 3:1). For AAA compliance, text should have a ratio of at least 7:1 (larger text, at least 4.5:1).&quot;
+  
 
 * [Colour Contrast Analyser app - Paciello Group](https://www.paciellogroup.com/resources/contrastanalyser/)
-  "It is primarily a tool for checking foreground &amp; background color combinations to determine if they provide good color visibility. It also contains functionality to create simulations of certain visual conditions such as color blindness..."
+  "The Colour Contrast Analyser (CCA) helps you determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators. This tool provides two useful core functionalities: <br />- a pass/fail assessment against WCAG 2.0 color contrast success criteria<br />- a simulation of certain visual conditions, including dichromatic color-blindness and cataracts, to demonstrate how your web content appears to people with less than 20/20 vision"
+  
 * [Contrast Checker -  Acart Communications](http://contrastchecker.com/)
+  
+  &quot;This tool is built for designers and developers to test color contrast compliance with the Web Content Accessibility Guidelines (WCAG) as set forth by the World Wide Web Consortium (W3C). These calculations are based on the formulas specified by the W3C.&quot;
+
 * [Contrast-Finder -  Asqatasun](https://app.contrast-finder.org/result.html)
 
-  &quot;Contrast-Finder finds correct color contrasts for web accessibility...&quot; 
-* [Contrast Luminosity Analyzer (Updated) By Gez Lemon](http://juicystudio.com/services/luminositycontrastratio.php)
-
-  Updated for WCAG 2.0 acceptable minimum color contrast ratios.
 * [Contrast Ratio &#8211; by Lea Verou](http://leaverou.github.io/contrast-ratio/)
 
   &quot;As you type, the contrast ratio indicated will update. Hover over the circle to get more detailed information. When semi-transparent colors are involved as backgrounds, the contrast ratio will have an error margin, to account for the different colors they may be over."
   
 * [Juicy Studio Accessibility Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/juicy-studio-accessibility-too/)  
+
+  &quot;The Colour Contrast Analyser Firefox extension lists colour combinations used in the document in a table that summarises the foreground colour, background colour, luminosity contrast ratio, and the colour difference and brightness difference used in the algorithm suggested in the 26th of April 2000 working draft for Accessibility Evaluation and Repair Tools (AERT). Each element is also listed with its parent elements, and class and id attribute values when specified to make it easier to locate the elements.&quot; See: [Colour Contrast Analyser - Gez Lemon](http://juicystudio.com/article/colour-contrast-analyser-firefox-extension.php)
+
   
 * [Tanaguru Contrast-Finder](http://contrast-finder.tanaguru.com/)
 
@@ -166,15 +169,3 @@ Here are some tools that specifically check for color contrast accessibility iss
 * [WCAG Contrast Checker &#8211; FireFox Extension by Jorge Rumoroso](https://addons.mozilla.org/en-us/firefox/addon/wcag-contrast-checker/)
 
   &quot;Checks for compliance with the contrast levels, brightness and shine in the color combination of foreground and background of textual content based on the requirements of WCAG 1 and WCAG 2...&quot;
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-### Articles
-* [Color Contrast for Better Readability by Viget](https://viget.com/inspire/color-contrast)
