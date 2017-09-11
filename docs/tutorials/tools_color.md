@@ -12,10 +12,10 @@ If there is not enough contrast between the text and the background, people will
 
 WCAG 2.0 requires that there is sufficient luminance contrast between text and background color: 
 
-* **Success criteria 1.4.3 Contrast (Minimum)**: The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following: (Level AA)
+* **Success criteria 1.4.3 Contrast (Minimum)** (Level AA): The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following: 
   - Large Text: Large-scale text and images of large-scale text have a contrast ratio of at least 3:1; […]
 
-* **Success criteria 1.4.6 Contrast (Enhanced)**: The visual presentation of text and images of text has a contrast ratio of at least 7:1, except for the following: (Level AAA)
+* **Success criteria 1.4.6 Contrast (Enhanced)** (Level AAA): The visual presentation of text and images of text has a contrast ratio of at least 7:1, except for the following: 
   - Large Text: Large-scale text and images of large-scale text have a contrast ratio of at least 4.5:1; […]"
 
 ## Color tools list
@@ -30,8 +30,7 @@ Below you will find a list of tools that help you choose the right color for you
 
 ## Color finder tools
 
-* [A11y Color Palette by Matt Long](http://a11yrocks.com/colorPalette/)
-  
+- [A11y Color Palette by Matt Long](http://a11yrocks.com/colorPalette/)
   &quot;This tool should help you visualize an entire palette of colors with accessibility in mind. An indicator will be placed next to each foreground color to show if its contrast with the background color is WCAG 2.0 AA and/or AAA compliant for normal and large text. No indicator next to a foreground color means its contrast ratio with the background color is not at all compliant.&quot; 
 
 * [Accessibility Color Wheel - Giacomo Mazzocato](http://gmazzocato.altervista.org/colorwheel/wheel.php)
