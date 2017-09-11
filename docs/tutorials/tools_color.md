@@ -26,6 +26,8 @@ It is worth knowing that there are are different algorithms used to calculate co
 
 Note that neither of these algorithms are W3C recommendations (at least not yet), but they are still useful for determining if a combination of text and background colours is likely to cause problems for people with colour blindness or other visual impairments.
 
+Choosing the right tools from such an extensive list can be difficult, especially for beginners. We encourage you to get acquainted with them. Short quotes will help you find out about their functions. 
+
 Below you will find a list of tools that help you choose the right color for your pages. 
 
 ## Color finder tools
