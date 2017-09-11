@@ -18,7 +18,7 @@ Here are some tools that specifically check for color contrast accessibility iss
 * [A11y Color Palette by Matt Long](http://a11yrocks.com/colorPalette/)
 * [Color Contrast Analyzer &#8211; Chrome extension by NCSU/Greg Kraus (supports gradients and advanced CSS attributes)](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
 * [Text on background image a11y check &#8211; great for text over images](http://www.brandwood.com/a11y/)
-* [Color Contrast Tester by Joe Dolson](https://www.joedolson.com/tools/color-contrast.php?type=hex&amp;color=%23333333&amp;color2=%23999&amp;alpha=1)
+* [Color Contrast Tester by Joe Dolson](https://www.joedolson.com/2008/05/testing-color-contrast/)
 * [Contrast-A by Annika Hamann](http://dasplankton.de/ContrastA/)
 * [Accessible color palette builder by &#8220;toolness&#8221;](https://toolness.github.io/accessible-color-matrix/)
 * [Hex Naw by The Scenery](https://hexnaw.com/)
