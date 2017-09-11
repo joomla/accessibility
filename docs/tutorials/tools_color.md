@@ -154,6 +154,8 @@ Here are some tools that specifically check for color contrast accessibility iss
 
 * [Contrast-Finder -  Asqatasun](https://app.contrast-finder.org/result.html)
 
+  &quot;Contrast-Finder finds correct color contrasts for web accessibility. &quot;
+
 * [Contrast Ratio &#8211; by Lea Verou](http://leaverou.github.io/contrast-ratio/)
 
   &quot;As you type, the contrast ratio indicated will update. Hover over the circle to get more detailed information. When semi-transparent colors are involved as backgrounds, the contrast ratio will have an error margin, to account for the different colors they may be over."
