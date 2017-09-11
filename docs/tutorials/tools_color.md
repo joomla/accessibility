@@ -33,6 +33,7 @@ Below you will find a list of tools that help you choose the right color for you
 ## Color finder tools
 
 - [A11y Color Palette by Matt Long](http://a11yrocks.com/colorPalette/)
+
   &quot;This tool should help you visualize an entire palette of colors with accessibility in mind. An indicator will be placed next to each foreground color to show if its contrast with the background color is WCAG 2.0 AA and/or AAA compliant for normal and large text. No indicator next to a foreground color means its contrast ratio with the background color is not at all compliant.&quot; 
 
 * [Accessibility Color Wheel - Giacomo Mazzocato](http://gmazzocato.altervista.org/colorwheel/wheel.php)
@@ -46,7 +47,15 @@ Below you will find a list of tools that help you choose the right color for you
 * [Color Contrast Checker - SSB Bart Group](http://www.ssbbartgroup.com/reference/color-contrast-checker/)
 
   &quot;Enter a RGB foreground and background color in #hex or integer format to check contrast for accessibility.&quot;
-  
+
+* [Color Contrast iOS app by UserLight Ltd](https://itunes.apple.com/na/app/color-contrast/id1095478187)
+
+  &quot;Color Contrast is a tool to measure the contrast between two colors in a screenshot or mobile website, helping ensure your app meets the internationally recognized recommendations in the Web Content Accessibility Guidelines (WCAG) 2.0.&quot;  
+   
+* [Colour Contrast Determinator - Vision Australia](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/tools-to-download/colour-contrast-determinator)
+ 
+   &quot;This tool is a colour contrast analyser that makes it easy to find colours with sufficient contrast. Simply type in colour values or copy and paste a value form a style sheet, then use the sliders to adjust the colour - full height on the slider means the colour has sufficient contrast.&quot;
+
 * [Color Conversion Calculator - Autopedia.com](http://autopedia.com/html/ColorCalculator.html)
 
   &quot;You may select a color name, enter RGB values or the Hexidecimal values and then push the "compute" button next to your entry and you will see the results. Your selection will automatically be translated to all the appropriate coresponding values.&quot;
@@ -85,20 +94,12 @@ Below you will find a list of tools that help you choose the right color for you
   
   &quot;Visual impairment simulation and auditing tools to develop for accessibility. ChromeLens is a Google Chrome extension that provides a suite of tools to help with web accessibility development.&quot;
 
-* [Color Contrast iOS app by UserLight Ltd](https://itunes.apple.com/na/app/color-contrast/id1095478187)
-  &quot;Color Contrast is a tool to measure the contrast between two colors in a screenshot or mobile website, helping ensure your app meets the internationally recognized recommendations in the Web Content Accessibility Guidelines (WCAG) 2.0.&quot;
-
 * [Color Oracle - Bernhard Jenny](http://colororacle.cartography.ch/)
 
    "Color Oracle is a colorblindness simulator for Window, Mac and Linux. It takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see..."
 * [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 
   &quot;Use the Colorblind Colorlab to select safe colors earlier in the design process. This tool is still in development, but feedback is welcome while we work on it. If you only use one filter, use the greyscale filter which will not only point out potential problem areas, but will also let you see more clearly which areas the filter is unable to process.&quot; 
-   
-   
-* [Colour Contrast Determinator - Vision Australia](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/tools-to-download/colour-contrast-determinator)
- 
-   &quot;This tool is a colour contrast analyser that makes it easy to find colours with sufficient contrast. Simply type in colour values or copy and paste a value form a style sheet, then use the sliders to adjust the colour - full height on the slider means the colour has sufficient contrast.&quot;
 
 * [Eye Dropper Chrome extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
 
