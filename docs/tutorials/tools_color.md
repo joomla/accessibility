@@ -1,4 +1,4 @@
-# Color tools - generators, simulators, checkers
+# Color tools &#8211; generators, simulators, checkers
 
 Appropriate choice of colors is a very important aspect of web accessibility.
 
@@ -32,42 +32,41 @@ Below you will find a list of tools that help you choose the right color for you
 
 ## Color finder tools
 
-- [A11y Color Palette by Matt Long](http://a11yrocks.com/colorPalette/)
+- [A11y Color Palette &#8211; by Matt Long](http://a11yrocks.com/colorPalette/)
 
   "This tool should help you visualize an entire palette of colors with accessibility in mind. An indicator will be placed next to each foreground color to show if its contrast with the background color is WCAG 2.0 AA and/or AAA compliant for normal and large text. No indicator next to a foreground color means its contrast ratio with the background color is not at all compliant." 
 
-* [Accessibility Color Wheel - Giacomo Mazzocato](http://gmazzocato.altervista.org/colorwheel/wheel.php)
+* [Accessibility Color Wheel &#8211; Giacomo Mazzocato](http://gmazzocato.altervista.org/colorwheel/wheel.php)
 
   "Choose a foreground color by pointing the mouse over the wheel or the vertical grey gradation strip and click or, if you have a touch screen, just touch them. Then click the 'Background' button and choose a background color the same way. If a checkmark becomes visible the color pair is good for accessibility. Otherwise change one color or both by selecting foreground or background with the buttons." 
 
-* [Accessible color palette builder by &#8220;toolness&#8221;](https://toolness.github.io/accessible-color-matrix/)
+* [Accessible color palette builder &#8211; by &#8220;toolness&#8221;](https://toolness.github.io/accessible-color-matrix/)
 
   "This is a tool to help designers build color palettes with combinations that conform with accessibility standards."
   
-* [Color Contrast Checker - SSB Bart Group](http://www.ssbbartgroup.com/reference/color-contrast-checker/)
+* [Color Contrast Checker &#8211; by SSB Bart Group](http://www.ssbbartgroup.com/reference/color-contrast-checker/)
 
   "Enter a RGB foreground and background color in #hex or integer format to check contrast for accessibility."
 
-* [Color Contrast iOS app by UserLight Ltd](https://itunes.apple.com/na/app/color-contrast/id1095478187)
+* [Color Contrast iOS app &#8211; UserLight Ltd](https://itunes.apple.com/na/app/color-contrast/id1095478187)
 
   "Color Contrast is a tool to measure the contrast between two colors in a screenshot or mobile website, helping ensure your app meets the internationally recognized recommendations in the Web Content Accessibility Guidelines (WCAG) 2.0."  
    
-* [Colour Contrast Determinator - Vision Australia](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/tools-to-download/colour-contrast-determinator)
+* [Colour Contrast Determinator &#8211; Vision Australia](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/tools-to-download/colour-contrast-determinator)
  
    "This tool is a colour contrast analyser that makes it easy to find colours with sufficient contrast. Simply type in colour values or copy and paste a value form a style sheet, then use the sliders to adjust the colour - full height on the slider means the colour has sufficient contrast."
 
-* [Color Conversion Calculator - Autopedia.com](http://autopedia.com/html/ColorCalculator.html)
+* [Color Conversion Calculator &#8211; Autopedia.com](http://autopedia.com/html/ColorCalculator.html)
 
   "You may select a color name, enter RGB values or the Hexidecimal values and then push the "compute" button next to your entry and you will see the results. Your selection will automatically be translated to all the appropriate coresponding values."
   
-* [Color Safe - Donielle Berg and Adrian Rapp](http://colorsafe.co/).
+* [Color Safe &#8211; Donielle Berg and Adrian Rapp](http://colorsafe.co/).
 
   "Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios..."
   
-* [Color Theory - Tiffany B. Brown](https://colors.webinista.com/) 
+* [Color Theory &#8211; Tiffany B. Brown](https://colors.webinista.com/) 
 
   "Ever want to pick a start color and then click a button to create a color scheme? Me too. So I built it." 
-  
 
 * [Colorable &#8211; interactive web tool by Brent Jackson](http://jxnblk.com/colorable/demos/text/)
 
@@ -79,7 +78,7 @@ Below you will find a list of tools that help you choose the right color for you
   
    "ColorZilla includes a Color Picker, Eye Dropper, Gradient Generator and many additional advanced color tools. With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. You can analyze the page and inspect a palette of its colors. You can create advanced multi-stop CSS gradients."
   
-* [Contrast-A by Annika Hamann](http://dasplankton.de/ContrastA/)
+* [Contrast-A &#8211; by Annika Hamann](http://dasplankton.de/ContrastA/)
 
   "The application allows users to experiment with color combinations, examine them under the aspect of accessibility guidelines and to create custom color palettes. Contrast-A checks color combinations for sufficient contrast and displays the results according to WCAG 2.0 (Luminance Ratio) as well as the results according to older accessibility guidelines, WCAG 1.0 (Difference in Brightness and Color)."  
 
@@ -87,7 +86,7 @@ Below you will find a list of tools that help you choose the right color for you
 
   "Hex Naw is a tool that helps designers and developers test entire color systems for contrast and accessibility. Plug in your palette or color system and let Hex Naw do the rest."  
   
-* [HTML Color Codes -  By Alex Dixon](http://htmlcolorcodes.com/)
+* [HTML Color Codes &#8211; by Alex Dixon](http://htmlcolorcodes.com/)
 
   "Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names..."
 
@@ -99,31 +98,32 @@ Below you will find a list of tools that help you choose the right color for you
 
   "This is a guide to foreground colour accessibility on a background image. It is intended as guide for designers and developers to test if their design solution is accessible. Change the text size, colour and position. It will check the dimensions of the textarea against the background image."  
   
-* [The Color Palette Creator - S.G. Chipman](http://slayeroffice.com/tools/color_palette/)
+* [The Color Palette Creator &#8211; by S.G. Chipman](http://slayeroffice.com/tools/color_palette/)
 
   "It will create 10 shades of the base color, located top-left, at varying degrees of opacity. The top row emulates opacity over a white background, the bottom over black (or colors of your choosing as of v1.4). The opacity values are 100% opaque, 75%, 50%, 25% and 10% on the top row. The bottom row begins at 85% rather than 100% and continues on as the first."
  
 
 ### Color Simulators
-* [ChromeLens - Chrome extension by ngzhian](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?utm_source=chrome-app-launcher-info-dialog) 
+* [ChromeLens &#8211; Chrome extension by ngzhian](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?utm_source=chrome-app-launcher-info-dialog) 
   
   "Visual impairment simulation and auditing tools to develop for accessibility. ChromeLens is a Google Chrome extension that provides a suite of tools to help with web accessibility development."
 
-* [Color Oracle - Bernhard Jenny](http://colororacle.cartography.ch/)
+* [Color Oracle &#8211; by Bernhard Jenny](http://colororacle.cartography.ch/)
 
    "Color Oracle is a colorblindness simulator for Window, Mac and Linux. It takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see..."
-* [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
+
+ * [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 
   "Use the Colorblind Colorlab to select safe colors earlier in the design process. This tool is still in development, but feedback is welcome while we work on it. If you only use one filter, use the greyscale filter which will not only point out potential problem areas, but will also let you see more clearly which areas the filter is unable to process." 
 
-* [Eye Dropper Chrome extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
+* [Eye Dropper &#8211; Chrome extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
 
   "Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history. Eye Dropper is extension for Google Chrome and Chromium. It allows you to pick color from any webpage or from advanced color picker. It is great tool for web developers." 
    
-* [NoCoffee Vision Simulator - Chrome extension by Aaron Leventhal](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+* [NoCoffee Vision Simulator &#8211; Chrome extension by Aaron Leventhal](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 
   "NoCoffee can be helpful for understanding the problems faced by people with slight to extreme vision problems, such as": Low Acuity, Low Contrast Sensitivity, Colorblindness        
-* [Sim Daltonism - Michel Fortin](https://michelf.ca/projects/sim-daltonism/)
+* [Sim Daltonism &#8211; by Michel Fortin](https://michelf.ca/projects/sim-daltonism/)
 
   "Sim Daltonism lets you visualize colors as they are perceived with various types of color blindness. Use the camera on your iOS device, or use the Mac app to filter a region of the screen."
   
