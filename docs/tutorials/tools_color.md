@@ -114,11 +114,11 @@ Below you will find a list of tools that help you choose the right color for you
 
  * [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 
-  "Use the Colorblind Colorlab to select safe colors earlier in the design process. This tool is still in development, but feedback is welcome while we work on it. If you only use one filter, use the greyscale filter which will not only point out potential problem areas, but will also let you see more clearly which areas the filter is unable to process." 
+   "Use the Colorblind Colorlab to select safe colors earlier in the design process. This tool is still in development, but feedback is welcome while we work on it. If you only use one filter, use the greyscale filter which will not only point out potential problem areas, but will also let you see more clearly which areas the filter is unable to process." 
 
 * [Eye Dropper &#8211; Chrome extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
 
-  "Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history. Eye Dropper is extension for Google Chrome and Chromium. It allows you to pick color from any webpage or from advanced color picker. It is great tool for web developers." 
+   "Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history. Eye Dropper is extension for Google Chrome and Chromium. It allows you to pick color from any webpage or from advanced color picker. It is great tool for web developers." 
    
 * [NoCoffee Vision Simulator &#8211; Chrome extension by Aaron Leventhal](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 
@@ -172,6 +172,7 @@ Below you will find a list of tools that help you choose the right color for you
   
 
 * [Colour Contrast Analyser app &#8211; by Paciello Group](https://www.paciellogroup.com/resources/contrastanalyser/)
+
   "The Colour Contrast Analyser (CCA) helps you determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators. This tool provides two useful core functionalities: <br />- a pass/fail assessment against WCAG 2.0 color contrast success criteria<br />- a simulation of certain visual conditions, including dichromatic color-blindness and cataracts, to demonstrate how your web content appears to people with less than 20/20 vision."
   
 * [Contrast Checker &#8211; by Acart Communications](http://contrastchecker.com/)
