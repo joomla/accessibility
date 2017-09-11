@@ -4,7 +4,7 @@ Appropriate choice of colors is a very important aspect of web accessibility.
 
 If there is not enough contrast between the text and the background, people will have problems. People with blindness or other visual impairments, as well as persons browsing the Web in less than ideal conditions (bad monitor, window reflections, sunlight striking the screen),  may not be able to read the text, at least not without difficulty.
 
-[Read more about visual impairments](../tutorials/understanding-disability.md).
+[Read more about visual impairments](tutorials/understanding-disability.md).
 
 ## Color schemes vs. accessibility standards
 
