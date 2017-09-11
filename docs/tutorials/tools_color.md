@@ -2,13 +2,30 @@
 
 Here are some tools that specifically check for color contrast accessibility issues on websites. And a few related links below. Know any others?			
 
+ 
 
-* [CheckMyColors &#8211; by Giovanni Scala](http://www.checkmycolours.com/)
 * [Colour Contrast Determinator (beta) by Vision Australia](http://www.visionaustralia.org/digital-access-determinator)
+
+  &quot;This tool is a colour contrast analyser that makes it easy to find colours with sufficient contrast. Simply type in colour values or copy and paste a value form a style sheet, then use the sliders to adjust the colour - full height on the slider means the colour has sufficient contrast.&quot;
+  
 * [A11y Color Palette by Matt Long](http://a11yrocks.com/colorPalette/)
+  
+  &quot;This tool should help you visualize an entire palette of colors with accessibility in mind. An indicator will be placed next to each foreground color to show if its contrast with the background color is WCAG 2.0 AA and/or AAA compliant for normal and large text. No indicator next to a foreground color means its contrast ratio with the background color is not at all compliant.&quot; 
+  
+  
 * [Text on background image a11y check &#8211; great for text over images](http://www.brandwood.com/a11y/)
+
+  &quot;This is a guide to foreground colour accessibility on a background image. It is intended as guide for designers and developers to test if their design solution is accessible. Change the text size, colour and position. It will check the dimensions of the textarea against the background image.&quot;
+  
 * [Contrast-A by Annika Hamann](http://dasplankton.de/ContrastA/)
+
+  &quot;The application allows users to experiment with color combinations, examine them under the aspect of accessibility guidelines and to create custom color palettes. Contrast-A checks color combinations for sufficient contrast and displays the results according to WCAG 2.0 (Luminance Ratio) as well as the results according to older accessibility guidelines, WCAG 1.0 (Difference in Brightness and Color).&quot;
+
+
+
 * [Accessible color palette builder by &#8220;toolness&#8221;](https://toolness.github.io/accessible-color-matrix/)
+
+  &quot;This is a tool to help designers build color palettes with combinations that conform with accessibility standards.&quot;
 * [Contrast calculation</a> &#8211; Javascript in CodePen by Heydon Pickering](https://codepen.io/heydon/pen/oewNLp/)
 
 
@@ -24,31 +41,43 @@ Here are some tools that specifically check for color contrast accessibility iss
 
   &quot;Enter a RGB foreground and background color in #hex or integer format to check contrast for accessibility.&quot; 
 * [Color Conversion Calculator - Autopedia.com](http://autopedia.com/html/ColorCalculator.html)
+
+  &quot;You may select a color name, enter RGB values or the Hexidecimal values and then push the "compute" button next to your entry and you will see the results. Your selection will automatically be translated to all the appropriate coresponding values.&quot;
+  
 * [Color Safe - Donielle Berg and Adrian Rapp](http://colorsafe.co/).
 
   &quot;Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios...&quot;
 
 ### Color Simulators
 
-* [Color Contrast for Better Readability by Viget](https://viget.com/inspire/color-contrast)
+
 * [Color Contrast iOS app by UserLight Ltd](https://itunes.apple.com/na/app/color-contrast/id1095478187)
+  &quot;Color Contrast is a tool to measure the contrast between two colors in a screenshot or mobile website, helping ensure your app meets the internationally recognized recommendations in the Web Content Accessibility Guidelines (WCAG) 2.0.&quot;
+
 * [Color Oracle - Bernhard Jenny](http://colororacle.cartography.ch/)
 
    "Color Oracle is a colorblindness simulator for Window, Mac and Linux. It takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see..."
 * [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 
-   Type in your site's URL, select the filter you would like to use and click the Fetch and Filter button. 
-* [Colour Contrast Determinator - Vision Australia](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/tools-to-download/colour-contrast-determinator) 
-   &quot;We've developed a new online tool to help you find colour combinations that have sufficient contrast...&quot;
+  &quot;Use the Colorblind Colorlab to select safe colors earlier in the design process. This tool is still in development, but feedback is welcome while we work on it. If you only use one filter, use the greyscale filter which will not only point out potential problem areas, but will also let you see more clearly which areas the filter is unable to process.&quot; 
+   
+   
+* [Colour Contrast Determinator - Vision Australia](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/tools-to-download/colour-contrast-determinator)
+ 
+   &quot;This tool is a colour contrast analyser that makes it easy to find colours with sufficient contrast. Simply type in colour values or copy and paste a value form a style sheet, then use the sliders to adjust the colour - full height on the slider means the colour has sufficient contrast.&quot;
 
-* [Eye Dropper Chrome extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)   
+* [Eye Dropper Chrome extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)
+
+  &quot;Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history. Eye Dropper is extension for Google Chrome and Chromium. It allows you to pick color from any webpage or from advanced color picker. It is great tool for web developers.&quot;
+   
    
 * [NoCoffee Vision Simulator - Chrome extension by Aaron Leventhal](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 
-  &quot;NoCoffee can be helpful for understanding the problems faced by people with slight to extreme vision problems&quot;        
+  &quot;NoCoffee can be helpful for understanding the problems faced by people with slight to extreme vision problems, such as&quot;: Low Acuity, Low Contrast Sensitivity, Colorblindness        
 * [Sim Daltonism - Michel Fortin](https://michelf.ca/projects/sim-daltonism/)
 
-  "Sim Daltonism is a color the area around the mouse pointer and display the result in a floating palette."
+  &quot;Sim Daltonism lets you visualize colors as they are perceived with various types of color blindness. Use the camera on your iOS device, or use the Mac app to filter a region of the screen.&quot;
+  
 * [Vischeck](http://www.vischeck.com/vischeck/vischeckURL.php)
 
   Vischeck is a way of showing you what things look like to someone who is color blind. You can use it on a single image or on a web page. You can also download programs to let you run it on your own computer.
@@ -61,33 +90,46 @@ Here are some tools that specifically check for color contrast accessibility iss
 
 * [ColorZilla &#8211; color picker for Firefox and Chrome](http://www.colorzilla.com/chrome/)
 
-  "ColorZilla is an extension for Mozilla Firefox and the Mozilla Suite. It assists web developers and graphic designers with color related tasks - both basic and advanced. With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program."
+   ColorZilla for Google Chrome and for Mozilla Firefox &quot;is an extension that assists web developers and graphic designers with color related tasks - both basic and advanced.&quot;
+  
+   &quot;ColorZilla includes a Color Picker, Eye Dropper, Gradient Generator and many additional advanced color tools. With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. You can analyze the page and inspect a palette of its colors. You can create advanced multi-stop CSS gradients.&quot;
+
+  
+  
 * [Hex Naw - The Scenery](https://hexnaw.com/)
 
-  &quot;Hex Naw is a tool that helps designers and developers test entire color systems for contrast and accessibility...&quot;  
+  &quot;Hex Naw is a tool that helps designers and developers test entire color systems for contrast and accessibility. Plug in your palette or color system and let Hex Naw do the rest.&quot;  
+  
 * [HTML Color Codes -  By Alex Dixon](http://htmlcolorcodes.com/)
 
   &quot;Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names...&quot;
+  
 * [The Color Palette Creator - S.G. Chipman](http://slayeroffice.com/tools/color_palette/)
 
+  &quot;It will create 10 shades of the base color, located top-left, at varying degrees of opacity. The top row emulates opacity over a white background, the bottom over black (or colors of your choosing as of v1.4). The opacity values are 100% opaque, 75%, 50%, 25% and 10% on the top row. The bottom row begins at 85% rather than 100% and continues on as the first.&quot;
 
 		
 ### Contrast Tools
 
 * [Accessible Colors - Misha Moroshko and Vedran Arnautovic](http://accessible-colors.com/)
 
-  "We evaluate your color combination using the WCAG 2.0 guidelines for contrast accessibility."
-* [CheckMyColours - Giovanni Scala](http://www.checkmycolours.com)
+  &quot;We evaluate your color combination using the WCAG 2.0 guidelines for contrast accessibility. If your combination does not meet the guidelines, we find the closest accessible combination by modifying the color lightness. We modify the lightness value only, in order to stay as true to the original color as possible.&quot;
+  
+* [CheckMyColours &#8211; by Giovanni Scala](http://www.checkmycolours.com)
 
-  "A tool for checking foreground and background color combinations of all DOM elements and determining if they provide sufficient contrast when viewed by someone having color deficits. All the tests are based on the algorithms suggested by the World Wide Web Consortium..."
-* [Color Contrast Analyzer for Chrome - Greg Kraus](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en)
+  &quot;It is a tool for checking foreground and background color combinations of all DOM elements and determining if they provide sufficient contrast when viewed by someone having color deficits. All the tests are based on the algorithms suggested by the World Wide Web Consortium (W3C).&quot;
+  
+* [Color Contrast Analyzer for Chrome - by NCSU/Greg Kraus](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en)
 
-  &quot;Analyze a web page or portion of a web page for conformance with WCAG 2.0 Color Contrast requirements.&quot;
+  &quot;This extension allows you to analyze text color contrast problems on a webpage according to the WCAG 2 text color contrast requirements. It evaluates the page as it appears in the browser, so it is able to handle text over gradients and advanced CSS attributes. You can choose to analyze a portion of a web page, the entire visible contents of a tab, or an entire web page.&quot;
 
-* [Chrome Color Contrast Analyzer plug-in](https://chrome.google.com/webstore/search/color%20contrast%20analyzer)
+* [Color Contrast Checker for Chrome](https://chrome.google.com/webstore/detail/color-contrast-checker/jibccbkkepidahndjomdfbmbnfappopf)
+
+  &quot;Test your web content to make sure the luminosity ratio meets WCAG 2.0 level AA and AAA.&quot;
+  
 * [ColorA11y Chrome extension](https://chrome.google.com/webstore/detail/colora11y/icfneoldcbdmgaiocnnobpbbjncdfbfb?hl=en)
-* [Color Contrast Analyzer &#8211; Chrome extension by NCSU/Greg Kraus (supports gradients and advanced CSS attributes)](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
 
+  &quot;ColorA11y allows you to easily select a foreground color and a background color, and determine whether or not the contrast ratio between the 2 colors is WCAG 2.0 compliant. ColorA11y can help validate the existence of web accessibility issues you think you already have with color contrast. This Developer Tools extension can also help verify you're technically adhering to the WCAG 2.0 color contrast guidelines.&quot; 
   
 * [Color Contrast Checker - Jared Smith, WebAIM](http://webaim.org/resources/contrastchecker/)
 
@@ -102,9 +144,7 @@ Here are some tools that specifically check for color contrast accessibility iss
 * [Colour Contrast Check Tool - Jonathan Snook.](https://snook.ca/technical/colour_contrast/colour.html)
 
   "The Colour Contrast Check Tool allows to specify a foreground and a background colour and determine if they provide enough of a contrast 'when viewed by someone having color deficits or when viewed on a black and white screen.'"
-* [Colour Contrast Determinator -  Pierre Frederiksen](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/tools-to-download/colour-contrast-determinator)
 
-  &quot;This tool is a colour contrast analyser that makes it easy to find colours with sufficient contrast. Simply type in colour values or copy and paste a value form a style sheet, then use the sliders to adjust the colour - full height on the slider means the colour has sufficient contrast.&quot; 
 * [Colour Contrast Analyser app - Paciello Group](https://www.paciellogroup.com/resources/contrastanalyser/)
   "It is primarily a tool for checking foreground &amp; background color combinations to determine if they provide good color visibility. It also contains functionality to create simulations of certain visual conditions such as color blindness..."
 * [Contrast Checker -  Acart Communications](http://contrastchecker.com/)
@@ -127,3 +167,14 @@ Here are some tools that specifically check for color contrast accessibility iss
 
   &quot;Checks for compliance with the contrast levels, brightness and shine in the color combination of foreground and background of textual content based on the requirements of WCAG 1 and WCAG 2...&quot;
 
+
+  
+  
+  
+  
+  
+  
+  
+  
+### Articles
+* [Color Contrast for Better Readability by Viget](https://viget.com/inspire/color-contrast)
