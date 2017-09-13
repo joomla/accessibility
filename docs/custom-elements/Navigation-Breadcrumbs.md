@@ -81,6 +81,6 @@ Accessible Breadcrumbs specification is defined in WAI-ARIA Authoring Practices 
 * [Thomas Baekdal: Usable Breadcrumbs with Guidelines](https://www.baekdal.com/insights/breadcrumbguidelines)
 * [Michel Vloon: Mission Impossible? Making Drupal 7 more accessible](https://www.nomensa.com/blog/2015/mission-impossible-making-drupal-7-more-accessible)
 * [Brandon Leibowitz: Breadcrumb Navigation: Good for Website Usability or Not?](http://blog.usabilla.com/breadcrumb-navigation-good-website-usability-not/)
-* [Breadcrumbs and Web Accessibility](http://www.ficksworkshop.com/blog/post/breadcrumbs-and-web-accessibility)
+* [Garret Fick: Breadcrumbs and Web Accessibility](http://www.ficksworkshop.com/blog/post/breadcrumbs-and-web-accessibility)
 
 
