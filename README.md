@@ -17,7 +17,7 @@ Our mission is to make all the Joomla properties, the CMS, framework and portal 
 ## This repository
 This repository contains:
 * [Joomla Accessibility Tutorials](https://github.com/joomla/accessibility/tree/master/docs/tutorials)
-* [Joomla accessibility of Joomla UI Components](https://github.com/joomla/accessibility/tree/master/docs/custom-elements)
+* [Joomla Accessibility of Joomla UI Components](https://github.com/joomla/accessibility/tree/master/docs/custom-elements)
 * [Accessibility Testing Procedures Documentation](https://github.com/joomla/accessibility/tree/master/docs/testing)
 
 ## How you can help?
