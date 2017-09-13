@@ -23,7 +23,7 @@ Accessible Breadcrumbs specification is defined in WAI-ARIA Authoring Practices 
 
 
 ## ARIA markup
-* role="navigation": Defines the breadcrumb element as the navigation landmark region.
+* `role="navigation"`: Defines the breadcrumb element as the navigation landmark region.
 * `aria-label="Breadcrumb"` or `aria-labelledby="IDREF"`: Provides a label or item ID that describes the type of navigation provided in the breadcrumb.
 * `aria-current="page"`: Applied to the last link in the set to indicate that it represents the current page. If the element representing the current page is not a link, `aria-current` is optional.
 
