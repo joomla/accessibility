@@ -54,7 +54,7 @@ Accessible Breadcrumbs specification is defined in WAI-ARIA Authoring Practices 
 * Include the full navigational path from the homepage to the current page.
 * Include the full page title in the breadcrumb trail. 
 
-## Mistakes in breadcrumb trail implementation
+## Mistakes in breadcrumbs implementation
 * Using breadcrumbs when you don’t need to.
 * Using breadcrumb trails as primary navigation.
 * Using breadcrumbs when pages have multiple categories.
