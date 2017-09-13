@@ -61,7 +61,8 @@ Accessible Breadcrumbs specification is defined in WAI-ARIA Authoring Practices 
 
 ## Resources
 ### WCAG references
-* [2.4.8 Location](https://www.w3.org/TR/2008/REC-WCAG20-20081211/#navigation-mechanisms-location) - Level AAA: Information about the user's location within a set of Web pages is available. 
+* [2.4.8 Location](https://www.w3.org/TR/2008/REC-WCAG20-20081211/#navigation-mechanisms-location) - Level AAA: Information about the user's location within a set of Web pages is available.
+* [Techniques for WCAG 2.0. G65: Providing a breadcrumb trail](https://www.w3.org/TR/WCAG20-TECHS/G65.html)
 
 ### Design patterns
 * [WAI-ARIA Authoring Practices 1.1 - Breadcrumb Example](https://www.w3.org/TR/wai-aria-practices/examples/breadcrumb/index.html)
@@ -75,11 +76,11 @@ Accessible Breadcrumbs specification is defined in WAI-ARIA Authoring Practices 
 * [Accessible breadcrumbs using ARIA](https://www.uvd.co.uk/blog/accessible-breadcrumbs-using-aria/)
 * [Chris Coyier: Exploring Markup for Breadcrumbs](https://css-tricks.com/markup-for-breadcrumbs/)
 * [Jacob Nielsen: Breadcrumb Navigation Increasingly Useful](https://www.nngroup.com/articles/breadcrumb-navigation-useful/)
-* [12 Effective Guidelines For Breadcrumb Usability and SEO by Justin Mifsud](http://usabilitygeek.com/12-effective-guidelines-for-breadcrumb-usability-and-seo/)
-* [Usable Breadcrumbs with Guidelines by Thomas Baekdal](https://www.baekdal.com/insights/breadcrumbguidelines)
+* [Justin Mifsud: 12 Effective Guidelines For Breadcrumb Usability and SEO](http://usabilitygeek.com/12-effective-guidelines-for-breadcrumb-usability-and-seo/)
+* [Jacob Gube: Breadcrumbs In Web Design: Examples And Best Practices](https://www.smashingmagazine.com/2009/03/breadcrumbs-in-web-design-examples-and-best-practices/)
+* [Thomas Baekdal: Usable Breadcrumbs with Guidelines](https://www.baekdal.com/insights/breadcrumbguidelines)
 * [Michel Vloon: Mission Impossible? Making Drupal 7 more accessible](https://www.nomensa.com/blog/2015/mission-impossible-making-drupal-7-more-accessible)
 * [Brandon Leibowitz: Breadcrumb Navigation: Good for Website Usability or Not?](http://blog.usabilla.com/breadcrumb-navigation-good-website-usability-not/)
-* [Techniques for WCAG 2.0. G65: Providing a breadcrumb trail](https://www.w3.org/TR/WCAG20-TECHS/G65.html)
 * [Breadcrumbs and Web Accessibility](http://www.ficksworkshop.com/blog/post/breadcrumbs-and-web-accessibility)
-* [Breadcrumbs In Web Design: Examples And Best Practices by Jacob Gube](https://www.smashingmagazine.com/2009/03/breadcrumbs-in-web-design-examples-and-best-practices/)
+
 
