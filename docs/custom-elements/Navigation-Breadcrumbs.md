@@ -1,4 +1,4 @@
-# Breadcrumbs (draft)
+# Breadcrumbs
 ## What it this
 **Purpose**: Users need to understand their current location and navigate within a hierarchical navigation scheme.
 
