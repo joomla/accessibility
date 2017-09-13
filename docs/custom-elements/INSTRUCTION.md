@@ -11,6 +11,7 @@
 - [The A11Y Project](http://a11yproject.com/patterns.html)
 - [AccDC Technical Style Guide](http://whatsock.com/tsg/)
 - [Code Library (Beta) by Deque](https://dequeuniversity.com/library/)
+- [Accessible solution by Adina](http://haltersweb.github.io/Accessibility/)
    
    **Note**:
    You can complete this list if you find here the specification that is not mentioned here.
