@@ -11,7 +11,7 @@ WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA
 
 ### Screen interaction
 * When the switch is selected, it receives focus. Focus is visible.
-* The states "pressed" and "not pressed" should be signalled, graphically and labeled.
+* The states "pressed" and "not pressed" should be signalled, graphically and labelled.
 
 ### Keyboard Interaction
 * **Tab** - navigate between switches and other controls
