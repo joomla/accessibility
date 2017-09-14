@@ -2,15 +2,15 @@
 ## What is this
 **Purpose**: Users need to navigate through pages of items.
 
-**Description**: Collections of data are often split into multiple pages for performance reasons. Either the size of the data is too much to download at once, or the size of the data would take too long to render all at once. Pagination controls allow for the user to retrieve or view pages of data in a performant matter.
+**Description**: Collections of data are often split into multiple pages for performance reasons. Either the size of the data is too much to download at once, or the size of the data would take too long to render all at once. Pagination controls allow for the user to retrieve or view pages of data in a performance-efficient manner.
 
 ### Terminology
-We use the following terminology when discussing this pattern.
+We use the following terminology, when discussing this subject.
 
 * **Pagination**: The composite patterns as a whole, containing the items defined below
-* **Previous**: Link that navigates to previous page of results
-* **Next**: Link that navigates to next page of results
-* **Items**: Links that navigate to exact page of results
+* **Previous**: Link that navigates to the previous page of results
+* **Next**: Link that navigates to the next page of results
+* **Items**: Links that navigate to the exact page of results
 * **Bookends**: Collective name for the previous and next links, as they 'bookend' the navigation items
 * **Current Page**: The current resultset index, as reflected in the pagination UI
 
@@ -20,20 +20,20 @@ We use the following terminology when discussing this pattern.
 
 ### Keyboard Interaction
 * **Tab** or **Shift+Tab**: move focus to next or previous link
-* **Entter** or **Space:** open link
+* **Enter** or **Space:** open link
 
 #### Behavior
 * The bookend and item links must be keyboard focusable at all times (even when visually disabled).
 * If the Previous bookend has keyboard focus, pressing TAB key must move focus to first pagination link.
 * If pagination item has keyboard focus, pressing TAB key must move focus to next pagination item.
-* If last pagination item has keyboard focus, pressing TAB key must move focus to Next bookend link.
+* If the last pagination item has keyboard focus, pressing TAB key must move focus to Next bookend link.
 * For client-side pagination, keyboard focus must remain on the previous, next or item link after activation.
 
 ### Screenreader Interaction
 
 * Bookend link text must be announced (i.e. "Previous page" and "Next page").
-* If bookend links are visually disabled, they must also be announced as disabled.
-* If a pagination item is visually displayed as the current page, it must also be announced as the current page.
+* If bookend links are visually disabled, they must also be announced, as disabled.
+* If a pagination item is visually displayed, as the current page, it must also be announced as the current page.
 * For client-side pagination, the new page index must be announced after previous, next or item link activation.
 
 ### Mouse Interaction
@@ -66,7 +66,7 @@ We use the following terminology when discussing this pattern.
 * **frontend**: On page types like: category blog, category list item
 
 ## Best practices
-* Do not use buttons for URL based pagination. Because the URL is updated, and the browser history stack updated, a link is the correct tag to use.
+* Do not use buttons for URL based pagination. Because the URL and the browser history stack would be updated. A link is the correct tag to use.
 * Pagination must have a heading element. For example "Results Pagination". This heading can be hidden offscreen for sighted users.
 * Items must be marked up as a list of links (not buttons). Bookends must be marked up as links (not buttons).
 * Bookend icons should be created using SVG or Font Awesome (Glipicons)
