@@ -3,7 +3,7 @@
 
 ## What is this
 
-**Purpose**: User need input a command with one of the following possible action: submit form, reset form or action defined by JavaScript.
+**Purpose**: User needs to input a command with one of the following possible actions: submit form, reset form or action defined by JavaScript.
 
 **Description**: Buttons are used as triggers for actions. Depending on the use case, buttons contain a label and/or an icon. There are a variety of styles, sizes, and variations that can be used for different situations.
 
@@ -15,7 +15,7 @@ All button labels are sentence case. They should be as short as possible while c
 * `<a href="#" role="button">` only works with click and enter key, `<button>` works with spacebar also.
 * Focus jumps to top of page when user activates an `<a href="#">` control whereas focus stays put on a `<button>`.
 `<button>` looks like a Button, `<a href>` looks like a link.
-* If you forget the href attribute, i.e. `<a onclick>` then there is NO role, NO keyboard focusability, and NO enter key activation. `<a>` is basically the same as a `<span>` unless you have the href attribute.
+* If you forget the href attribute, i.e. `<a onclick>` then there is NO role, NO keyboard focusability, and NO enter key activation. `<a>` is basically the same as a `<span>` unless you include the href attribute.
 
 ## Accessibility
 ### Accessibility specification
@@ -26,14 +26,14 @@ Accessible buttons specification is defined in WAI-ARIA Authoring Practices 1.1.
 
 ### Screen look, behavior
 
-Buttons are interactive controls and thus focusable.
+Buttons are interactive controls and, thus, focusable.
 
-Buttons can be operated by both mouse users as well as keyboard users. For native HTML `<button>` elements, the button's onclick event will fire both for mouse clicks and when pressing **Space** or **Enter**, while the button has focus. 
+Buttons can be operated by both mouse users, as well as keyboard users. For native HTML `<button>` elements, the button's onclick event will fire both for mouse clicks and when pressing **Space** or **Enter**, while the button has focus. 
 
 ### Keyboard interaction
 
 * **Space** or **Enter**: executes the action for that button.
-* **Tab** or **Shift+Tab**: if button has focus, should move to the next or previous focusable page element respectively
+* **Tab** or **Shift+Tab**: if button has focus, should move to the next or previous focusable page element, respectively
 
 **Behavior**
 
@@ -93,14 +93,14 @@ _The content for this section is not yet available, please check back again for 
 
 ## Best practices
 * Use the `<a>` tag if the button is a link to another page, or a link to an anchor within a page.
-* Use the `<button>` tag if the button performs an action that changes something on the current page.
+* Use the `<button>` tag, if the button performs an action that changes something on the current page.
 * Buttons should always have an accessible name. For most buttons, this name will be the same as the text inside the button. In some cases, for example for icon buttons, the accessible name can be provided through an aria-label or aria-labelledby attribute.
 * Use sentence case for button labels.
 * Button labels should be as short as possible with "trigger words" that your users will recognize to clearly explain what will happen when the button is clicked (for example, "download," "view" or "sign up").
 * Make the first word of the button's label a verb. For example, instead of "Complaint Filing" label the button "File a complaint."
 * At times, consider adding an icon to signal specific actions ("download", "open in a new window", etc).
 * Make sure that the text of the button is descriptive. If for some reason, your button contains no readable text (for example, just a symbol or icon), add screen reader-only text to the button to clarify its purpose. The symbol or icon should be wrapped in an element with the attribute aria-hidden="true", to prevent screen readers from trying to pronounce the symbol.
-* Style the button most users should click in a way that distinguishes from other buttons on the page. Try using the "large button" or the most visually distinct fill color.
+* Style the button most users should click,  in a way that distinguishes from other buttons on the page. Try using the "large button" or the most visually distinct fill color.
 * Make sure buttons should look clickable - use color variations to distinguish static, hover and active states.
 * Avoid using too many buttons on a page.
 
