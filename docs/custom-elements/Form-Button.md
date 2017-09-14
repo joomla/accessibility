@@ -1,5 +1,5 @@
 # Button
-> **Work in progress**: This page is a work in progress. Please [file an issue](https://github.com/joomla/accessibility/issues) or submit a pull request if information or coding is missing, incorrect or out of sync with the main repository
+> **Work in progress**: This page is a work in progress. Please [file an issue](https://github.com/joomla/accessibility/issues/11) or submit a pull request if information or coding is missing, incorrect or out of sync with the main repository
 
 ## What is this
 
