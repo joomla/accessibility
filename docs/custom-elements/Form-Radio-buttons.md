@@ -45,9 +45,7 @@ If focus is on the first radio button in the group, move focus to the last radio
 * Tapping radio **must** toggle the checked state.
 * Tapping radio label **must** toggle the checked state.
 
-ARIA markup
-
-
+## ARIA markup
 * `role="radiogroup"`: identifies the div element as a container for a group of radio buttons. The descendent radio buttons are considered part of the group. The accessible name comes the aria-labelledby attribute, which points to the element that contains the label text. The radiogroup widget does not need a tabindex value, since the `ul[role"radiogroup"]` element never receives keyboard focus.
 * `aria-labelledby="[IDREF]"`: points to the element that contains the test for defining an accessible name (e.g. label) for the group of radio buttons.
 * `role="radio"`: identifies the div element as an ARIA radio button. The accessible name comes the child text content of the div element. The radio widget has a manged tabindex value, one radio button must have a `tabindex="0"` and the rest of the daio buttons in the group a `tabindex="-1"`. See [ Managing Focus ... Using a Roving tabindex](https://www.w3.org/TR/wai-aria-practices-1.1/#kbd_roving_tabindex) for more information
