@@ -8,15 +8,15 @@
 ### Accessibility specification
 Simple tables can have two levels of headers. Each header cell should have `scope="col"` or `scope="row"`.
 * Complex tables are tables with more than two levels of headers. Each header should be given a unique id and each data cell should have a headers attribute with each related header cell's id listed.
-* When adding a title to a table, include it in a <caption> tag inside of the `<table>` element.
+* When adding a title to a table, it should be included, in a <caption> tag inside of the `<table>` element.
 
 ## Design interaction
 ### Screen look, behavior
 
-_The content for this section is not yet available, please check back again for updates._
+_The content, for this section, is not yet available, please check back again for updates._
 
 ### Keyboard interaction
-The only special consideration for table is sortable columns. Typically this is achieved by adding a toggle button as the contents of the table header cell. The usual rules for button apply.
+The only special consideration for a table is that columns should be sortable. Typically this is achieved by adding a toggle button as the contents of the table header cell. The usual rules for button apply.
 
 ### Screen reader interaction
 * Table must be visible in screen reader list of tables.
@@ -26,11 +26,11 @@ The only special consideration for table is sortable columns. Typically this is 
 * Screen reader must announce value of column header when instructed to do so.
 * Sortable column must be announced by screen reader.
 * Current sort state of sortable columns must be announce by screen reader.
-* When moving from column to column, screen reader announces new column scope. Typically this scope is the value of the column header.
-* When moving from row to row, screen reader announces new row scope. Typically this scope is the value of the row header.
+* When moving from column to column, screen reader announces the new column scope. Typically this scope is the value of the column header.
+* When moving from row to row, screen reader announces the new row scope. Typically this scope is the value of the row header.
 
 ### Mouse / Pointer / Touch interaction
-The only special consideration for table is sortable columns. Typically this is achieved by adding a toggle button as the contents of the table header cell. The usual rules for button apply.
+The only special consideration for a table is that columns should be sortable. Typically this is achieved by adding a toggle button as the contents of the table header cell. The usual rules for button apply.
 
 ## ARIA markup
 * `role="presentation"`: If you need to use a layout formatting table, use this role.
@@ -38,7 +38,7 @@ The only special consideration for table is sortable columns. Typically this is 
 ## Why is it important?
 > **Why is this important?**
 
-> Tables without structural markup to differentiate and properly link between header and data cells, create accessibility barriers. Relying on visual cues alone is not sufficient to create an accessible table. With structural markup, headers and data cells can be programmatically determined by software, which means that:
+> Tables, without structural markup to differentiate and properly link between header and data cells, create accessibility barriers. Relying on visual cues alone is not sufficient to create an accessible table. With structural markup, headers and data cells can be programmatically determined by software, which means that:
 
 > - **People using screen readers** can have the row and column headers read aloud as they navigate through the table. Screen readers speak one cell at a time and reference the associated header cells, so the reader doesn't lose context.
 > - **Some people use alternative ways to render the data**, for example by using custom stylesheets to display header cells more prominently. Techniques like this enable them to change text size and colors and display the information as lists rather than grids. The table code needs to be properly structured to allow alternative renderings.
@@ -82,7 +82,7 @@ _The content for this section is not yet available, please check back again for 
 
 ## Best practics
 * Tables are great at displaying tabular data. Minimal visual styling helps surface this information more easily.
-* Every table requires a caption element. The summary attribute is deprecated in HTML5.
+* Every table requires a caption element. The summary attribute is deprecated, in HTML5.
 * Every table cell should have a logical column header or row header.
 * Do not use tables for row/column layout of page or modules.
 
