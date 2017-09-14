@@ -60,7 +60,7 @@ The accordion takes up one **tab** stop in the tab order. It can be navigated wi
 * **role**: The accordion is marked up as tablist, the header panel is marked up as tab and the content panel is marked up as tabpanel.
 **Alternatively**: header panel is marked up as heading and button, content panel is marked up as region.
 * **aria-expanded**: Set to true when the accordion panel is expanded, otherwise set to false.
-* **aria-controls**: Points to the ID of the panel which the header controls (Each button has a unique name aria-controls="id" that associates the control to the appropriate region by referencing the controlled element's id).
+* **aria-controls**: Points to the ID of the panel, which the header controls (Each button has a unique name aria-controls="id" that associates the control to the appropriate region by referencing the controlled element's id).
 * **aria-hidden**: Each content area will have its aria-hidden attribute set to either true or false by the component, depending on its corresponding button's aria-expanded attribute.
 * **aria-disabled**: If the accordion panel is expanded and is not allowed to be collapsed, then set to true.
 * **aria-labelledby**: Points to the accordion header; labels the landmark region with the accordion header.
@@ -71,7 +71,7 @@ The accordion takes up one **tab** stop in the tab order. It can be navigated wi
 | **tab** | - | - | - |
 | **tabpanel** | - | - | - |
 | - | **aria- expanded** | - | Set to _true_ when the accordion panel is expanded, otherwise set to _false_. |
-| - | **aria-controls** | - | Points to the ID of the panel which the header controls (Each button has a unique name aria-controls="id" that associates the control to the appropriate region by referencing the controlled element's id). |
+| - | **aria-controls** | - | Points to the ID of the panel which the header controls (Each button has a unique name aria-controls="id" that associates the control to the appropriate region, by referencing the controlled element's id). |
 | - | **aria- hidden** | - | Each content area will have its aria-hidden attribute set to either _true_ or _false_ by the component, depending on its corresponding buttons aria-expanded attribute. |
 | - | **aria- disabled** | - | If the accordion panel is expanded and is not allowed to be collapsed, then set to _true_. |
 | - | **aria- labelledby** | - | Points to the accordion header; labels the landmark region with the accordion header. |
