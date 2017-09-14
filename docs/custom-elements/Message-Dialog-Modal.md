@@ -4,15 +4,15 @@
 
 A Dialog enables the user to get information or handle a form and enter data, without leaving the primary window. A Dialog starts when the user activates a button or a Link which acts as button.
 
-For accessibility this link or button should inform the user that it opens a Modal Dialog.
+For accessibility, this link or button should inform the user that it opens a Modal Dialog.
 
 **Description**:
 
 Dialogs are most often used to prompt the user to enter or respond to information.
 
-A dialog that is designed to interrupt workflow is usually modal. ****Windows under a modal dialog are inert. That is, users cannot interact with content outside an active dialog window. Inert content outside an active dialog is typically visually obscured or dimmed so it is difficult to discern, and in some implementations, attempts to interact with the inert content cause the dialog to close.
+A dialog that is designed to interrupt workflow is usually modal. ****Windows, under a modal dialog, are inert. That is, users cannot interact with content, outside an active dialog window. Inert content, outside an active dialog, is typically visually obscured or dimmed so it is difficult to discern and, in some implementations, attempts to interact with the inert content to cause the dialog to close.
 
-Modal Dialogs are only usable when JS is enabled.
+Modal Dialogs are only usable, when JS is enabled.
 
 ## Accessibility
 ### Accessibility specification
@@ -24,31 +24,29 @@ Accessible dialog is defined in WAI-ARIA Authoring Practices 1.1.
 
 ### Small Screens
 
-To make the content easier to read when displayed on small screens, the dialog fills 100% of the screen. Completely covering the background window also hides background movement that occurs on some mobile devices when scrolling content inside the dialog and
+To make the content easier to read when displayed on small screens, the dialog fills 100% of the screen. Completely covering the background window, also hides background movement that occurs on some mobile devices, when scrolling content inside the dialog and
 
-Modal Windows are difficult not only for blind but for unexperienced users.
+Modal Windows are difficult not only for blind but for inexperienced users.
 
-Inexperienced users who do not understand the principle of overlaying windows try to close the modal by closing the tab itself and therefore the whole application. This may cause the loss of a input in a form.
+Inexperienced users, who do not understand the principle of overlaying windows, try to close the modal by closing the tab itself and therefore the whole application. This may cause the loss of a input in a form.
 
 ### Keyboard Interaction
 
 **Open Dialog**
 
-When a dialog opens, focus placement depends on the nature and size of the content.
+When a dialog opens, focus placement depends upon the nature and size, of the content.
 
-* In all circumstances, focus moves at open event to an element contained in the dialog.
+* In all circumstances, focus moves, at the open event, to an element contained in the dialog.
 * Unless a condition where doing otherwise is advisable, focus is initially set on the first focusable element.
 * If content is large enough that focusing the first interactive element could cause the beginning of content to scroll out of view, it is advisable to add tabindex="-1" to a static element at the top of the dialog, such as the dialog title or first paragraph, and initially focus that element.
 * If a dialog contains the final step in a process that is not easily reversible, such as deleting data or completing a financial transaction, it may be advisable to set focus on the least destructive action, especially if undoing the action is difficult or impossible. Alert Dialog Pattern is often employed in such circumstances.
 * If a dialog is limited to interactions that either provide additional information or continue processing, it may be advisable to set focus to the element that is likely to be most frequently used, such as an OK or Continue button.
-* If there is a long modal window possible (i.e. a list to select an entry) it is good practice, to set a cancel-button also on the top of the window. This prevents the user - also the user with mouse - to scroll down.
+* If there is a long modal window possible (i.e. a list, to select an entry), it is good practice to set a cancel-button, also, on the top of the window. This prevents the user - also the user with mouse - to scroll down.
 * Give the user an information how he can quit the Modal, this helps also inexperienced users who do not understand the principle of the overlaying window.
 
 **Work in Dialog**
 
-Modal dialogs contain their tab sequence. That is, Tab and Shift + Tab do not move focus outside the dialog. However, unlike most non-modal dialogs, modal dialogs do not provide means for moving keyboard focus outside the dialog window without closing the dialog. (Important
-
-In the following description, the term tabbable element refers to any element with a tabindex value of zero or greater. Note that values greater than 0 are strongly discouraged.)
+Modal dialogs contain their tab sequence. That is, Tab and Shift + Tab do not move focus outside the dialog. However, unlike most non-modal dialogs, modal dialogs do not provide means for moving keyboard focus outside the dialog window without closing the dialog. (Important: In the following description, the term 'tabbable element' refers to any element with a tabindex value of zero or greater. Note that values greater than 0 are strongly discouraged).
 
 * The tab sequence of all dialogs must include a visible element with role button that closes the dialog, such as a close icon or cancel button. It is recommended that the dismiss button is over the fold if the modal window becomes larger.
 * When a dialog opens, focus moves to an element inside the dialog. See notes below regarding initial focus placement.
@@ -85,31 +83,31 @@ For example, a grid has an associated toolbar with a button for adding rows. the
 ## ARIA markup
 
 * The element that serves as the dialog container has a role="dialog". 
-* All elements required to operate the dialog are descendants of the element that has role dialog.
+* All elements, required to operate the dialog, are descendants of the element that has role dialog.
 * The dialog container element has aria-modal="true". 
 * The dialog has either:
   * A value set for the aria-labelledby property that refers to a visible dialog title.
   * A label specified by aria-label.
-* Optionally, the aria-describedby property is set on the element with the dialog role to indicate which element or elements in the dialog contain content that describes the primary purpose or message of the dialog. Specifying descriptive elements enables screen readers to announce the description along with the dialog title and initially focused element when the dialog opens.
+* Optionally, the aria-describedby property is set on the element with the dialog role to indicate which element or elements, in the dialog, contain content that describes the primary purpose or message of the dialog. Specifying descriptive elements enables screen readers to announce the description along with the dialog title and initially focused element, when the dialog opens.
 
-* **aria-labelledby="IDREF"**: Gives the dialog an accessible name by referring to the element that provides the dialog title. 
-* **aria-describedby="IDREF"**: Gives the dialog an accessible description by referring to the dialog content that describes the primary message or purpose of the dialog. Used in three of the four dialogs included in the example. See the above accessibility features section for an explanation.
-* **aria-modal="true"**: Tells assistive technologies that the windows underneath the current dialog are not available for interaction (inert).
+* **aria-labelledby="IDREF"**: Gives the dialog an accessible name, by referring to the element that provides the dialog title. 
+* **aria-describedby="IDREF"**: Gives the dialog an accessible description, by referring to the dialog content that describes the primary message or purpose of the dialog. Used in three of the four dialogs, included in the example. See the above accessibility features section for an explanation.
+* **aria-modal="true"**: Tells assistive technologies that the windows, underneath the current dialog, are not available for interaction (inert).
 
 ## Usability
 
-Modal windows are difficult not only for blind but for unexperienced users.
+Modal windows are difficult not only for blind but for inexperienced users.
 
-Inexperienced users who do not understand the principle of overlaying windows try to close the modal by closing the tab itself and therefore the whole application. This may cause the loss of a input in a form.
+Inexperienced users who do not understand the principle, of overlaying windows, try to close the modal, by closing the tab itself and, therefore, the whole application. This may cause the loss of a input in a form.
 
 ### When to use
 
 * If content should be hidden when the window is open.
-* If content or form is dynamically created depending on what the user has entered before
+* If content or form is dynamically created depending on what the user has entered before.
 
 ### When to consider something else
 
-* If the modal contains a form, the user cannot print it if he wants to have a copy of his input. This is only important if a dialog contains a form, for example for a booking / reservation. If this is important, find another solution (Or a solution for printing only the content of the modal). This is a general problem of modal dialogs, no topic for accessibility.
+* If the modal contains a form, the user cannot print it, if he wants to have a copy of his input. This is only important if a dialog contains a form, for example for a booking / reservation. If this is important, find another solution (or a solution, for printing only the content, of the modal). This is a general problem of modal dialogs, not a topic for accessibility.
 
 ### Use in Joomla
 
@@ -178,8 +176,8 @@ There are different types of dialogs which overlay the primary window.
 
 * **Lightboxes** - Overlay the primary window but the main window can be reached by the user. An interaction with the primary window closes the lightbox. In general used for presenting images.
 * **Modal Dialogs** - The user cannot interact with the underlying (main) window until he closes the Modal. In general, dialogs contain forms with input fields.
-* **Messages**: Overlaying windows which do not contain input fields, and in general do not make the main window inert.
-* **Alerts**: Overlaying windows which may require an (.. Bestätigung durch den user)
+* **Messages**: Overlaying windows, which do not contain input fields and, in general, do not make the main window inert.
+* **Alerts**: Overlaying windows which may require a confirmation, from the user.
 * Popovers, Tooltips
 
 This document is on modal dialog windows.
