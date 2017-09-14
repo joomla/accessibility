@@ -23,11 +23,11 @@ Tooltip can be navigated with the following shortcuts:
 * Overlay **must** appear after short delay when host receives focus.
 * Focus **must** move from host to first focusable control in overlay.
 * Overlay **must** disappear when focus leaves flyout.
-* Focus should not move to overlay element itself, only it's focusable children.
-* The show and hide delays of an overlay may vary dependent upon the need, but the default is 200ms to show and 0ms to hide
+* Focus should not move to overlay element itself, only its focusable children.
+* The show and hide delays of an overlay may vary, dependent upon the need but the default is 200ms, to show and 0ms, to hide
 * Tooltips cannot be interacted with.
 ### Screenreader
-* Assistive technology that supports tooltip role will announce the overlay content after a short delay. This delay is configurable in most screen readers.
+* Assistive technology that supports tooltip role will announce the overlay content, after a short delay. This delay is configurable in most screen readers.
 * Reading order must flow directly from host into overlay.
 ### Mouse
 * Overlay must appear after short delay whenever host receives mouseover. Overlay must disappear when neither the host or overlay have mouseover.
@@ -38,7 +38,7 @@ Tooltip can be navigated with the following shortcuts:
 | **Role** | **States, and Properties** | **HTML tag** | - |
 | --- | --- | --- | --- |
 | **tooltip** | - | - | Element that serves as the tooltip container |
-| - | **aria-describedby** | - | The element that triggers the tooltip references the tooltip element with aria-describedby. |
+| - | **aria-describedby** | - | The element that triggers the tooltip references the tooltip element, with aria-describedby. |
 
 ### Notes:
 
@@ -48,13 +48,13 @@ Instead, aria-describedby must be set on the triggering element so that it refer
 
 The triggering element may consist of any active element or interactive widget type that is focusable and includes a valid role.
 
-If the triggering element does not consist of a native active element, it must be made keyboard accessible.
+If the triggering element does not consist of a native active element, it must be made keyboard-accessible.
 
-When the mouse moves over the triggering element, or when the triggering element receives focus, the Tooltip should be rendered.
+When the mouse moves over the triggering element or, when the triggering element receives focus, the Tooltip should be rendered.
 
-When the mouse moves away from the triggering element, or when the triggering element loses focus, the Tooltip should be removed or hidden.
+When the mouse moves away from the triggering element or, when the triggering element loses focus, the Tooltip should be removed or hidden.
 
-If the aria-describedby attribute is programmatically changed on the triggering element while it still has focus, a description\_changed event will fire so that assistive technologies can convey the new Tooltip information appropriately.
+If the aria-describedby attribute is programmatically changed on the triggering element while it still has focus, a description\_changed event will fire, so that assistive technologies can convey the new Tooltip information, appropriately.
 
 ### Why is it important?
 [...]
@@ -62,7 +62,7 @@ If the aria-describedby attribute is programmatically changed on the triggering 
 ## Usability
 ### When to use
 
-* Tooltips can be attached to any element. When you hover the element with your mouse, the title attribute is displayed in a little box next to the element, just like a native tooltip.
+* Tooltips can be attached to any element. When you hover the element with your mouse, the title attribute is displayed in a little box, next to the element, just like a native tooltip.
 * Tooltips are also useful for form elements, to show some additional information in the context of each field.
 
 ### Use in Joomla
