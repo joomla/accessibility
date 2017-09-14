@@ -1,9 +1,9 @@
-# Toggle swichtes
+# Toggle switches
 ## What is this
 
 **Purpose**: Users need to toggle an option between on/off or yes/no.
 
-**Description**: A switch provides approximately the same functionality as a checkbox and toggle button, but makes it possible for assistive technologies to present the widget in a fashion consistent with its on-screen appearance.
+**Description**: A switch provides approximately the same functionality, as a checkbox and toggle button, but makes it possible for assistive technologies to present the widget in a fashion consistent with its on-screen appearance.
 
 ## Accessibility
 ### Accessibility specification
@@ -11,10 +11,10 @@ WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA
 
 ### Screen interaction
 * When the switch is selected, it receives focus. Focus is visible.
-* The states "pressed" and "not pressed" should be signaled graphically and labeled.
+* The states "pressed" and "not pressed" should be signalled, graphically and labeled.
 
 ### Keyboard Interaction
-* **Tab** - navigate between switches or other controls
+* **Tab** - navigate between switches and other controls
 * **Space** - toggle the state of the selected switch.
 
 ### Screenreader Interaction
@@ -34,7 +34,7 @@ WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA
    
    Toggle buttons require a full press-and-release cycle to change their value. Activating it once changes the value to true, and activating it another time changes the value back to false.
 
-   The aria-pressed attribute is similar but not identical to the aria-checked attribute. Operating systems support pressed on buttons and checked on checkboxes
+   The aria-pressed attribute is similar but not identical to the aria-checked attribute. Operating systems support 'pressed', on buttons and 'checked', on checkboxes
 
 ### Why is it important?
 
@@ -48,7 +48,7 @@ WAI-ARIA defines and describes only the switch attribute. Please read: [The ARIA
 
 ## Best practices
 * Use a toggle switch for a binary option where the change occurs immediately.
-* Use a checkbox instead if the user has to perform other actions for the change to be effective (e.g., pressing Save or Submit).
+* Use a checkbox, instead, if the user has to perform other actions, for the change to be effective (e.g., pressing Save or Submit).
 
 ## Code patterns for Joomla and Joomla extensions
 
