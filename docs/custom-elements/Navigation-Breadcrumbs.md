@@ -1,8 +1,8 @@
 # Breadcrumbs
 ## What it this
-**Purpose**: Users need to understand their current location and navigate within a hierarchical navigation scheme.
+**Purpose**: Users need to understand their current location and navigate, within a hierarchical navigation scheme.
 
-**Description**: _Breadcrumbs_ or _Breadcrumb trail_ consists of a list of links to the parent pages of the current page in hierarchical order.  Breadcrumbs let the user know their current position in the site hierarchy and the ability to navigate up the structure easily.
+**Description**: _Breadcrumbs_ or _Breadcrumb trail_ consists of a list of links to the parent pages of the current page, in hierarchical order.  Breadcrumbs let the user know their current position, in the site hierarchy and gives the ability to navigate up the structure, easily.
 
 Breadcrumbs are often placed horizontally before a page's main content.
 
@@ -25,13 +25,13 @@ Accessible Breadcrumbs specification is defined in WAI-ARIA Authoring Practices 
 ## ARIA markup
 * `role="navigation"`: Defines the breadcrumb element as the navigation landmark region.
 * `aria-label="Breadcrumb"` or `aria-labelledby="IDREF"`: Provides a label or item ID that describes the type of navigation provided in the breadcrumb.
-* `aria-current="page"`: Applied to the last link in the set to indicate that it represents the current page. If the element representing the current page is not a link, `aria-current` is optional.
+* `aria-current="page"`: Applied to the last link, in the set, to indicate that it represents the current page. If the element representing the current page is not a link, `aria-current` is optional.
 
 ## Utilities
 ### When to use
 * Use breadcrumb navigation for large websites and websites that have hierarchically arranged pages. 
 ### When to consider something else
-* You shouldn’t use breadcrumbs for single-level websites that have no logical hierarchy or grouping.
+* Breadcrumbs should not be used for single-level websites that have no logical hierarchy or grouping.
 * Breadcrumb navigation should be regarded as an extra feature and shouldn’t replace effective primary navigation menus.
 
 
@@ -42,7 +42,7 @@ Accessible Breadcrumbs specification is defined in WAI-ARIA Authoring Practices 
 * The set of links is structured using an ordered list.
 * Used as secondary navigation.
 * Never replace primary navigation. 
-* Not be used if all the pages are on the same level.
+* Not be used, if all the pages are on the same level.
 * Show the site hierarchy, not the user's history. 
 * Be located in the top half of your web page. 
 * Not be too large. 
