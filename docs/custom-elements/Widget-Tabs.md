@@ -30,7 +30,7 @@ The tablist takes up one tab stop in the tab order. It can be navigated with the
 
 **For the tab list:**
 
-* **Tab**: When the tab list is receiving focus, places focus on the active tab element. When the tab list contains the focus, moves focus to the next element in the page tab sequence outside the tablist, which is typically either the first focusable element inside the tab panel or the tab panel itself.
+* **Tab**: When the tab list is receiving focus, places focus on the active tab element. When the tab list contains the focus, moves focus to the next element in the page tab sequence, outside the tablist, which is typically either the first focusable element inside the tab panel or the tab panel itself.
 
 **When focus is on a tab element in a horizontal tab list:**
 
@@ -39,15 +39,15 @@ The tablist takes up one tab stop in the tab order. It can be navigated with the
 
 **When focus is on a tab in a tablist with either horizontal or vertical orientation:**
 
-* **Space or Enter**: Activates the tab if it was not activated automatically on focus.
+* **Space or Enter**: Activates the tab, if it was not activated automatically, on focus.
 * **Home** (Optional): Moves focus to the first tab
 * **End** (Optional): Moves focus to the last tab.
 * **Shift + F10**: If the tab has an associated pop-up menu, opens the menu.
-* **Delete** (Optional): If deletion is allowed, deletes (closes) the current tab element and its associated tab panel. If any tabs remain, sets focus to the tab following the tab that was closed and activates the newly focused tab. Alternatively, or in addition, the delete function is available in a context menu.
+* **Delete** (Optional): If deletion is allowed, deletes (closes) the current tab element and its associated tab panel. If any tabs remain, sets focus to the tab following the tab that was closed and activates the newly focused tab. Alternatively or in addition, the delete function is available in a context menu.
 
 ### Screenreader Interaction
 
-* Tab must be announce as "Tab".
+* Tab must be announced as "Tab".
 * Tab label must be announced, for example "Select Shipping for me".
 * Tab selected state must be announced.
 * Virtual cursor navigation can move from tab to tab without changing the active tab selection. The invoke command (e.g. VO+SPACE on Voiceover) selects the tab under the virtual cursor.
@@ -64,13 +64,13 @@ The tablist takes up one tab stop in the tab order. It can be navigated with the
 
 **Commentary:**
 
-The aria-expanded state is used to distinguish between a Tab panel's expanded vs. collapsed state. An AT should be sensitive to aria-expanded, and relay it meaningfully to the user. Here are some role/state combinations and their meaning:
+The aria-expanded state is used to distinguish between a Tab panel's expanded vs. collapsed state. An AT should be sensitive to aria-expanded and relay it meaningfully, to the user. Here are some role/state combinations and their meaning:
 
-* (role=tablist + aria-multiselectable= **true**) is a Accordion ( **sic**!)
+* (role=tablist + aria-multiselectable= **true**) is an Accordion ( **sic**!)
 * (role=tablist + aria-multiselectable= **false**) is a Tab Panel
-* (role=tablist + aria-multiselectable= **true**) and (focus on role=tab + aria-expanded=true) is a Accordion ( **sic!**) Header whose panel is expanded
-* (role=tablist + aria-multiselectable= **false**) and (focus on role=tab + aria-expanded=true) is a Tab whose panel is expanded
-* (role=tablist + aria-multiselectable= **true**) and (focus on role=tab + aria-expanded=false) is a Accordion ( **sic!**) Header whose panel is collapsed.
+* (role=tablist + aria-multiselectable= **true**) and (focus on role=tab + aria-expanded=true) is an Accordion ( **sic!**) Header whose panel is expanded
+* (role=tablist + aria-multiselectable= **false**) and (focus on role=tab + aria-expanded=true) is a Tab, whose panel is expanded
+* (role=tablist + aria-multiselectable= **true**) and (focus on role=tab + aria-expanded=false) is an Accordion ( **sic!**) Header, whose panel is collapsed.
 
 | **Role** | **States,&nbsp;and&nbsp;Properties** | **HTML tag** | **Description** |
 | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Tabs are commonly used to reduce the need to scroll when presenting multiple sec
 
 ### Use in Joomla
 
-* Backend Joomla - multiple screens on which the configuration of an item is defined
+* Backend Joomla - multiple screens, on which the configuration, of an item, is defined
 * Contact component - single contact view
 * Content component - single article view (with plugin Pagebreak)
 
@@ -119,8 +119,8 @@ Tabs are commonly used to reduce the need to scroll when presenting multiple sec
 
 ## Best practices
 
-* You have multiple categories, views, and panes of content, but there is the need to only show one pane at a time.
-* Avoid overflowing tabs to new lines.
+* You have multiple categories, views, and panes of content but there is the need to only show one pane, at a time.
+* Avoid overflowing tabs, to new lines.
 * Tab titles should be short and predictable.
 * Tab buttons can contain icons, text, both, and even dropdowns.
 
@@ -130,8 +130,8 @@ Tabs are commonly used to reduce the need to scroll when presenting multiple sec
 * **1.3.3 Sensory Characteristics** (Level A): Instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape, size, visual location, orientation, or sound.
 * **2.1.1 Keyboard** (Level A): All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes, except where the underlying function requires input that depends on the path of the user's movement and not just the endpoints.
 * **2.4.3 Focus Order** (Level A): If a Web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.
-* **2.4.7 Focus Visible** (Level AA): Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible.
-* **4.1.2 Name, Role, Value** (Level A): For all user interface components (including but not limited to: form elements, links and components generated by scripts), the name and role can be programmatically determined; states, properties, and values that can be set by the user can be programmatically set; and notification of changes to these items is available to user agents, including assistive technologies.
+* **2.4.7 Focus Visible** (Level AA): Any keyboard-operable user interface has a mode of operation, where the keyboard focus indicator is visible.
+* **4.1.2 Name, Role, Value** (Level A): For all user interface components (including but not limited to: form elements, links and components generated by scripts), the name and role can be programmatically determined; states, properties, and values that can be set, by the user, can be programmatically set and notification of changes, to these items, is available to user agents, including assistive technologies.
 
 ## Reference
 ### Articles
