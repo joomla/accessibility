@@ -115,4 +115,3 @@ Utilities
 * [Open Ajax Accessibility ex. 29 Radiogroup: aria-activedescendant](http://oaa-accessibility.org/example/29/)
 * [Live demo: ARIA radio buttons by http://whatsock.com ](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Radio%20Buttons/ARIA%20Radio%20Buttons/demo.htm)
 * [Checkboxes and Radio Buttons by Deque](https://dequeuniversity.com/library/aria/custom-controls/sf-checkboxes-radios)
-
