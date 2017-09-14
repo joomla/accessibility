@@ -3,7 +3,7 @@
  - [Button](custom-elements/Form-Button)
  - [Checkboxes](custom-elements/Form-Checkboxes)
  - [Radio button](custom-elements/Form-Radio-buttons) 
- - [Toogle switches](custom-elements/Form-Toogle-switches)
+ - [Toogle switches](custom-elements/Form-Toggle-switches)
 - **Messages**
  - [Alert](custom-elements/Message-Alert)
  - [Dialog (Modal)](custom-elements/Message-Dialog-Modal)
