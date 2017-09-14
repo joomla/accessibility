@@ -14,9 +14,9 @@
 - [Accessible solution by Adina](http://haltersweb.github.io/Accessibility/)
    
    **Note**:
-   You can complete this list if you find here the specification that is not mentioned here.
+   You can complete this list, if you find, here, a specification that is not mentioned, here.
    Not all of these specifications describe all of our components
 
 2. Use the Google search to find the articles for the UI component for which you want to prepare the specification. Check out these articles. Pay attention to the opinions of good practice authors.
 3. Open the specification template or draft document into this folder.
-4. Compile the specification content. Pay attention when copying to avoid unnecessary content, references, comments. Try to customize the document style to the style used in the specifications you have already developed.
+4. Compile the specification content. Pay attention when copying, to avoid unnecessary content, references, comments. Try to customize the document style, to the style used in the specifications that you have already developed.
