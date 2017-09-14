@@ -1,6 +1,6 @@
 # Accessibility of Joomla UI Components 
 ## What is it?
-This is the repository of documents defining the requirements for the accessibiliity of the Joomla user interface components (Joomla UI Components).
+This is the repository of documents, defining the requirements, for the accessibiliity of the Joomla user interface components (Joomla UI Components).
 
 Here you can find a [collection of all documents the UI components](https://joomla.github.io/accessibility/#/) used in Joomla.
 
@@ -13,7 +13,7 @@ In the future, this documentation will be synchronized with the [Joomla UI Compo
 You can also contribute to the documentation.
 
 ### Develop a specification that is not yet available.
-If you do not already have a component specification, you can develop it or develop a draft for it.
+If you do not already have a component specification, you can develop it or develop a draft, for it.
 * [Use the instructions for the author](custom-elements/INSTRUCTION.md) of the specification.
 * [Use the specification template](custom-elements/template-description.md).
 ### Submit your suggestions
