@@ -4,7 +4,7 @@ The **User Agent Accessibility Guidelines (UAAG) 2.0** is part of a series of ac
 
 [User Agent Accessibility Guidelines](https://www.w3.org/TR/UAAG20/) documents explain how to make user agents accessible to people with disabilities. User agents include browsers, browser extensions, media players, readers and other applications that render web content.
 
-UAAG 2.0 was developed to help make future generations of Web browsers more accessible, to provide alternative information based on the users technology and platform, and to align with WCAG 2.0 and ATAG 2.0. UAAG 2.0 is complete. It provides specific guidance for browsers and other user agents, and reference information for accessibility professionals.
+UAAG 2.0 was developed to help make future generations of Web browsers more accessible, to provide alternative information based on the users technology and platform, and to align with WCAG 2.0 and ATAG 2.0. UAAG 2.0 is complete. It provides specific guidance for browsers and other user agents and reference information for accessibility professionals.
 
 ## Who UAAG is for 
 UAAG is primarily for developers of Web browsers, browser extensions, media players, readers and other applications that render web content.
