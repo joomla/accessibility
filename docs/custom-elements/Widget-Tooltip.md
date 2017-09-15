@@ -85,6 +85,7 @@ If the `aria-describedby` attribute is programmatically changed on the triggerin
 * [Building a fully-accessible help tooltip](https://www.sarasoueidan.com/blog/accessible-tooltips/)
 * [How can I make Twitter Bootstrap tooltips accessible?](https://stackoverflow.com/questions/19290384/how-can-i-make-twitter-bootstrap-tooltips-accessible)
 * [Thread: best tooltip markup and behavior?](http://webaim.org/discussion/mail_thread?thread=5041)
+* [Tooltip (with tutorial) by Athena ICT](http://accessibility.athena-ict.com/aria/examples/tooltip.shtml)
 * [The ARIA Role Matrices](http://whatsock.com/training/matrices/)
 
 ### Design Patterns
@@ -95,6 +96,7 @@ If the `aria-describedby` attribute is programmatically changed on the triggerin
 * [Open Ajax Accessibility ex. 40 - Tooltip: ARIA CSS selectors](http://oaa-accessibility.org/example/40/)
 * [Simple Tooltip by Whatsock.com][1]
 * [PaulJAdam's Modern Web Accessibility Demos](http://pauljadam.com/demos/)
+* [Tooltip (with tutorial) by Athena ICT](http://accessibility.athena-ict.com/aria/examples/tooltip.shtml)
 * [jQuery API documentation](http://api.jqueryui.com/tooltip/)
 * [Tooltip Dialog by Deque ](https://dequeuniversity.com/library/aria/popups-dialogs/sf-tooltip-dialog)
 * [Frend - A collective](https://frend.co/components/tooltip/)
