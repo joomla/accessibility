@@ -8,7 +8,7 @@
 
 ## Terms:
 
-* **tabs or tabbed Interface**: a set of tab elements and their associated tab panels.
+* **tabs or tabbed interface**: a set of tab elements and their associated tab panels.
 * **tab list**: a set of tab elements contained in a tablist element.
 * **tab**: an element in the tab list that serves as a label for one of the tab panels and can be activated to display that panel.
 * **tabpanel**: section of content associated with a tab header.
