@@ -93,9 +93,12 @@ If the `aria-describedby` attribute is programmatically changed on the triggerin
 * [Bootstrap 4.0: Tooltips](https://getbootstrap.com/docs/4.0/components/tooltips/)
 * [Open Ajax Accessibility ex. 39  - Tooltip](http://oaa-accessibility.org/example/39/) 
 * [Open Ajax Accessibility ex. 40 - Tooltip: ARIA CSS selectors](http://oaa-accessibility.org/example/40/)
-* Simple Tooltip by Whatsock.com: http://whatsock.com/tsg/Coding%20Arena/Tooltips/Tooltip%20(Internal%20Content)/demo.htm
+* [Simple Tooltip by Whatsock.com][1]
 * [PaulJAdam's Modern Web Accessibility Demos](http://pauljadam.com/demos/)
 * [jQuery API documentation](http://api.jqueryui.com/tooltip/)
 * [Tooltip Dialog by Deque ](https://dequeuniversity.com/library/aria/popups-dialogs/sf-tooltip-dialog)
 * [Frend - A collective](https://frend.co/components/tooltip/)
 * [ghosh - microtip](https://github.com/ghosh/microtip)
+
+
+[1]: http://whatsock.com/tsg/Coding%20Arena/Tooltips/Tooltip%20(Internal%20Content)/demo.htm
