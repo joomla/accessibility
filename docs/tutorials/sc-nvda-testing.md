@@ -7,7 +7,7 @@ NVDA has two different viewing modes:
 * **Browse mode** presents the textual information on web pages to the user and allows the user to navigate the page.
 * **Focus mode** allows the user to interact with forms and ARIA-enabled DHTML elements.
 
-The system focus, also known simply as the focus, is the object which receives keys typed on the keyboard. For example, if you are typing into an editable text field, the editable text field has the focus.
+The system focus, also known simply as the focus, is the object which receives keys, typed on the keyboard. For example, if you are typing into an editable text field, the editable text field has the focus.
 
 The most common way of navigating around Windows with NVDA is to simply move the system focus using standard Windows keyboard commands, such as pressing **Tab** and **Shift** + **Tab** to move forward and back between controls, pressing **Alt** to get to the menu bar and then using the arrows to navigate menus, and using **Alt** + **Tab** to move between running applications. As you do this, NVDA will report information about the object with focus, such as its name, type, value, state, description, keyboard shortcut and positional information.
 
@@ -32,7 +32,7 @@ The following is a sample testing sequence using NVDA that you can use as a star
 
 | Step&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Test | Yes | No | Note |
 | --- | --- | --- | --- | --- |
-| **Test 1** | **Listen to the page from top to bottom**.<br />- Is all of the content read? <br />The page should read top-to-bottom automatically. Use the **Ctrl** key if you wish to pause, and then use the **↓** to proceed through the document line by line. Is all of the content read?Return to the top of the page ( **Ctrl**+ **Home**) | - | - | - |
+| **Test 1** | **Listen to the page from top to bottom**.<br />- Is all of the content read? <br />The page should read top-to-bottom automatically. Use the **Ctrl** key if you wish to pause, and then use the **↓** to proceed through the document, line by line. Is all of the content read? Return to the top of the page ( **Ctrl**+ **Home**) | - | - | - |
 | **Test 2** | **Listen to the page title** ( **NVDA** + **t**).<br />- Does it uniquely describe the page content? | - | - | - |
 | **Test 3** | **Tab through links and form inputs** ( **Tab**).<br />- Are they read in an order that makes sense?<br /> Does any content receive focus besides links and inputs? | - | - | - |
 | **Test 4** | Check the page structure ( **NVDA** + **F7** -> Landmarks). - Are the main areas of the page marked (banner, navigation, main content, contentinfo, complementary)?<br />- Is the site structure simple and understandable? | - | - | - |
@@ -42,5 +42,5 @@ The following is a sample testing sequence using NVDA that you can use as a star
 | **Test 8** | **Examine the graphics** ( **g** and **Shift**+ **g**).<br />- Does each graphic have proper alt text or is merely the image name announced (an error)?<br />- If the image is a link is the link destination the alt text or is it an image description (an error)? | - | - | - |
 | **Test 9** | **Test any web forms** : - Scan the form fields ( **f** and **Shift**+ **f**)<br />- Are form labels announced with input boxes or operations?<br />- Do the forms work? (switching to forms mode should be automatic; press **NVDA** + **Space** to force a change in mode)<br />- Can data be entered and the form submitted? ( **Enter**) | - | - | - |
 | **Test 10** | **Test any tables** : - Scan the tables ( **t** and **Shift**+ **t**).<br />- Are table captions or summaries read?<br />- Does the table information make sense navigating between cells? ( **↓** and **↑**) | - | - | - |
-| **Test 11** | **Test any widgets** (as tabs, accordion, tooltip):<br />- Is the type of widget announced when it receives focus? <br />- Can the widget be manipulated using the keyboard? <br />- Is it clear how to use it?<br />- If it is not clear how to use the widget, is an explanation provided? | - | - | - |
+| **Test 11** | **Test any widgets** (as tabs, accordion, tooltip):<br />- Is the type of widget announced, when it receives focus? <br />- Can the widget be manipulated using the keyboard? <br />- Is it clear how to use it?<br />- If it is not clear how to use the widget, is an explanation provided? | - | - | - |
 | - | Quit NVDA ( **NVDA** + **q**) | - | - | - |
