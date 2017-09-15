@@ -5,9 +5,7 @@
 **Description**: A tooltip is a contextual popup that displays a description for an element. The tooltip typically becomes visible in response to a mouse hover, or after the owning element receives keyboard focus.
 
 ### Accessibility specification
-Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1.
-
-[See: 2.23 Tooltip.](https://www.w3.org/TR/wai-aria-practices-1.1/)
+Accessible tooltips specification is defined in WAI-ARIA Authoring Practices 1.1. [See: 2.23 Tooltip.](https://www.w3.org/TR/wai-aria-practices-1.1/)
 
 ## Accessibility
 ### Keyboard Interaction
@@ -34,17 +32,14 @@ Tooltip can be navigated with the following shortcuts:
 ### Touch
 * Many touch devices do not support hover interactions!
 ## ARIA markup
-
-| **Role** | **States, and Properties** | **HTML tag** | - |
-| --- | --- | --- | --- |
-| **tooltip** | - | - | Element that serves as the tooltip container |
-| - | **aria-describedby** | - | The element that triggers the tooltip references the tooltip element, with aria-describedby. |
+* `role="tooltip"': Element that serves as the tooltip container 
+* `aria-describedby`: The element that triggers the tooltip references the tooltip element, with aria-describedby.
 
 ### Notes:
 
-An element that includes role="tooltip" should not be focusable.
+An element that includes `role="tooltip"` should not be focusable.
 
-Instead, aria-describedby must be set on the triggering element so that it references the ID of the container element that includes role="tooltip".
+Instead, `aria-describedby` must be set on the triggering element so that it references the ID of the container element that includes `role="tooltip"`.
 
 The triggering element may consist of any active element or interactive widget type that is focusable and includes a valid role.
 
@@ -54,7 +49,7 @@ When the mouse moves over the triggering element or, when the triggering element
 
 When the mouse moves away from the triggering element or, when the triggering element loses focus, the Tooltip should be removed or hidden.
 
-If the aria-describedby attribute is programmatically changed on the triggering element while it still has focus, a description\_changed event will fire, so that assistive technologies can convey the new Tooltip information, appropriately.
+If the `aria-describedby` attribute is programmatically changed on the triggering element while it still has focus, a description\_changed event will fire, so that assistive technologies can convey the new Tooltip information, appropriately.
 
 ### Why is it important?
 [...]
