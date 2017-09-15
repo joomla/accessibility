@@ -35,11 +35,14 @@ Although the term _accessibility_ typically addresses users who have a disabilit
  *Accordions* is a set of drop-down sections. Expanding the selected section automatically collapses the rest. (Accordions are a list of headers that can be clicked to hide or reveal additional content.)
 
  An *accordion* is a vertically stacked set of elements, that allow the user to toggle the display of sections of content. Each labeling element can be expanded or collapsed to reveal or hide its associated content.
+ 
+### Alternative for time-based media
+Document including correctly sequenced text descriptions of time-based visual and auditory information and providing a means for achieving the outcomes of any time-based interaction. (Athena ICT) 
 
 ### ARIA
  _Short for Accessible Rich Internet Application(s)_
 
- A metadata specification that provides a means of describing roles, states, and properties for custom widgets so that they are recognizable and usable by assistive technology users. WAI-ARIA also provides a mechanism to ensure that users of assistive technologies are aware of updates in the application.
+ARIA is a specification for making scripts, widgets and dynamic web content accessible. It provides a means of describing roles, states, and properties for custom widgets so that they are recognizable and usable by assistive technology users. WAI-ARIA also provides a mechanism to ensure that users of assistive technologies are aware of updates in the application. The key documents are the [ARIA Specification](https://www.w3.org/TR/wai-aria-1.1/) and the [ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/). (Athena ICT)
 
 ### Assistive technologies
  Technologies (software or hardware) that increase, maintain or improve the functional capabilities of individuals with disabilities when interacting with computers or computer-based systems.
@@ -70,12 +73,26 @@ Although the term _accessibility_ typically addresses users who have a disabilit
 
 ### Captions
  Synchronized transcription or translation of the dialogue, sound effects, relevant musical cues, and other relevant audio information needed to understand the media content. Captions can be either closed or open. _Closed captions_ can be turned on or off, whereas _open captions_ are always visible.
+ 
+### Changes of context
+Major changes in the content of the Web page that, if made without user awareness, can disorient users who are not able to view the entire page simultaneously. Changes in context include changes of:
+* user agent;
+* viewport;
+* focus;
+* content that changes the meaning of the Web page.
+
+**Note**: A change of content is not always a change of context. Changes in content, such as an expanding outline, dynamic menu, or a tab control do not necessarily change the context, unless they also change one of the above (e.g., focus).
+
+**Example**: Opening a new window, moving focus to a different component, going to a new page (including anything that would look to a user as if they had moved to a new page) or significantly re-arranging the content of a page are examples of changes of context. (Athena ICT)
 
 ### Clickability cues
  A visual indication that a given word or item on a Web page is clickable. Cues that can be used to indicate the clickability of an item include color, underlining, bullets, and arrows.
 
 ### Conformance
  Satisfying all the requirements of a given standard, guideline or specification.
+ 
+### Container element
+ A container element is an HTML element that contains a section of content including other HTML elements. For example, a `<fieldset>` groups related elements in a form. `<div>` is a block level generic container that you can use to group sections of block level content together. (Athena ICT) 
 
 ### Content (Web content)
  Information and sensory experience to be communicated to the user by means of a user agent, including code or markup that defines the content's structure, presentation, and interactions.
@@ -85,6 +102,10 @@ Although the term _accessibility_ typically addresses users who have a disabilit
 
 ### Contrast Ratio
  A measure of the difference between foreground and background; specific minimal values, including font sizes, are recommended via WCAG 2.0.
+### Correct reading sequence
+ Any sequence where words and paragraphs are presented in an order that does not change the meaning of the content. (Athena ICT) 
+### DHTML
+Dynamic HTML, or DHTML, is an umbrella term for a collection of technologies used together to create interactive and animated Websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). (Athena ICT)
 
 ### Disability
  A condition that curtails to some degree a person's ability to carry on his normal pursuits; a limitation in an ability. A disability may be partial or total, and temporary or permanent.
@@ -97,10 +118,19 @@ Although the term _accessibility_ typically addresses users who have a disabilit
  * In metadata, the term data _element_ is an atomic unit of data that has precise _meaning_ or precise semantics.
  * A semantic element is an element of code that uses words to clearly represent what that element contains, in human language.
 
+### Event
+A programmatic message used to communicate discrete changes in the state of an object to other objects in a computational system. User input to a web page is commonly mediated through abstract events that describe the interaction and can provide notice of changes to the state of a document object. (Athena ICT)
+
+### Essential
+ If removed, would fundamentally change the information or functionality of the content, and information and functionality cannot be achieved in another way that would conform. (Athena ICT)
+
 ### Focus
  The indication and setting of the actual focused element is essential both for blind and non-blind users using the keyboard. For people with visual disabilities, a method should be provided to enlarge/modify the focus indicator (typically: a dashed rectangle).
 
 There should be a default focusable element on each page and focus should be set to this element when navigating to this page, in case the entire screen changes. For partial screen changes, the focus should remain on the trigger element.
+
+### Functionality
+ Processes and outcomes achievable through user action. (Athena ICT)
 
 ### Head pointer
  A device attached to the user's head that allows a user to move the pointer on the screen, (usually moved by the mouse, a pointing device, the arrow keys, or with the movement of their head). It is useful for people who have limited mobility.
@@ -130,6 +160,14 @@ There should be a default focusable element on each page and focus should be set
 
 ### Live region
  Perceivable regions of a web page that are typically updated, as a result of an external event when user focus may be elsewhere. These regions are not always updated as a result of a user interaction. WAI-ARIA has provided a collection of properties that allow the author to identify these live regions and process them: aria-live, aria-relevant, aria-atomic, and aria-busy.
+ 
+### Navigated sequentially
+ Navigated in the order defined for advancing focus (from one element to the next) using a keyboard interface. (Athena ICT)
+ 
+### Non-text content
+Any content that is not a sequence of characters that can be programmatically determined or where the sequence is not expressing something in human language 
+
+**Note**: This includes ASCII Art (which is a pattern of characters), emoticons, leetspeak (which uses character substitution), and images representing text. (Athena ICT) 
 
 ### On screen keyboard (or Onscreen keyboard)
  A keyboard that appears on screen, so that a user, who cannot use their hands, can use assistive technology (such as a head pointer) to enter keyboard input. It may also be used for touchscreen input.
@@ -139,6 +177,9 @@ There should be a default focusable element on each page and focus should be set
 
 ### Perceivable
  Presentable to users, in ways they can sense.
+ 
+### Programmatically determined (programmatically determinable)
+Determined by software from author-supplied data provided in a way that different user agents, including assistive technologies, can extract and present this information to users in different modalities. (Athena ICT) 
 
 ### Property
  Attributes that are essential to the nature of a given object, or that represent a data value associated with the object. A change of a property may significantly impact the meaning or presentation of an object.
@@ -152,6 +193,16 @@ There should be a default focusable element on each page and focus should be set
  * A function assumed or part played by a person or thing in a particular situation.
  * In reference to ARIA, main indicator of type. This semantic association allows tools to present and support interaction with the object in a manner that is consistent with user expectations about other objects of that type.
  * The role of a GUI element. An element can be an alert to the user, an arrow, an object that allows to select a date, a check box, a dialog, a menu etc.
+ 
+### Same functionality
+Same result when used. 
+
+**Example**: A submit "search" button on one Web page and a "find" button on another Web page may both have a field to enter a term and list topics in the Web site related to the term submitted. In this case, they would have the same functionality but would not be labeled consistently. (Athena ICT)
+
+### Same relative order
+Same position relative to other items
+
+**Note**: Items are considered to be in the same relative order even if other items are inserted or removed from the original order. For example, expanding navigation menus may insert an additional level of detail or a secondary navigation section may be inserted into the reading order. (Athena ICT) 
 
 ### Screen magnifier
  A software program that magnifies a portion of the screen, so that it can be more easily viewed. Screen magnifiers are used primarily by individuals with low vision.
@@ -177,10 +228,14 @@ Web standards include HTML, CSS, JavaScript and WAI-ARIA. Web sites that follow 
  * The state of a GUI element. For example an element can be active, editable, focusable, focused, selecta ble, selected etc.
 
 ### Tab order
- Manages the list of element on a page that can have the focus (also known as _tab chain_ and _accessibility hierarchy_). These active elements are automatically added to the hierarchy by the browser when it parses the source code. By default, elements are added to the hierarchy in the order they appear in the HTML source of the page (source order).
+ Manages the list of element on a page that can have the focus (also known as _tab chain_ and _accessibility hierarchy_). These active elements are automatically added to the hierarchy by the browser when it parses the source code. By default, elements are added to the hierarchy in the order they appear in the HTML source of the page (source order). (Athena ICT)
 
 ### Technology (Web content)
  Mechanism for encoding instructions to be rendered, played or executed by user agents. _Example_: Some common examples of Web content technologies include HTML, CSS, SVG, PNG, PDF, and JavaScript.
+ 
+### Text alternative
+Text that is programmatically associated with non-text content or referred to from text that is programmatically associated with non-text content. Programmatically associated text is text whose location can be programmatically determined from the non-text content.
+Example: An image of a chart is described in text in the paragraph after the chart. The short text alternative for the chart indicates that a description follows. (Athena ICT) 
 
 ### Transcript
  A text only version of what's said in a movie or television program; they are not real time and they generally are limited to speech only; they are not a recommended substitute for captions.
@@ -196,6 +251,9 @@ Web standards include HTML, CSS, JavaScript and WAI-ARIA. Web sites that follow 
 
 ### Usability
  A quality attribute that assesses how easy user interfaces are to use. The word ' _usability_' also refers to methods for improving ease-of-use during the design process.
+
+### User-controllable
+Data that is intended to be accessed by users. **Note**: This does not refer to such things as Internet logs and search engine monitoring data. **Example**: Name and address fields for a user's account. (Athena ICT)
 
 ### User interface component
  A part of the content that is perceived by users as a single control for a distinct function.
