@@ -151,8 +151,9 @@ In Joomla V 4.0 use [Bootstrap v4](https://v4-alpha.getbootstrap.com/components/
 
 
 ## Resources
-
-### Design Patterns
+### WCAG references
+[...]
+### Design patterns
 
 * [WAI ARIA Practices 1.1 - dialog](https://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html)
 * [W3C using ARIA role=dialog](https://www.w3.org/WAI/GL/wiki/Using_Aria_role%3Ddialog_to_implement_a_modal_dialog_box)
@@ -163,12 +164,14 @@ In Joomla V 4.0 use [Bootstrap v4](https://v4-alpha.getbootstrap.com/components/
 * [harvard.edu Keyboard Interaction](https://accessibility.huit.harvard.edu/support-keyboard-interaction)
 * [Making an accessible dialog box by ENZOnline](https://www.nczonline.net/blog/2013/02/12/making-an-accessible-dialog-box/) 
 * [Modal Dialog - Code Library of Accessibility Examples by Deque](https://dequeuniversity.com/library/aria/popups-dialogs/sf-modal-dialog)
+* [Dialog box - modal by Athena ICT](http://accessibility.athena-ict.com/aria/examples/dialog.shtml) (with tutorial)
 
 ### Articles
 * [How to Build WAI-ARIA Modal Alert Dialogs: A11y Support Series](https://www.deque.com/blog/aria-modal-alert-dialogs-a11y-support-series-part-2/)
 * [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)
 * [jQuery simple and accessible modal window, using ARIA](https://a11y.nicolas-hoffmann.net/modal/)
 * [The Incredible Accessible Modal Window](https://www.npmjs.com/package/accessible-modal-dialog)
+* [Dialog box - modal by Athena ICT](http://accessibility.athena-ict.com/aria/examples/dialog.shtml) (with tutorial)
 
 ## Notes
 
