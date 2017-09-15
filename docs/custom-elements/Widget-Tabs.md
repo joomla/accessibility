@@ -64,7 +64,7 @@ The tablist takes up one tab stop in the tab order. It can be navigated with the
 
 **Commentary:**
 
-The aria-expanded state is used to distinguish between a Tab panel's expanded vs. collapsed state. An AT should be sensitive to aria-expanded and relay it meaningfully, to the user. Here are some role/state combinations and their meaning:
+The `aria-expanded` state is used to distinguish between a Tab panel's expanded vs. collapsed state. An AT should be sensitive to `aria-expanded` and relay it meaningfully, to the user. Here are some role/state combinations and their meaning:
 
 * (role=tablist + aria-multiselectable= **true**) is an Accordion ( **sic**!)
 * (role=tablist + aria-multiselectable= **false**) is a Tab Panel
@@ -72,16 +72,15 @@ The aria-expanded state is used to distinguish between a Tab panel's expanded vs
 * (role=tablist + aria-multiselectable= **false**) and (focus on role=tab + aria-expanded=true) is a Tab, whose panel is expanded
 * (role=tablist + aria-multiselectable= **true**) and (focus on role=tab + aria-expanded=false) is an Accordion ( **sic!**) Header, whose panel is collapsed.
 
-| **Role** | **States,&nbsp;and&nbsp;Properties** | **HTML tag** | **Description** |
-| --- | --- | --- | --- |
-| **tablist** | - | - | Serves as the container for the set of tabs. |
-| **tab** | - | - | Contains title for tab panel, activates tab panel when activated. |
-| **tabpanel** | - | - | Contains the tab's associated content. |
-| - | **aria-selected** | - | The active tab element has state set to true and other tab elements have it set to false. |
-| - | **aria-controls** | - | Each element with role=tab has a unique name aria-controls="id" that associates the control to the appropriate element tabpanel by referencing the controlled element's id. |
-| - | **aria-labelledby** | - | Each element with role tabpanel has the property aria-labelledby referring to its associated tab element. |
-| - | **aria-haspopup** | - | If a tab element has a pop-up menu, it has the property aria-haspopup set to true. |
-| - | **aria-orientation** | - | If the tablist element is vertically oriented, it has the property aria-orientation set to vertical. The default value of aria-orientation for a tablist element is horizontal. |
+* `role="tablist"`: Serves as the container for the set of tabs.
+* `role="tab"`: Contains title for tab panel, activates tab panel when activated.
+* `role="tabpanel"`: Contains the tab's associated content.
+
+* `aria-selected`: The active tab element has state set to true and other tab elements have it set to false. 
+* `aria-controls`: Each element with `role=tab` has a unique name `aria-controls="id"` that associates the control to the appropriate element tabpanel by referencing the controlled element's id. 
+* `aria-labelledby`: Each element with role tabpanel has the property `aria-labelledby` referring to its associated tab element. 
+* `aria-haspopup`: If a tab element has a pop-up menu, it has the property `aria-haspopup` set to `true`. 
+* `aria-orientation`: If the tablist element is vertically oriented, it has the property `aria-orientation` set to `vertical`. The default value of `aria-orientation` for a tablist element is `horizontal`. 
 
 ### Why is it important?
 
