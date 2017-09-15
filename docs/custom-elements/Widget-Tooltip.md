@@ -32,7 +32,7 @@ Tooltip can be navigated with the following shortcuts:
 ### Touch
 * Many touch devices do not support hover interactions!
 ## ARIA markup
-* `role="tooltip"': Element that serves as the tooltip container 
+* `role="tooltip"`: Element that serves as the tooltip container 
 * `aria-describedby`: The element that triggers the tooltip references the tooltip element, with aria-describedby.
 
 ### Notes:
