@@ -1,19 +1,19 @@
 # Understanding disability
 Each individual is unique. People have diverse abilities, skills, preferences, and expectations that can impact how they use the Web. 
-We will not guarantee that our pages will be accessible to everyone without understanding:
-* Why people experience problems using websites?
-* What kind of difficulty they are experiencing?
-* What support technologies do they use to cope with them to meet the challenges?
+We cannot guarantee that our pages will be accessible to everyone without understanding:
+* Why people experience problems using websites.
+* What kind of difficulty they are experiencing.
+* What support technologies do they use, to cope with them, to meet the challenges.
 
 ## Types of user capabilities
-People capabilities can be broken down into various categories, of which the following four are particularly relevant for website interaction.
+People's capabilities can be broken down into various categories, of which the following four are particularly relevant, for website interaction.
 
 ## Vision capabilities
 <img src="https://raw.githubusercontent.com/joomla/accessibility/master/docs/_images/visual.png" alt="Vision sign" align="right" style="margin-left:1em">
 
 Vision is the ability to use the colour and brightness of light to perceive objects, distinguish them, and detect them. People have different vision problems. In general, we can distinguish three groups:
-* Blindness - unable to see visual information
-* Low vision (loss of central or peripheral vision, blurred vision, generalized haze, extreme light sensitivity); low vision significant visual impairment that can't be corrected fully with glasses, contact lenses, medication or eye surgery
+* Blindness - inability to see visual information
+* Low vision - loss of central or peripheral vision, blurred vision, generalized haze, extreme light sensitivity - significant visual impairment that can't be corrected fully with glasses, contact lenses, medication or eye surgery
 * Color deficiency
   * Deuteranopia – red-green color blindness
   * Protanopia – red color blindness  
@@ -22,12 +22,11 @@ Vision is the ability to use the colour and brightness of light to perceive obje
 
 Blindness and low vision can occur as a result of various illnesses, conditions or accidents. Some eye defects are inherited, others acquired. Loss or impairment of vision can occur in people of all ages, but most often occurs in persons over 65 years of age.
 
-People who are blind usually navigates using only the keyboard and use screen readers, braille displays, voice input.
+People who are blind usually navigate, using only the keyboard and use screen readers, braille displays, voice input.
 
-People with low vision can use the screen magnifiers and assist with the screen reader.
+People with low vision can use the screen magnifiers and assistance from the screen reader.
 
 People who have color disabilities may need the right colors and more contrast and alternative ways of identifying color content. 
-
 
 ## Motor and dexterity capabilities
 <img src="https://raw.githubusercontent.com/joomla/accessibility/master/docs/_images/motor.png" alt="Motor sign" align="right">
@@ -60,7 +59,7 @@ Hearing disorders include:
 * Hard of hearing - mild or moderate hearing impairments in one or both ears.
 * Deaf-blindness - substantial, uncorrectable hearing and visual impairments.
 
-Deaf and hearing impaired people need sound alternatives - transcripts and captions and information in clear, comprehensible language.
+Deaf and hearing impaired people need sound alternatives - transcripts, captions and information, in clear, comprehensible language.
 
 ## Intellectual capabilities
 <img src="https://raw.githubusercontent.com/joomla/accessibility/master/docs/_images/intelectual.png" alt="Intellectual sign" align="right">
@@ -72,7 +71,7 @@ There are many types of intellectual disability that limit the ability to percei
 * Autism spectrum disorder (ASD)
 * Perceptual disabilities - dyslexia, dysgraphia, dyscalculia or spatial and temporal orientation
 * Low comprehension (having problems understanding content, textual or otherwise)
-* Low reading (having problems reading text)
+* Low reading abilities (having problems reading text)
 * Other non-verbal learning difficulties
 
 **Cognitive disabilities**
@@ -91,7 +90,7 @@ There are many types of intellectual disability that limit the ability to percei
 * Schizophrenia
 * many other disorders.
 
-This group of people uses such assistive technologies as word prediction aids, reading/writing comprehension aids.
+This group of people uses such assistive technologies as word prediction aids and reading/writing comprehension aids.
 
 ## Statistics disability
 Here are some statistics showing the disability problem.
