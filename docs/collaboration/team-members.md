@@ -1,10 +1,10 @@
-***The Team (in no particular order):***
+# The Team (in no particular order)
 
-Arman Mnatsian - Project Manager
-Eoin Oliver (alias: Square Balloon)
-Christiane Maier-Stadtherr
-Ray Selby
-Justyna Michallek
-Stefan Wajda (alias zwiastun zwiastunsw)
-Yair Lahav
-Adrian Jaworski. (aliases: Adi  - adi_silesia-pl)
+* Arman Mnatsian - Team Leader
+* Justyna Michallek - Assistant Team Leader
+* Eoin Oliver (alias: Square Balloon)
+* Christiane Maier-Stadtherr
+* Ray Selby
+* Stefan Wajda (aliases: zwiastun, zwiastunsw)
+* Yair Lahav
+* Adrian Jaworski. (aliases: Adi  - adi_silesia-pl)
