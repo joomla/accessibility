@@ -8,3 +8,4 @@
 * Stefan Wajda (aliases: zwiastun, zwiastunsw)
 * Yair Lahav
 * Adrian Jaworski. (aliases: Adi  - adi_silesia-pl)
+* Bartosz Stępień
