@@ -12,7 +12,7 @@ Occasionally, the dispute over the definition of accessibility is revived. In ge
 * Representatives of the first approach saying that "accessibility" means "possible to access for everyone". 
 * Representatives of the second approach saying that "accessibility" means "possible to access for people with disabilities".
 
-In fact, there are no contradictions between the two approaches. Design that recognizes the needs of all people also serves people with disabilities. Designing for people with disabilities brings benefits to all people, also people without disabilities.
+In fact, there are no contradictions between the two approaches. Design that recognizes the needs of all people also serves people with disabilities. Designing, for people with disabilities, brings benefits to all people - also people without disabilities.
 
 However, the term "accessibility" was defined to draw the attention of designers, not just web designers, to the specific needs of people with disabilities. 
 
@@ -20,14 +20,14 @@ W3C set up a Web Accessibility Initiative whose mission is to ensure that the we
 
 Any accessibility advice, eg WCAG 2.0, especially Techniques for WCAG 2.0, is given in the context of who it would affect. 
 
-Therefore, we reserve the term "accessibility" for to the inclusive practice of removing barriers that prevent access to websites by people with disabilities.
+Therefore, we reserve the term "accessibility" for the inclusive practice of removing barriers that prevent access to websites by people with disabilities.
 
 
 ## What does it include web accessibility?
 Web accessibility involves:
 * Web sites and applications that people with disabilities can perceive, understand, navigate, and interact with;
-* Web browsers and media players that can be used effectively by people with disabilities, and  that work well with assistive technologies that some people with disabilities use to access the Web; 
-* Web authoring tools, and evolving Web technologies that support production of accessible Web content and Web sites, and that can be used effectively by people with disabilities.
+* Web browsers and media players that can be used effectively by people with disabilities, and  that work well with assistive technologies that some people with disabilities use, to access the Web; 
+* Web authoring tools and evolving Web technologies that support production of accessible Web content and Web sites and that can be used effectively. by people with disabilities.
 
 ## Further reading
 * [A Practical Starter Guide on Developing Accessible Websites - Cynthia Ng and Michael Schofield](http://journal.code4lib.org/articles/12697)
