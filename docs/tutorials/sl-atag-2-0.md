@@ -43,7 +43,7 @@ ATAG and supporting resources are also intended to meet the needs of many differ
 ## Learn more
 For more information please refer to:
 
-* [https://www.w3.org/TR/ATAG20/ Authoring Tool Accessibility Guidelines (ATAG) 2.0]. W3C Recommendation 24 September 2015 
-* [https://www.w3.org/TR/2015/NOTE-IMPLEMENTING-ATAG20-20150924/ Implementing ATAG 2.0. A guide to understanding and implementing Authoring Tool Accessibility Guidelines 2.0]
-* [http://www.w3.org/WAI/intro/atag.php The overview of ATAG] from the W3C.
-* [http://www.w3.org/WAI/intro/atag-glance ATAG at a Glance]  from the W3C.
+* [https://www.w3.org/TR/ATAG20/](Authoring Tool Accessibility Guidelines 2.0). W3C Recommendation 24 September 2015 
+* [https://www.w3.org/TR/2015/NOTE-IMPLEMENTING-ATAG20-20150924/](Implementing ATAG 2.0). A guide to understanding and implementing Authoring Tool Accessibility Guidelines 2.0
+* [http://www.w3.org/WAI/intro/atag.php]( The overview of ATAG) from the W3C.
+* [http://www.w3.org/WAI/intro/atag-glance](ATAG at a Glance) from the W3C.
