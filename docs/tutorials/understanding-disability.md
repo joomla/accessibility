@@ -116,6 +116,7 @@ The next one is motor impairment – strightly connected with only-keyboard user
 | Speech impairments | 0.9% |
 
 ## Further reading
+* [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31)
 * [Diversity of Web Users. How People with Disabilities Use the Web](https://www.w3.org/WAI/intro/people-use-web/diversity#auditory)
 * [Inclusive Design Toolkit: About users](http://www.inclusivedesigntoolkit.com/usercapabilities/usercap.html)
 * [Visual Disabilities - Introduction](http://webaim.org/articles/visual/)
@@ -133,6 +134,7 @@ The next one is motor impairment – strightly connected with only-keyboard user
   * [Cognitive - Activity](http://webaim.org/articles/cognitive/activity)
 * [Seizure Disorders](http://webaim.org/articles/seizure/)
 * [Types of disabilities](http://www.hwns.com.au/Resource-centre/Types-of-disabilities)
+
 
 
 
