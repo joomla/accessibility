@@ -14,6 +14,10 @@ You can check your site's compliance with different standards using the W3C Vali
 
 **Note**: At address https://validator.w3.org/unicorn you can use the default validator in your language version (Unicorn - W3C's Unified Validator). The unified validator also displays a list of CSS errors.
 
+**Note**: Web Developers in general have a web developer toolbar in their browser where they can test sites during development. 
+
+**Note**: Tags must be available in all browsers. To test this: https://caniuse.com/
+
 If you have restrictions on using online tools, you can choose to install this service locally and test against that. The source for the validator is available on github at https://github.com/validator/validator.
 
 The Validator will not only display a list of errors and warnings, but will also make some pretty good suggestions regarding various ARIA roles and such.
