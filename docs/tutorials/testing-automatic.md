@@ -17,7 +17,7 @@ Therefore, you should always carry out automatic tests first. Karl Groves was ri
 
 Automatic accessibility tests are tests performed by means of desktop or web-based application, web services, browser plug-in or IDE plug-in. 
 
-The list of automatic tools that leads the W3C WAI currently counts more than 100 items. Among them are comprehensive tools and tools that test individual aspects of accessibility. Look at this list to find the right tools for your needs.
+The [list of automatic tools that leads the W3C WAI](https://www.w3.org/WAI/ER/tools/) currently counts more than 100 items. Among them are comprehensive tools and tools that test individual aspects of accessibility. Look at this list to find the right tools for your needs.
 
 Below you will find some of the most popular and most effective - in our opinion - tools. Try them. Perhaps the cornerstone of your accessibility tester workshop.
 * **Web services**
