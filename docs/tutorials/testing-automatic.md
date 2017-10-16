@@ -36,9 +36,9 @@ Below you will find some of the most popular and most effective - in our opinion
   - WCAG Contrast Checker for Firefox
   - [tota11y](http://khan.github.io/tota11y/)
 * **IDE plug-in**
-  - [AXE-core]](https://www.axe-core.org/) by Deque University
+  - [AXE-core](https://www.axe-core.org/) by Deque University
 * **Destkop application** 
   - [Accessibility Viewer by Pacciello Group](https://developer.paciellogroup.com/resources/aviewer/)
   - [AChecker](http://www.atutor.ca/achecker/download.php)
-  - [Colour CContrast Analyser by Pacciello Group](https://developer.paciellogroup.com/resources/contrastanalyser/)
+  - [Colour Contrast Analyser by Pacciello Group](https://developer.paciellogroup.com/resources/contrastanalyser/)
   
