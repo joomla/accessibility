@@ -28,12 +28,12 @@ Below you will find some of the most popular and most effective - in our opinion
   - [AChecker](https://achecker.ca)
 * **Browser plug-in**
   - [AXE Dev Tools for Chrome](http://bitly.com/aXe-Chrome), [AXE for Firefox](http://bit.ly/aXe-Firefox) by Deque University
-  - WAVE Evaluation Tool for Chrome and [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/wave-toolbar/)
+  - WAVE Evaluation Tool [for Chrome](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) and [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/wave-toolbar/)
   - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb) for Chrome
-  - OpenWAX (Open Web Accessibility eXtension) for Chrome and for Firefox
-  - Juicy Studio Accessibility Toolbar for Firefox
-  - OpenAjax Accessibility Extension for Firefox
-  - WCAG Contrast Checker for Firefox
+  - OpenWAX (Open Web Accessibility eXtension) [for Chrome](https://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe) and [for Firefox](https://addons.mozilla.org/pl/firefox/addon/openwax/)
+  - [Juicy Studio Accessibility Toolbar](https://addons.mozilla.org/pl/firefox/addon/juicy-studio-accessibility-too/) for Firefox
+  - [OpenAjax Accessibility Extension](https://addons.mozilla.org/en-US/firefox/addon/openajax-accessibility-exte/) for Firefox by Jon Gunderson
+  - [WCAG Contrast Checker](https://addons.mozilla.org/pl/firefox/addon/wcag-contrast-checker/) for Firefox by Rumoroso
   - [tota11y](http://khan.github.io/tota11y/)
 * **IDE plug-in**
   - [AXE-core](https://www.axe-core.org/) by Deque University
