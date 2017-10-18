@@ -55,7 +55,7 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 ## Test 4. Page structure
 ### A. Main areas
 **Review the source code paying special attention to content areas**.
-* Are the main areas of the page marked with appropriate tags or attributes roles (tag header or banner role, tag nav or navigation role, tag main or role main, tag footer or contentinfo role, complementary role, search role)?
+* Are the main areas of the page marked with appropriate tags or attributes roles (tag header or banner role, tag nav or navigation role, tag main or role main, tag footer or contentinfo role, aside tag or complementary role, search role)?
 * Is there any content outside of the main area of the page?
 * Is the site structure simple and understandable?
 
