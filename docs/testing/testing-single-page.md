@@ -1,4 +1,4 @@
-# A single page accessibility test
+# A single page accessibility tests
 The following is an example of a single page accessibility test sequence that can be used as a starting point for evaluation.
 
 ## Test 1. HTML Code validation
