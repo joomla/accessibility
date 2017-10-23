@@ -1,4 +1,4 @@
-# A single page accessibility tests
+# A single page accessibility test
 The following is an example of a single page accessibility test sequence that can be used as a starting point for evaluation.
 
 ## Test 1. HTML Code validation
@@ -17,7 +17,7 @@ If you recognize important comments, please report them in the report.
 
 **Execute one of the automated tests**. 
 
-You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer Toolbar, or the selected web service.
+You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer Toolbar or the selected web service.
 
 [Read the article about automated tests.][3]
 
@@ -31,17 +31,17 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 * Can you see the content of all page elements, including dynamic elements such as tabs, accordions, drop-down panels, menus, sliders?
 * Is the navigation order understandable - logical and intuitive (makes sense)? [(1.3.2 Meaningful Sequence - Level A)][5]
 * Is there any focus on item selected? Are there any areas where focus disappears? [(2.4.7 Focus Visible - Level AA)][6]
-* Does any content besides links, buttons and form controls get focus?
-* Can the focus always be moved from the place where it is using TAB key? [(2.1.2 No Keyboard Trap - Level A)][7]
+* Does any content besides links, buttons and form controls, get focus?
+* Can the focus always be moved, from the place where it is, using the TAB key? [(2.1.2 No Keyboard Trap - Level A)][7]
 
 ### B. Menu and other navigation elements
 
 * Do the main menu items point to index pages?
 * Can you access all menu items?
-* Isn't the number of links in the menu and on the whole page too big and troublesome?
+* Are the number of links in the menu and on the whole page too big and troublesome?
 * Can you skip navigation and get straight to the main content? [(2.4.1  Bypass Blocks - Level A)][8]
 * Are there any other ways to reach the subpages of your site (search engine, sitemap, etc.) [(2.4.5  Multiple Ways - Level AA)][9]
-* Are the elements of the navigation in the same order on subpages? [(3.2.3 Consistent Navigation - Level AA)][10]
+* Are the elements of the navigation in the same order, on subpages? [(3.2.3 Consistent Navigation - Level AA)][10]
 * Are elements of the same functionality (such as page section titles, modules) designed consistently? [(3.2.4  Consistent Identification - Level AA)][11]
 * Is the location of the current page/sequence in the site structure indicated [(2.4.8  Location - Level AAA)][12]
 
@@ -73,7 +73,7 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 ### C. Paragraphs, lists and other text blocks
 **Explore the main content organisation on the site**.
 * Has the text been subdivided into sections with subheadings?
-* Have suitable forms (paragraphs, lists, block quotes, tables) been used for content presenting? [(1.3.1 Info and Relationships - Level A)][16]
+* Have suitable forms (paragraphs, lists, block quotes, tables) been used for content presentation? [(1.3.1 Info and Relationships - Level A)][16]
 * Are content blocks (paragraphs, lists...) marked with the appropriate tags?
 * Are there short paragraphs (2-5 lines)?
 * Are the ordered and unordered lists used according to their purpose?
@@ -95,7 +95,7 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 * Does the content disappear outside the screen area?
 
 ### C. Color and contrast
-* Are important information conveyed differently than in a way that is not based solely on the senses, eg only by color? [(1.3.3 Sensory Characteristics - Level A][18], [1.4.1 Use of Color - Level A)][19]
+* Is important information conveyed differently, than in a way that is not based solely on the senses, eg only by color? [(1.3.3 Sensory Characteristics - Level A][18], [1.4.1 Use of Color - Level A)][19]
 * Is the contrast between text and background at least 4.5: 1 and for large fonts at least 3: 1?
 
 ### D. Time, movement, disturbance
@@ -114,7 +114,7 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 * Are the links highlighted (eg underlined, marked with an icon)?
 * Are there "click here", "read more", "link to..." links?
 * Do graphic links have alternate text?
-* Are there uppercase, URL addresses, emotion icons used in links?
+* Are there uppercase URL addresses or emotion icons used in links?
 * Is there a warning before opening new windows?
 * Do download links provide helpful information?
 * Are the pagination links (paging) understandable?
@@ -151,9 +151,9 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 ### B. Reaction to errors
 **Investigate form responses to errors - fill incorrect data in different fields.**
 * Can you send a form with an error?
-* Is the incorrectly filled field marked (do the error area have an indicator)?
-* Is there any sensible suggestion next to the field marked as incorrectly filled? [(3.3.1 Error Identification – Level A)][35]
-* Does it detect any errors in the user input data that prompts him? [(3.3.3 Error Suggestion – Level AA)][36]
+* Is the incorrectly filled field marked (do the error areas have an indicator)?
+* Is there any sensible suggestion next to the field, marked as incorrectly filled? [(3.3.1 Error Identification – Level A)][35]
+* Does it detect any errors in the user input data that prompts them? [(3.3.3 Error Suggestion – Level AA)][36]
 * Does the service provide adequate protection against errors involving legal, financial or other implications for entering and modifying data? [(3.3.4 Error Prevention (Legal, Financial, Data) – Level AA)][37]
 
 ## Test 9. Tables
@@ -163,14 +163,14 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 * Can you read tables descriptions or summaries? Do tables have a title in the `caption` tag and a summary in the `summary` tag?
 * Are cells with headings marked with a `th` tag?
 * Is the scope of each header specified with `scope="col"` or `scope="row"`?
-* Are header cells IDs in complex tables identified with `headers` attribute for each cell? [In the complex tables for each cell, have `headers` attributes been marked with header cell identifiers?] [(1.3.1 Info and Relationships – Level A)][38]
+* Are header cells' IDs, in complex tables, identified with `headers` attributes for each cell? [In the complex tables for each cell, have `headers` attributes been marked with header cell identifiers?] [(1.3.1 Info and Relationships – Level A)][38]
 
 ## Test 10. Understanding
 * Is the language in which the content of the page is written properly declared? [(3.1.1 Language of Page – Level A)][39]
 * Are text excerpts written in the other than basic language of the page correctly declared? [(3.1.2 Language of Parts – Level AA)][40]
 * Does the content of the page require reading ability at a level higher than junior high school? [(3.1.5 Reading Level – Level AAA)][41]
 * Do hallmarks help you to understand the content?
-* Are the hallmarks are used thrifty and justified?
+* Are the hallmarks, used, thrifty and justified?
 * Are unusual words, expressions, abbreviations explained? [(3.1.3 Unusual Words – Level AAA][42], [3.1.4 Abbreviations – Level AAA)][43]
 
   [1]: https://www.w3.org/WAI/WCAG20/quickref/#qr-ensure-compat-parses
