@@ -12,7 +12,7 @@
 
 ## Learn more 
 
-* [UI Components. U.S. Web Design Standards]
+* [UI Components. U.S. Web Design Standards][3]
 
 [1]:https://github.com/18F/web-design-standards/blob/develop/LICENSE.md
 [2]:https://creativecommons.org/publicdomain/zero/1.0/
