@@ -49,3 +49,4 @@ The following is a sample testing sequence using NVDA that you can use as a star
 * [Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
 * [Evaluating web accessibility with NVDA](http://bd.ub.edu/adaptabit/en/content/Evaluating-web-accessibility-NVDA)
 * [Using NVDA to Evaluate Web Accessibility - Cal OES](http://www.caloes.ca.gov/AccessFunctionalNeedsSite/Documents/NVDA%20to%20Evaluate%20Web%20Accessibility.docx)
+* [Basic screen reader commands for accessibility testing by Léonie Watson](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
