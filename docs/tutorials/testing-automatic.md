@@ -42,3 +42,5 @@ Below you will find some of the most popular and most effective - in our opinion
   - [AChecker](http://www.atutor.ca/achecker/download.php)
   - [Colour Contrast Analyser by Pacciello Group](https://developer.paciellogroup.com/resources/contrastanalyser/)
   
+  ## Resources
+  * [Efficiency in Accessibility Testing or, Why Usability Testing Should be Last](http://www.karlgroves.com/2012/04/27/efficiency-in-accessibility-testing-or-why-usability-testing-should-be-last/)
