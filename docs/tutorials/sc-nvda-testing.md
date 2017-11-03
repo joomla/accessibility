@@ -46,7 +46,7 @@ The following is a sample testing sequence using NVDA that you can use as a star
 | - | Quit NVDA ( **NVDA** + **q**) | - | - | - |
 
 ## Resources
-* [Evaluating accessibility with NVDA](http://webaccess.hr.umich.edu/eval/nvda.html)
+* [Evaluating accessibility with NVDA](http://webaccess.hr.umich.edu/eval/nvda.html) (source)
 * [Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
 * [Evaluating web accessibility with NVDA](http://bd.ub.edu/adaptabit/en/content/Evaluating-web-accessibility-NVDA)
 * [Using NVDA to Evaluate Web Accessibility - Cal OES](http://www.caloes.ca.gov/AccessFunctionalNeedsSite/Documents/NVDA%20to%20Evaluate%20Web%20Accessibility.docx)
