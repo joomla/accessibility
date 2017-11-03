@@ -44,3 +44,8 @@ The following is a sample testing sequence using NVDA that you can use as a star
 | **Test 10** | **Test any tables** : - Scan the tables ( **t** and **Shift**+ **t**).<br />- Are table captions or summaries read?<br />- Does the table information make sense navigating between cells? ( **↓** and **↑**) | - | - | - |
 | **Test 11** | **Test any widgets** (as tabs, accordion, tooltip):<br />- Is the type of widget announced, when it receives focus? <br />- Can the widget be manipulated using the keyboard? <br />- Is it clear how to use it?<br />- If it is not clear how to use the widget, is an explanation provided? | - | - | - |
 | - | Quit NVDA ( **NVDA** + **q**) | - | - | - |
+
+## Articles
+* [Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
+* [Evaluating web accessibility with NVDA](http://bd.ub.edu/adaptabit/en/content/Evaluating-web-accessibility-NVDA)
+* [Using NVDA to Evaluate Web Accessibility - Cal OES](http://www.caloes.ca.gov/AccessFunctionalNeedsSite/Documents/NVDA%20to%20Evaluate%20Web%20Accessibility.docx)
