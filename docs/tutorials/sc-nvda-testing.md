@@ -17,7 +17,8 @@ When the focus is on an object that has the system caret, you can use the arrow 
 
 Keep the following in mind as you interact with the web page:
 
-* NVDA intercepts the arrow keys and some other keys (noted in brackets next to each instruction) to offer additional navigation operations for the user. View a list of [NVDA keyboard shortcuts](http://webaim.org/resources/shortcuts/nvda). * NVDA's "browse" cursor may not always follow the visible cursor, so do not trust your eyes--trust your ears! Better yet, turn off or cover up your monitor.
+* NVDA intercepts the arrow keys and some other keys (noted in brackets next to each instruction) to offer additional navigation operations for the user. View a list of [NVDA keyboard shortcuts](http://webaim.org/resources/shortcuts/nvda). 
+* NVDA's "browse" cursor may not always follow the visible cursor, so do not trust your eyes--trust your ears! Better yet, turn off or cover up your monitor.
 * NVDA will try to switch between "browse" and "focus" modes automatically when the user navigates with a tab key and encounters a form element or leaves a form and encounters a link. The change between modes will be indicated by two distinct sounds.
 * If NVDA does not change the modes automatically, press the **space** bar on an edit control or an ARIA-enabled widget to force the switch in modes.
 
