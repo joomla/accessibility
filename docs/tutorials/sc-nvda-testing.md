@@ -21,7 +21,7 @@ Keep the following in mind as you interact with the web page:
 * NVDA will try to switch between "browse" and "focus" modes automatically when the user navigates with a tab key and encounters a form element or leaves a form and encounters a link. The change between modes will be indicated by two distinct sounds.
 * If NVDA does not change the modes automatically, press the **space** bar on an edit control or an ARIA-enabled widget to force the switch in modes.
 
-For more information on testing web pages with VoiceOver, see the WebAIM article [Using NVDA to Evaluate Web Accessibility.](http://webaim.org/articles/nvda/)
+For more information on testing web pages with NVDA, see the WebAIM article [Using NVDA to Evaluate Web Accessibility.](http://webaim.org/articles/nvda/)
 
 ## The testing procedure
 
