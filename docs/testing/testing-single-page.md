@@ -96,7 +96,7 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
 
 ### C. Color and contrast
 * Is important information conveyed differently, than in a way that is not based solely on the senses, eg only by color? [(1.3.3 Sensory Characteristics - Level A][18], [1.4.1 Use of Color - Level A)][19]
-* Is the contrast between text and background at least 4.5: 1 and for large fonts at least 3: 1?
+* Is the contrast between text and background at least 4.5: 1 and for large fonts at least 3: 1? [1.4.3 Contrast (Minimum)- Level AA][44]
 
 ### D. Time, movement, disturbance
 * Can you stop, pause or hide moving, flicking, or auto-refreshing elements? [(2.2.2 Pause, Stop, Hide - Level A)][20]
@@ -216,3 +216,4 @@ You can use browser add-ons, such as WAVE, AXE, OpenWAX, Accessibility Developer
   [41]: https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements
   [42]: https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms
   [43]: https://www.w3.org/WAI/WCAG20/quickref/#meaning-located
+  [44]: https://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast-contrast
