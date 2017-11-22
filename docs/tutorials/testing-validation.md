@@ -22,7 +22,7 @@ If you have restrictions on using online tools, you can choose to install this s
 
 The Validator will not only display a list of errors and warnings, but will also make some pretty good suggestions regarding various ARIA roles and such.
 ## Procedure
-1. Go to the W3C Validator page.
+1. [Go to the W3C Validator page](https://validator.w3.org/unicorn/).
 2. Enter the URL of the page you want to check on the **By URI** tab, in the **Address** field.
 3. Then press or click the **Check** button. After a while, a list of errors, comments and suggestions is displayed.
 4. Scan the error list.
