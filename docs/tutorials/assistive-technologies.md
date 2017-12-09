@@ -26,7 +26,9 @@ Speech synthesizers are software or computer devices that convert text written i
 Users who find it difficult to communicate with a computer through their eyesight, for example blind people, can hear text and communicate with the computer through voice.
 
 ### Speech recognition or voice recognition programs
-Software that captures speech from a microphone or phone and saves it as text or interprets it, as commands, instead of a mouse or keyboard. It may be used by people who have certain physical disabilities. Allows the user, with limited or no arm and hand fine motor control to input text and/or control the user interface via speech. **Note**: The term _voice recognition_ also often refers to software, that is aimed at identifying the person who is speaking.
+Software that captures speech from a microphone or phone and saves it as text or interprets it, as commands, instead of a mouse or keyboard. It may be used by people who have certain physical disabilities. Allows the users who cannot enter text with their hands to enter text and control the interface via speech.
+
+**Note**: The term _voice recognition_ also often refers to software, that is aimed at identifying the person who is speaking.
 
 ### An alternative pointing device or alternative input devices
 Allows users, with limited or no arm and hand fine motor control, control their computers, through means, other than a standard keyboard or pointing device. Examples include smaller or larger keyboards, joysticks, trackballs, foot pedals, eye-gaze pointing devices, head pointers, sip-and-puff systems controlled by breathing and other special input devices.
