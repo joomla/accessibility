@@ -32,7 +32,7 @@ Software that captures speech from a microphone or phone and saves it as text or
 Allows users, with limited or no arm and hand fine motor control, control their computers, through means, other than a standard keyboard or pointing device. Examples include smaller or larger keyboards, joysticks, trackballs, foot pedals, eye-gaze pointing devices, head pointers, sip-and-puff systems controlled by breathing and other special input devices.
 
 ### Braille displays
-A hardware that provides access to information on a computer screen, by electronically raising and lowering different combinations of pins in braille cells. A braille display can show up to 80 characters from the screen and is refreshable. Using braille display, blind people can navigate through the computer’s desktop, create and edit documents, and browse the Internet.
+A hardware that provides access to information on a computer screen, by electronically raising and lowering different combinations of pins in braille cells. A braille display can show up to 80 characters. It is refreshable. Using braille display, blind people can navigate through the computer’s desktop, create and edit documents, and browse the Internet.
 
 ## Further reading
 * [Assistive Technology: a video tour of accessibility](http://lab.dotjay.com/notes/assistive-technology/videos/)
