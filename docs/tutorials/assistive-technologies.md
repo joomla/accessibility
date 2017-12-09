@@ -20,10 +20,10 @@ A software program, used to allow reading of content and navigation of the scree
 ### Screen keyboards
 A keyboard that appears on screen, which provides an image of a standard or modified keyboard, on the computer screen. On-screen keyboards are used by people who cannot use their hands but can use assistive technology (such as a head pointer, trackball, joystick, single switches, sip/puff and other special input devices), to enter keyboard input. They may also be used for touchscreen input.
 
-### Speech synthesizers or Text-to-Speech (TTS) 
-Speech synthesizers receive information going to the screen, in the form of letters, numbers, and punctuation marks, and then "speak" it out loud in a computerized voice.
+### Speech synthesizers or Text-to-Speech (TTS)
+Speech synthesizers are software or computer devices that convert text written in electronic copies into synthetic speech.
 
-Using speech synthesizers allows computer users who are blind or who have learning difficulties to hear what they are typing and also provide a spoken voice for individuals who can not communicate orally, but can communicate their thoughts through typing.
+Users who find it difficult to communicate with a computer through their eyesight, for example blind people, can hear text and communicate with the computer through voice.
 
 ### Speech recognition or voice recognition programs
 Software that captures speech from a microphone or phone and saves it as text or interprets it, as commands, instead of a mouse or keyboard. It may be used by people who have certain physical disabilities. Allows the user, with limited or no arm and hand fine motor control to input text and/or control the user interface via speech. **Note**: The term _voice recognition_ also often refers to software, that is aimed at identifying the person who is speaking.
