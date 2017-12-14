@@ -136,6 +136,7 @@ Tabs are commonly used to reduce the need to scroll when presenting multiple sec
 * [Danger! Testing Accessibility with real people](https://medium.theuxblog.com/danger-testing-accessibility-with-real-people-4515f72db648)
 * [ARIA tabs, UI problems and standards](https://alastairc.ac/2016/05/aria-tabs-ui-problems-and-standards/)
 * [Tab panel by Athena ICT](http://accessibility.athena-ict.com/aria/examples/tabpanel2.shtml) (with tutorial)
+* [Tabbed Interfaces by Heydon Pickering](https://inclusive-components.design/tabbed-interfaces/)
 
 ## Design Patterns
 * [WAI ARIA practices - Tabs With Automatic Activation](https://www.w3.org/TR/wai-aria-practices/examples/tabs/tabs-1/tabs.html)
