@@ -87,7 +87,7 @@ Define shortcuts.
 ### Design Patterns
 **Note**. This section contains links to design patterns that can be used by developers as an example and an inspiration to develop solutions for Joomla.
 
-* [WAI ARIA practices - Put the link to the example, if it exists. If it does not exist, remove it.][3]
+* [WAI ARIA practices - Put the link to the example, if it exists. If it does not exist, remove it.][2]
 * [Accessible jQuery-ui Components - Put the link to the example, ...][4]
 * [U.S. Web Design Standards - Put the link to the example, ...][5]
 * [Bootstrap - Put the link to the example, ...][6]
