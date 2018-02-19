@@ -221,7 +221,7 @@ _The content for this section is not yet available, please check back again for 
 * [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/components/buttons/)
 * [Open Ajax Accessibility ex. 3 - Button role example using text-only buttons  ](http://oaa-accessibility.org/example/3/)
 * [Open Ajax Accessibility ex. 4 - Button role example using image buttons ](http://oaa-accessibility.org/example/4/)
-* [EBay MIND patterns](http://ianmcburnie.github.io/mindpatterns/input/button/)
+* [EBay MIND patterns](http://ebay.github.io/mindpatterns/input/button/index.html)
 
 ### Articles
 * [Using the button role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)
