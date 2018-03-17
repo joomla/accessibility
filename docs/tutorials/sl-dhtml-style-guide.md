@@ -7,4 +7,4 @@
 
 ## Learn more
 
-* [DHTML Style Guide Working Group](http://access.aol.com/dhtml-style-guide-working-group/)
+* [DHTML Style Guide Working Group](http://karlgroves-sandbox.com/CheatSheets/DHTML-Style-Guide.html)
