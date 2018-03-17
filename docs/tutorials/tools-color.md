@@ -108,7 +108,7 @@ Below you will find a list of tools that help you choose the right color for you
   
   "Visual impairment simulation and auditing tools to develop for accessibility. ChromeLens is a Google Chrome extension that provides a suite of tools to help with web accessibility development."
 
-* [Color Oracle &#8211; by Bernhard Jenny](http://colororacle.cartography.ch/)
+* [Color Oracle &#8211; by Bernhard Jenny](http://colororacle.org/)
 
    "Color Oracle is a colorblindness simulator for Window, Mac and Linux. It takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see..."
 
