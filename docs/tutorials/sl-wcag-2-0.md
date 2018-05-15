@@ -5,10 +5,10 @@
 ## Design principles
 WCAG 2.0 is based around four design principles that state that, in order for a website to be accessible, it must have content that is: 
 
-* **Principle 1: Perceivable**. Information and user interface components must be presentable to users in ways they can perceive.
-* **Principle 2: Operable**. User interface components and navigation must be operable.
-* **Principle 3: Understandable**. Information and the operation of user interface must be understandable.
-* **Principle 4: Robust**. Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+* [**Principle 1: Perceivable**](https://www.w3.org/WAI/WCAG20/quickref/#principle1). Information and user interface components must be presentable to users in ways they can perceive.
+* [**Principle 2: Operable**](https://www.w3.org/WAI/WCAG20/quickref/#principle2). User interface components and navigation must be operable.
+* [**Principle 3: Understandable**](https://www.w3.org/WAI/WCAG20/quickref/#principle3). Information and the operation of user interface must be understandable.
+* [**Principle 4: Robust**](https://www.w3.org/WAI/WCAG20/quickref/#principle4). Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
 
 
 ## Guidelines
@@ -18,36 +18,36 @@ Each design principle has a number of guidelines associated with it. There are 1
 
 ### Perceivable: 
 
-   **1.1 Text alternatives**: Provide text alternatives for non-text content.
+   [**1.1 Text alternatives**](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv): Provide text alternatives for non-text content.
 
-   **1.2 Time-based Media**: Provide captions and other alternatives for multimedia.
+   [**1.2 Time-based Media**](https://www.w3.org/WAI/WCAG20/quickref/#media-equiv): Provide captions and other alternatives for multimedia.
 
-   **1.3 Adaptable**:Create content that can be presented in different ways, including by assistive technologies, without losing meaning.
+   [**1.3 Adaptable**](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation):Create content that can be presented in different ways, including by assistive technologies, without losing meaning.
 
-   **1.4 Distinguishable**: Make it easier for users to see and hear content.
+   [**1.4 Distinguishable**](https://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast): Make it easier for users to see and hear content.
 
 
 ### Operable:
 
-   **2.1 Keyboard Accessible**: Make all functionality available from a keyboard.
+   [**2.1 Keyboard Accessible**](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation): Make all functionality available from a keyboard.
 
-   **2.2 Enough Time**: Give users enough time to read and use content.
+   [**2.2 Enough Time**](https://www.w3.org/WAI/WCAG20/quickref/#time-limits): Give users enough time to read and use content.
 
-   **2.3 Seizures**: Do not use content that causes seizures.
+   [**2.3 Seizures**](https://www.w3.org/WAI/WCAG20/quickref/#seizure): Do not use content that causes seizures.
 
-   **2.4 Navigable**: Help users navigate and find content.
+   [**2.4 Navigable**](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms): Help users navigate and find content.
 
 ### Understandable:
 
-   **3.1 Readable**: Make text readable and understandable.
+   [**3.1 Readable**](https://www.w3.org/WAI/WCAG20/quickref/#meaning): Make text readable and understandable.
 
-   **3.2 Predictable**: Make content appear and operate in predictable ways.
+   [**3.2 Predictable**](https://www.w3.org/WAI/WCAG20/quickref/#consistent-behavior): Make content appear and operate in predictable ways.
 
-   **3.3 Input assistance**: Help users avoid and correct mistakes.
+   [**3.3 Input assistance**](https://www.w3.org/WAI/WCAG20/quickref/#minimize-error): Help users avoid and correct mistakes.
 
 ### Robust: 
 
-   **4.1 Compatible**: Maximize compatibility with current and future user tools.
+   [**4.1 Compatible**](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat): Maximize compatibility with current and future user tools.
 
 
 ## Success criteria 
