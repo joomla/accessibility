@@ -1,7 +1,7 @@
 ## What is this?
 This is the Joomla Accessibility Team documentation repository.
 This is a repository for everyone who wants to collaborate in implementing accessibility into Joomla.
-Here you can find [a presentation of all documents ](https://joomla.github.io/accessibility/#/).
+<!-- Here you can find [a presentation of all documents ](https://joomla.github.io/accessibility/#/). -->
 
 ## What is Joomla!?
 [Joomla!](https://www.joomla.org/about-joomla.html) is a Content Management System (CMS) which enables you to build websites and powerful online applications.
