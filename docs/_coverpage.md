@@ -14,4 +14,4 @@
 [Get Started](tutorials/)
 
 <!-- background color -->
-![color](rgb(37, 48, 79))
+![color](#25304f)
