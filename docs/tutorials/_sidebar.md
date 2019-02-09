@@ -4,7 +4,6 @@
  - [What is Web accessibility](tutorials/what-is-web-accessibility)
 - **Understanding Accessibility**
  - [Understanding disability](tutorials/understanding-disability)
-
 - **Standards & Law**
  - [W3C WAI](tutorials/sl-wai)
  - [WCAG 2.0](tutorials/sl-wcag-2-0)
@@ -13,19 +12,13 @@
  - [WAI-ARIA 1.1](tutorials/sl-wai-aria-1-1) 
  
 - **Accessibility Design**
- - 
 - **Accessibility Content**
- - 
 - **Accessibility Template**
- - 
 - **Accessibility Management**
- - 
 - **Evaluation & Testing**
  - [Validation](tutorials/testing-validation)
  - [Color tools – generators, simulators, checkers](tutorials/tools-color)
  - [Screenreader testing](tutorials/sc-testing)
  - [NVDA testing](tutorials/sc-nvda-testing)
 - **Tools & Reesources**
- - 
 - **Dictionary**
-
