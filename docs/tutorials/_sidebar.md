@@ -4,15 +4,13 @@
  - [What is Web accessibility](tutorials/what-is-web-accessibility)
 - **Understanding Accessibility**
  - [Understanding disability](tutorials/understanding-disability)
- - [Understanding assistive technologies](tutorials/assistive-technologies.md)
+
 - **Standards & Law**
  - [W3C WAI](tutorials/sl-wai)
  - [WCAG 2.0](tutorials/sl-wcag-2-0)
  - [ATAG 2.0](tutorials/sl-atag-2-0)
  - [UAAG 2.0](tutorials/sl-uaag-2-0)
  - [WAI-ARIA 1.1](tutorials/sl-wai-aria-1-1) 
- - [DHTML Style guide](tutorials/sl-dhtml-style-guide)
- - [US Web design standards](tutorials/sl-us-web-design-standards)
  
 - **Accessibility Design**
  - 
@@ -30,5 +28,4 @@
 - **Tools & Reesources**
  - 
 - **Dictionary**
- - [Terms of accessibility](tutorials/glossary-accessibility)
- - [Terms of disability](tutorials/glossary-disability)
+
