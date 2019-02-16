@@ -22,6 +22,6 @@
     Polish - <span="pl">Witamy</span>.
 </p>
 ```
-#### Ref.:
+#### Reference
 * [WCAG 3.1.1 Language of page](https://www.w3.org/TR/WCAG21/#language-of-page)
 * [WCAG 3.1.2 Language of Parts](https://www.w3.org/TR/WCAG21/#language-of-parts)
