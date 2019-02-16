@@ -1,5 +1,5 @@
 ## Joomla Accessibility Guidelines
-### Define the language of the document and its parts
+### Define the page language and its parts
 #### Why?
 * Text-to-speech software can read content correctly.
 * Spell-checking software can correctly identify errors.
