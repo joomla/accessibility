@@ -1,12 +1,12 @@
-## Define the page language and its parts
-### Why?
+# Define the page language and its parts
+## Why?
 * Text-to-speech software can read content correctly.
 * Spell-checking software can correctly identify errors.
 * Browsers correctly format language-dependent text styles (e.g. they use the appropriate font).
-### How?
+## How?
 * Use the `lang` attribute in the `html` tag to define the page language. 
 * Use the `lang` attribute in the `span` tag to define the language of text fragments other than the page language.
-### Pattern
+## Pattern
 **How to define the language of the page?**
 ```php
 <!DOCTYPE html>
@@ -21,6 +21,6 @@
     Polish - <span="pl">Witamy</span>.
 </p>
 ```
-### Reference
+## Reference
 * [WCAG 3.1.1 Language of page](https://www.w3.org/TR/WCAG21/#language-of-page)
 * [WCAG 3.1.2 Language of Parts](https://www.w3.org/TR/WCAG21/#language-of-parts)
