@@ -1,7 +1,7 @@
 # Ensure good contrast between background and foreground
 ## Why?
 * Reading on the screen is more difficult for people with poor vision.
-* People with blindness may not differentiate between certain colour sets
+* People with color blindness may not differentiate between certain color sets
 * Reading on screen in sunlight or at dusk can be difficult for everyone.
 
 ## How?
