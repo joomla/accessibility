@@ -22,5 +22,5 @@
 </p>
 ```
 ## Reference
-* [WCAG 3.1.1 Language of page](https://www.w3.org/TR/WCAG21/#language-of-page)
-* [WCAG 3.1.2 Language of Parts](https://www.w3.org/TR/WCAG21/#language-of-parts)
+* [WCAG 3.1.1 Language of page. (Level A)](https://www.w3.org/TR/WCAG21/#language-of-page)
+* [WCAG 3.1.2 Language of Parts. (Level AA)](https://www.w3.org/TR/WCAG21/#language-of-parts)
