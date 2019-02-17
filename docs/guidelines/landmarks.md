@@ -9,7 +9,7 @@ The **landmark role** delineates the segments of the page that contains content 
 * convey the basic semantic meaning of the various areas of the page
 * clearly identifies the relationships and meaning of elements on the page
 
-## How
+## How?
 * Use the new HTML5 semantic tags and role atribute to identify the most important segments of the layout and structure of the page: 
   - `header` tag and `banner` role for the segment at the top of each page that identifies website - logo, site name, search tool 
   - `nav` tag and `navigation` role for a collection of links for navigation
