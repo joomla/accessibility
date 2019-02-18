@@ -5,7 +5,7 @@
 * Browsers correctly format language-dependent text styles (e.g. they use the appropriate font).
 ## How?
 * Use the `lang` attribute in the `html` tag to define the page language. 
-* Use the `lang` attribute in the `span` tag to define the language of text fragments other than the page language.
+* Use the `lang` attribute in the `span` or `blockquote` and other tag to define the language of text fragments other than the page language.
 ## Pattern
 **How to define the language of the page?**
 ```php
@@ -20,7 +20,17 @@
     Italian - <span="it">Benvenuti</span>, Spanish <span="es">Bienvenidos</span>, 
     Polish - <span="pl">Witamy</span>.
 </p>
+<blockquote lang="fr">
+   La vérité vaut bien qu'on passe quelques années sans la trouver. Renard
+</blockquote>
 ```
 ## WCAG Reference
 * [WCAG 3.1.1 Language of page. (Level A)](https://www.w3.org/TR/WCAG21/#language-of-page)
 * [WCAG 3.1.2 Language of Parts. (Level AA)](https://www.w3.org/TR/WCAG21/#language-of-parts)
+## Further reading
+* [Why use the language attribute?](https://www.w3.org/International/questions/qa-lang-why)
+* [3.1.1 Language of Page](http://www.maxability.co.in/2014/11/3-1-1-language-page/)
+* [3.1.2 Language of Parts](http://www.maxability.co.in/2015/02/3-1-2-language-parts/)
+* [Accessible Language Pickers: a11y meets i18n/l10n](http://terrillthompson.com/blog/759)
+
+
