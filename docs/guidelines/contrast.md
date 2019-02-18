@@ -13,12 +13,13 @@
 * Pay attention of template users to the selection of accessible color sets
 * Document color system in the style guide
 
-## Resources
+## WCAG Reference
 * [1.4.3 Contrast (Minimum) (Level A)](https://www.w3.org/TR/WCAG21/#contrast-minimum)
 * [1.4.11 Non-text Contrast (Level AA)](https://www.w3.org/TR/WCAG21/#non-text-contrast)
 * [Color contrast definition - WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#contrast-ratiodef)
 
-## Color contrast checker tools
+## Resources
+### Color contrast checker tools
 * [Color Contrast Checker made by WebAIM](https://webaim.org/resources/contrastchecker/)
 * [Contrast Checker made by Acart](https://contrastchecker.com/)
 * [Eight Shapes Contrast Grid made by Eight Shapes](http://contrast-grid.eightshapes.com/)
@@ -26,12 +27,12 @@
 * [Accessible Color Palette Evaluator made by NC State University](https://accessibility.oit.ncsu.edu/tools/color-contrast/)
 * [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 
-## Accessible color sets generator
+### Accessible color sets generator
 * [Color Safe - accessible web color combinations made by Donielle Berg & Adrian Rapp](http://colorsafe.co/)
 * [Accessible color palette generator](https://confrere.com/a11y/test/)
 * [Tanaguru contrast finder](http://contrast-finder.tanaguru.com/)
 
-## Further reading
+### Further reading
 * [5 Tools for Establishing an Accessible Web Color Palette by Becky Cierpich](https://www.mediacurrent.com/blog/5-tools-establishing-accessible-web-color-palette/)
 * [Automatically creating an accessible color palette from any color? Sure!](https://medium.com/confrere/automatically-creating-an-accessible-color-palette-from-any-color-sure-e735c3f2f45e)
 * [Tips to Create an Accessible and Contrasted Color Palette](https://stephaniewalter.design/blog/tips-create-accessible-color-palette/)
