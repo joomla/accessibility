@@ -75,7 +75,7 @@ The **landmark role** delineates the segments of the page that contains content 
 </nav>
 ```
 
-## Reference
+## WCAG Reference
 * [1.3.1 Info and Relationships. (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-content-structure-separation-programmatic).  
 * [2.4.1 Bypass Blocks. (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-skip)
 * [2.4.6 Headings and Labels. (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-descriptive)
