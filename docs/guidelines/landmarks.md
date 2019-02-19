@@ -89,4 +89,5 @@ The **landmark role** delineates the segments of the page that contains content 
 * [Accessible Landmarks by Scott O'Hara](https://www.scottohara.me/blog/2018/03/03/landmarks.html)
 * [HTML5 Sectioning and Landmark Elements by Keith J. Grant](https://keithjgrant.com/posts/2018/03/html5-sectioning-and-landmark-elements/)
 * [Creating Accessible HTML: A Crash Course in ARIA Landmark Regions](https://medium.com/c2-group/creating-accessible-html-a-crash-course-in-aria-landmark-regions-40513850298b)
+* [Screen Reader Support for new HTML5 Section Elements](http://www.weba11y.com/blog/2016/04/22/screen-reader-support-for-new-html5-section-elements/)
 
