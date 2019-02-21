@@ -25,9 +25,9 @@ Therefore, we reserve the term "accessibility" for the inclusive practice of rem
 
 ## What does it include web accessibility?
 Web accessibility involves:
-* Web sites and applications that people with disabilities can perceive, understand, navigate, and interact with;
-* Web browsers and media players that can be used effectively by people with disabilities, and  that work well with assistive technologies that some people with disabilities use, to access the Web; 
-* Web authoring tools and evolving Web technologies that support production of accessible Web content and Web sites and that can be used effectively. by people with disabilities.
+* websites, mobile applications and digital documents published on the Web,
+* web browsers and media players,
+* authoring tools and other technologies for creating online content.
 
 ## Further reading
 * [A Practical Starter Guide on Developing Accessible Websites - Cynthia Ng and Michael Schofield](http://journal.code4lib.org/articles/12697)
