@@ -44,6 +44,7 @@ Some users navigate the Internet without a mouse, just using the keyboard or key
 * [Keyboard-Only Navigation for Improved Accessibility by Nielsen Norman Group](https://www.nngroup.com/articles/keyboard-accessibility/)
 * [Keyboard access by 18F Accessibility Guide](https://accessibility.18f.gov/keyboard/)
 * [The Enter Key should Submit Forms, Stop Suppressing it](https://www.tjvantoll.com/2013/01/01/enter-should-submit-forms-stop-messing-with-that/)
+* [Implicit Submission of Form When Pressing Enter Key](http://stonefishy.github.io/blog/2015/06/30/implicit-submission-of-form-when-pressing-enter-key/)
 * [Enter by Computer Hope](https://www.computerhope.com/jargon/e/enterkey.htm)
 * [Create a logical tabbing order through links, form controls and objects by A11y Tips](http://dboudreau.tumblr.com/post/80948821036/create-a-logical-tabbing-order-through-links-form)
 * [Why Keyboard Usability Is More Important Than You Think by David Sloan & Sarah Horton](https://blog.usertesting.com/blog/why-keyboard-usability-is-more-important-than-you-think/)
