@@ -24,11 +24,11 @@ Such people include people with physical disabilities, blind people who do not s
   - Avoid changing focus unexpectedly.
 
 ## Navigating a website with the keyboard
-* Use **Tab** (forward) or **Shift + tab**  (rearward) keys to navigate through all of the links and forms controls on the page one by one.
-* Use **ArrowLeft**, **ArrowRight**, **ArrowUp**, **ArrowDown** to navigate within complex components of the site, such as dropdown lists, accordions, slideshow, etc. 
-* Use **Enter** key to execute the links
-* Use **Enter** or **Space** keys to activate buttons
-* Use **Esc** key to close the modal window
+* Use **Tab** or **Shift + tab**  keys to navigate forward or backward between all of the links and forms controls on the page.
+* Use **Arrow** keys to navigate within complex components of the page, such as dropdown lists, accordions, slideshow, etc. 
+* Use **Enter** key to execute the links.
+* Use **Enter** or **Space** keys to activate buttons.
+* Use **Esc** key to close the modal window.
 
 
 ## WCAG reference
