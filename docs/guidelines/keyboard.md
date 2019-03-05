@@ -20,6 +20,7 @@ Such people include people with physical disabilities, blind people who do not s
   - If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
 * **Ensure logical focus order of interactive elements**
   - Ensure that tabbing order through active elements is logical and matches visual layout.
+  - If you program complex user interface components, use appropriate focus management techniques ([using a roving tabindex](https://www.w3.org/TR/wai-aria-practices/#kbd_roving_tabindex) or [using aria-activedescendant](https://www.w3.org/TR/wai-aria-practices/#kbd_focus_activedescendant)).
   - Avoid changing focus unexpectedly.
 
 ## WCAG reference
