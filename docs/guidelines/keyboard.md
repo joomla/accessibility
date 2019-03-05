@@ -5,7 +5,7 @@ Some users navigate the Internet without a mouse, just using the keyboard or key
 
 Such people include people with physical disabilities, blind people who do not see the mouse pointer, people with chronic conditions such as multiple sclerosis, Parkinson’s disease or repetitive stress injuries. These are also people with temporary limitations, e.g. a broken arm or a damaged mouse.
 
-When functionality are accessible from the keyboard, they are also accessible for assistive technologies such as screen readers, as well as alternative interests such as voice commands, gestures, and more. 
+When functionality are accessible from the keyboard, they are also accessible for assistive technologies such as screen readers, as well as alternative interfaces such as voice commands, gestures, and more. 
 
 ## How?
 * **Provide event handling independent of the device**
