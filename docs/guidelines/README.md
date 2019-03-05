@@ -1,4 +1,4 @@
-# Joomla Accessibility Guideline
+# Joomla Accessibility Guidelines
 ## What is this?
 We want to create a set of simple accessibility guidelines for designers of Joomla-based websites, for developers of extensions and templates. 
 
