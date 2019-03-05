@@ -14,7 +14,7 @@ Such people include people with physical disabilities, blind people who do not s
   - Make sure that `onChange` and `onSelect` events do not cause unexpected results and accessibility problems.
 * **Use recommended keyboard support patterns in custom user interface elements** 
   - If you program custom user interface elements, e.g. accordion, carousel, dropdown menu, tabs, implement keyboard support as recommended in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
-  - If you are building a website check  and avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
+  - If you are building a website make sure that controls can be operated using the keyboard and avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
 * **Keep the focus visible**
   - Provide visibility of the focus. 
   - If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
