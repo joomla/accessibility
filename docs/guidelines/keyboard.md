@@ -1,4 +1,4 @@
-# All functionality is accessible from the keyboard
+# All functionality must be accessible from the keyboard
 
 ## Why?
 Some users navigate the Internet without a mouse, just using the keyboard or keyboard interfaces. 
