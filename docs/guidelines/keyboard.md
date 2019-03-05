@@ -18,7 +18,7 @@ Such people include people with physical disabilities, blind people who do not s
 * **Keep the focus visible**
   - Provide visibility of the focus. 
   - If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
-* **Focus order**
+* **Ensure logical focus order of interactive elements**
   - Ensure that tabbing order through active elements is logical and matches visual layout.
   - Avoid changing focus unexpectedly.
 
