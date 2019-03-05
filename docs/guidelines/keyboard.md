@@ -23,6 +23,14 @@ Such people include people with physical disabilities, blind people who do not s
   - If you program complex user interface components, use appropriate focus management techniques ([using a roving tabindex](https://www.w3.org/TR/wai-aria-practices/#kbd_roving_tabindex) or [using aria-activedescendant](https://www.w3.org/TR/wai-aria-practices/#kbd_focus_activedescendant)).
   - Avoid changing focus unexpectedly.
 
+## Navigating a website with the keyboard
+* Use **Tab** (forward) or **Shift + tab**  (rearward) keys to navigate through all of the links and forms controls on the page one by one.
+* Use **ArrowLeft**, **ArrowRight**, **ArrowUp**, **ArrowDown** to navigate within complex components of the site, such as dropdown lists, accordions, slideshow, etc. 
+* Use **Enter** key to execute the links
+* Use **Enter** or **Space** keys to activate buttons
+* Use **Esc** key to close the modal window
+
+
 ## WCAG reference
 * [2.1 - Keyboard accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
   - [2.1.1 Keyboard (Level A)](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#keyboard)
