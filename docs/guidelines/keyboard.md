@@ -6,16 +6,16 @@ Some users navigate the Internet without a mouse, just using the keyboard or key
 Such people include people with physical disabilities, blind people who do not see the mouse pointer, people with chronic conditions such as multiple sclerosis or  repetitive stress injuries. These are also people with temporary limitations, e.g. a broken arm or a damaged mouse.
 
 ## How?
-* **Event handlers**
+* **Provide event handling independent of the device**
   - When possible, use device independent event handlers. 
   - When you are using device dependent event handlers, use both mouse dependent and keyboard dependent event handlers (`onMouseOver`, `onMouseOut` and `onFocus`, `onBlur`).
   - When using the `onClick` event for custom elements (not links, buttons, etc.), ensure that Enter and Space keystrokes are detected.
   - Do not use the `onDblClick` event - there is no device independent handling or keyboard equivalent of this event.
   - Make sure that `onChange` and `onSelect` events do not cause unexpected results and accessibility problems.
-* **Custom UI components** 
-  - If you create custom components, e.g. accordion, carousel (slide show or image rotator), dropdown menu, tabs, provide keyboard support according to the standards set out in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
-  - Avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
-* **Focus visible**
+* **Use recommended keyboard support patterns in custom user interface elements** 
+  - If you program custom user interface elements, e.g. accordion, carousel, dropdown menu, tabs, implement keyboard support as recommended in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
+  - If you are building a website check  and avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
+* **Keep the focus visible**
   - Provide visibility of the focus. 
   - If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
 * **Focus order**
