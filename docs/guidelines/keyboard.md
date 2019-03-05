@@ -60,9 +60,8 @@ Such people include people with physical disabilities, blind people who do not s
 * [Designing Better Keyboard Experiences. By David Sloan & Sarah Horton](https://blog.usertesting.com/blog/designing-better-keyboard-experiences/)
 * [Keyboard Navigation in Mac Browsers](http://www.weba11y.com/blog/2014/07/07/keyboard-navigation-in-mac-browsers/)
 * [Keyboard accessibility (again). By Rogera Johansson](https://www.456bereastreet.com/archive/201104/keyboard_accessibility_again/)
-* [Keyboard Accessibility with the Space Bar](http://www.last-child.com/keyboard-accessibility-with-the-space-bar/)
 * [3 Simple Tips to Improve Keyboard Accessibility](https://www.a11ywithlindsey.com/blog/3-simple-tips-improve-keyboard-accessibility/)
-* [Keyboard accessibility quick tip. By Emily Coward](https://www.nomensa.com/blog/2011/keyboard-accessibility-quick-tip/)
+
 ### JavaScript & keyboard accessibility
 * [Accessible Javascript. Overview of Accessible Javascript. By WebAIM](https://webaim.org/techniques/javascript/)
 * [Accessible Javascript. JavaScript Event Handlers. By WebAIM](https://webaim.org/techniques/javascript/eventhandlers)
