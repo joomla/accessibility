@@ -11,6 +11,7 @@ Some users navigate the Internet without a mouse, just using the keyboard or key
 * Make sure that onChange and onSelect events do not cause accessibility problems
 * Make sure that keyboard events do not cause unexpected results.
 * If you create custom components, e.g. accordion, carousel (slide show or image rotator) dropdown menu, tabs, provide keyboard support according to the standards set out in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
+* Avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
 * Provide visibility of the focus. If you are attaching the events to a different type of element, like a <div> or <span>, you need to enable the element to receive keyboard focus. 
 * Maintain the logical order of the tabulation 
 * Avoid changing focus unexpectedly
