@@ -4,16 +4,17 @@
 Some users navigate the Internet without a mouse, just using the keyboard or keyboard interfaces.  
 
 ## How?
-* When possible, use device independent event handlers. 
-* When you are using device dependent event handlers, use both mouse dependent and keyboard dependent event handlers (`onMouseOver`, `onMouseOut` and `onFocus`, `onBlur`).
-* When using the `onClick` event for custom elements (not links, buttons, etc.), ensure that Enter and Space keystrokes are detected.
-* Do not use the `onDblClick` event - there is no device independent handling or keyboard equivalent of this event.
-* Make sure that `onChange` and `onSelect` events do not cause cause unexpected results and accessibility problems.
+* **Event handlers**
+  - When possible, use device independent event handlers. 
+  - When you are using device dependent event handlers, use both mouse dependent and keyboard dependent event handlers (`onMouseOver`, `onMouseOut` and `onFocus`, `onBlur`).
+  - When using the `onClick` event for custom elements (not links, buttons, etc.), ensure that Enter and Space keystrokes are detected.
+  - Do not use the `onDblClick` event - there is no device independent handling or keyboard equivalent of this event.
+  - Make sure that `onChange` and `onSelect` events do not cause cause unexpected results and accessibility problems.
 * If you create custom components, e.g. accordion, carousel (slide show or image rotator), dropdown menu, tabs, provide keyboard support according to the standards set out in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
 * Avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
 * Provide visibility of the focus. If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
 * Ensure that tabbing order through active elements is logical and matches visual layout.
-* Avoid changing focus unexpectedly
+* Avoid changing focus unexpectedly.
 
 
 ## WCAG reference
