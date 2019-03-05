@@ -13,9 +13,9 @@ Some users navigate the Internet without a mouse, just using the keyboard or key
 * If you create custom components, e.g. accordion, carousel (slide show or image rotator) dropdown menu, tabs, provide keyboard support according to the standards set out in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
 * Avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
 * Provide visibility of the focus. If you are attaching the events to a different type of element, like a <div> or <span>, you need to enable the element to receive keyboard focus. 
-* Maintain the logical order of the tabulation 
+* Ensure that tabbing order through active elements is logical and matches visual layout.
 * Avoid changing focus unexpectedly
-* Ensure that reading order is logical
+
 
 ## WCAG reference
 * [2.1 - Keyboard accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
@@ -44,12 +44,12 @@ Some users navigate the Internet without a mouse, just using the keyboard or key
 * [Enter by Computer Hope](https://www.computerhope.com/jargon/e/enterkey.htm)
 * [Create a logical tabbing order through links, form controls and objects by A11y Tips](http://dboudreau.tumblr.com/post/80948821036/create-a-logical-tabbing-order-through-links-form)
 * [Why Keyboard Usability Is More Important Than You Think by David Sloan & Sarah Horton](https://blog.usertesting.com/blog/why-keyboard-usability-is-more-important-than-you-think/)
-* [Designing Better Keyboard Experiences by David Sloan & Sarah Horton](https://blog.usertesting.com/blog/designing-better-keyboard-experiences/)
-* [Keyboard accessibility quick tip by Emily Coward](https://www.nomensa.com/blog/2011/keyboard-accessibility-quick-tip/)
+* [Designing Better Keyboard Experiences. By David Sloan & Sarah Horton](https://blog.usertesting.com/blog/designing-better-keyboard-experiences/)
 * [Keyboard Navigation in Mac Browsers](http://www.weba11y.com/blog/2014/07/07/keyboard-navigation-in-mac-browsers/)
-* [Keyboard accessibility (again)](https://www.456bereastreet.com/archive/201104/keyboard_accessibility_again/)
+* [Keyboard accessibility (again). By Rogera Johansson](https://www.456bereastreet.com/archive/201104/keyboard_accessibility_again/)
 * [Keyboard Accessibility with the Space Bar](http://www.last-child.com/keyboard-accessibility-with-the-space-bar/)
 * [3 Simple Tips to Improve Keyboard Accessibility](https://www.a11ywithlindsey.com/blog/3-simple-tips-improve-keyboard-accessibility/)
+* [Keyboard accessibility quick tip. By Emily Coward](https://www.nomensa.com/blog/2011/keyboard-accessibility-quick-tip/)
 * [Accessible Javascript. Overview of Accessible Javascript. By WebAIM](https://webaim.org/techniques/javascript/)
 * [Accessible Javascript. JavaScript Event Handlers. By WebAIM](https://webaim.org/techniques/javascript/eventhandlers)
 * [Accessible Javascript. Other Issues. By WebAIM](https://webaim.org/techniques/javascript/other)
