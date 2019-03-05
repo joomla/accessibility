@@ -2,6 +2,7 @@
 
 ## Why?
 Some users navigate the Internet without a mouse, just using the keyboard or keyboard interfaces. 
+
 Such people include people with physical disabilities, blind people who do not see the mouse pointer, people with chronic conditions such as multiple sclerosis or  repetitive stress injuries. These are also people with temporary limitations, e.g. a broken arm or a damaged mouse.
 
 ## How?
