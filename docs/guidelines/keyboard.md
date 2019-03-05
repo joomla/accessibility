@@ -10,12 +10,15 @@ Some users navigate the Internet without a mouse, just using the keyboard or key
   - When using the `onClick` event for custom elements (not links, buttons, etc.), ensure that Enter and Space keystrokes are detected.
   - Do not use the `onDblClick` event - there is no device independent handling or keyboard equivalent of this event.
   - Make sure that `onChange` and `onSelect` events do not cause cause unexpected results and accessibility problems.
-* If you create custom components, e.g. accordion, carousel (slide show or image rotator), dropdown menu, tabs, provide keyboard support according to the standards set out in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
-* Avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
-* Provide visibility of the focus. If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
-* Ensure that tabbing order through active elements is logical and matches visual layout.
-* Avoid changing focus unexpectedly.
-
+* **Custom UI components** 
+  - If you create custom components, e.g. accordion, carousel (slide show or image rotator), dropdown menu, tabs, provide keyboard support according to the standards set out in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
+  - Avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
+* **Focus visible**
+  - Provide visibility of the focus. 
+  - If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
+* **Focus order**
+  - Ensure that tabbing order through active elements is logical and matches visual layout.
+  - Avoid changing focus unexpectedly.
 
 ## WCAG reference
 * [2.1 - Keyboard accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
