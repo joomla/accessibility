@@ -4,8 +4,8 @@
 * Spell-checking software can correctly identify errors.
 * Browsers correctly format language-dependent text styles (e.g. they use the appropriate font).
 ## How?
-* Use the `lang` attribute in the `html` tag to define the page language. 
-* Use the `lang` attribute in the `span` or `blockquote` and other tag to define the language of text fragments other than the page language.
+* Use the `lang` attribute in the `html` tag, to define the page language. 
+* Use the `lang` attribute in the `span`, `blockquote` and other tags, to define the language of text fragments other than the page language.
 ## Pattern
 **How to define the language of the page?**
 ```php
@@ -15,7 +15,7 @@
 **How to define the language of a text fragment?** 
 ```html
 <p>
-    In English - <span lang="en-GB">Welcome</span>, Dutch <span="nl">Welkom</span>, 
+    In: English - <span lang="en-GB">Welcome</span>, Dutch <span="nl">Welkom</span>, 
     French <span="fr">Bienvenue</span>, German <span="de">Willkommen</span>, 
     Italian - <span="it">Benvenuti</span>, Spanish <span="es">Bienvenidos</span>, 
     Polish - <span="pl">Witamy</span>.
