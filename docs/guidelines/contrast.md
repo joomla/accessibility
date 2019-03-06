@@ -1,15 +1,15 @@
-# Ensure good contrast between background and foreground
+# Ensure good contrast, between background and foreground
 ## Why?
-* Reading on the screen is more difficult for people with poor vision.
-* People with color blindness may not differentiate between certain color sets
-* Reading on screen in sunlight or at dusk can be difficult for everyone.
+* Reading on the screen is more difficult, for people with poor vision.
+* People with color blindness may not differentiate, between certain color sets
+* Reading on screen, in sunlight or at dusk, can be difficult for everyone.
 
 ## How?
 * Establish an accessible color schema
   - Create various color combinations
-  - Add enough contrast minimum 4.5:1 for normal text and 3:1 for large text
-  - Evaluate color contrast using good tools - examine body text contrast, button contrast and link luminosity. 
-* Don't just rely on color to highlight elements - add  border, icons, texture, patterns etc.
+  - Add enough contrast - minimum 4.5:1 for normal text and 3:1 for large text
+  - Evaluate color contrast, using good tools - examine body text contrast, button contrast and link luminosity. 
+* Don't just rely on color, to highlight elements - add  border, icons, texture, patterns etc.
 * Pay attention of template users to the selection of accessible color sets
 * Document color system in the style guide
 
