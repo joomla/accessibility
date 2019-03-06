@@ -11,22 +11,22 @@ When functionality are accessible from the keyboard, they are also accessible fo
 * **Provide event handling independent of the device**
   - When possible, use device independent event handlers. 
   - When you are using device dependent event handlers, use both mouse dependent and keyboard dependent event handlers (`onMouseOver`, `onMouseOut` and `onFocus`, `onBlur`).
-  - When using the `onClick` event for custom elements (not links, buttons, etc.), ensure that Enter and Space keystrokes are detected.
+  - When using the `onClick` event, for custom elements (not links, buttons, etc.), ensure that Enter and Space keystrokes are detected.
   - Do not use the `onDblClick` event - there is no device independent handling or keyboard equivalent of this event.
   - Make sure that `onChange` and `onSelect` events do not cause unexpected results and accessibility problems.
-* **Use recommended keyboard support patterns in custom user interface elements** 
-  - If you program custom user interface elements, e.g. accordion, carousel, dropdown menu, tabs, implement keyboard support as recommended in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
-  - If you are building a website make sure that controls can be operated using the keyboard and avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
+* **Use recommended keyboard support patterns, in custom user interface elements** 
+  - If you program custom user interface elements - e.g. accordion, carousel, dropdown menu, tabs - implement keyboard support, as recommended in the [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
+  - If you are building a website, make sure that controls can be operated, using the keyboard and avoid using components, modules, plugins, widgets, or JavaScript techniques which cannot be operated via the keyboard.
 * **Keep the focus visible**
   - Provide visibility of the focus. 
   - If you are attaching the events to a different type of element, like a `<div>` or `<span>`, you need to enable the element to receive keyboard focus. 
 * **Ensure logical focus order of interactive elements**
   - Ensure that tabbing order through active elements is logical and matches visual layout.
   - If you program complex user interface components, use appropriate focus management techniques ([using a roving tabindex](https://www.w3.org/TR/wai-aria-practices/#kbd_roving_tabindex) or [using aria-activedescendant](https://www.w3.org/TR/wai-aria-practices/#kbd_focus_activedescendant)).
-  - Avoid changing focus unexpectedly.
+  - Avoid changing focus, unexpectedly.
 
 ## Navigating a website with the keyboard
-* Use **Tab** or **Shift + tab**  keys to navigate forward or backward between all of the links and forms controls on the page.
+* Use **Tab** or **Shift + tab**  keys to navigate forward or backward, between all of the links and forms controls, on the page.
 * Use **Arrow** keys to navigate within complex components of the page, such as dropdown lists, accordions, slideshow, etc. 
 * Use **Enter** key to execute the links.
 * Use **Enter** or **Space** keys to activate buttons.
