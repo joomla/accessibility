@@ -19,8 +19,7 @@ The **landmark role** delineates the segments of the page that contains content 
   - `search` role for the search tool of a website
   - `region` role for a significant element of the page that cannot be described by the role, listed above.
 * Use the `aria-label` or `aria-labelledby` attribute to identify multiple landmarks of the same type, on the page
-* Use the `aria-label` or `aria-labelledby` attribute to treat the section with roles="region", as a landmark. 
-Note by RJS: Should the above be role="region", as a landmark?
+* Use the `aria-label` or `aria-labelledby` attribute to treat the section with roles="region", as a landmark. <!-- Note by RJS: Should the above be role="region", as a landmark?  -->
 * Element with `role="region"` (usually `section`) must have label.  Use the `aria-label` or `aria-labelledby` attribute to label it.
 * Ensure that no content is orphaned, outside of landmarks.
 
