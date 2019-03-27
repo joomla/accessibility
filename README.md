@@ -12,7 +12,7 @@ Web accessibility means designing and developing your website so that people wit
 Read more: [What is Web accessibility](https://github.com/joomla/accessibility/blob/master/docs/tutorials/what-is-web-accessibility.md)
 
 ## Our mission
-Our mission is to make all the Joomla properties, the CMS, framework and portal accessible for everyone, for all people, no matter what their ability, disability, age, device, Internet connection, user-agent.
+Our mission is to make all the Joomla properties, the CMS, framework, and portal accessible for everyone, for all people, no matter what their ability, disability, age, device, Internet connection, user-agent.
 
 ## This repository
 This repository contains:
