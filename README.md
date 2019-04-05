@@ -7,12 +7,12 @@ This is a repository for everyone who wants to collaborate in implementing acces
 [Joomla!](https://www.joomla.org/about-joomla.html) is a Content Management System (CMS) which enables you to build websites and powerful online applications.
 
 ## What is Accessibility?
-Web accessibility means designing and developing your website so that people with disabilities can perceive, understand, navigate, and interact with, and contribute to, the  Web. 
+Web accessibility means designing and developing your website so that people with disabilities can perceive, understand, navigate, and interact with, and contribute to the  Web. 
 
 Read more: [What is Web accessibility](https://github.com/joomla/accessibility/blob/master/docs/tutorials/what-is-web-accessibility.md)
 
 ## Our mission
-Our mission is to make all the Joomla properties, the CMS, framework and portal accessible for everyone, for all people, no matter what their ability, disability, age, device, Internet connection, user-agent.
+Our mission is to make all the Joomla properties, the CMS, framework and portal accessible for everyone, for all people, no matter what their ability, disability, age, device, Internet connection and user-agent.
 
 ## This repository
 This repository contains:
