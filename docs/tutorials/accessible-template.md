@@ -21,7 +21,7 @@ The purpose of this entry is to present the requirements and guidelines for buil
 We will focus only on those aspects of the template that may determine the accessibility of the websites content.   
 
 ## Responsive design
-Responsiive design is the basis of design for all, for inclusive design.
+Responsive design is the basis of design for all, for inclusive design.
 
 ## Logical and semantic structure
 ...

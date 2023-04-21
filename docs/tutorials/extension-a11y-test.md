@@ -7,7 +7,7 @@ This should be a few key tests (e.g. five)
 * Introduction
 * Why to test accessibility?
 * What is the best environment to test in?
-* Test in various devices (smartfon, tablet, destkop)
+* Test in various devices (smartfon, tablet, desktop)
 * Test for keyboard support
 * Test in High Contrast Mode (Windows, Android)
 * Test for Operation with Images Off
@@ -16,7 +16,7 @@ This should be a few key tests (e.g. five)
 * Other tests
 * Resources
 ## Introduction
-Website designers somtetimes ask me how to evaluate an extension and template for accessibility without being an expert.
+Website designers sometimes ask me how to evaluate an extension and template for accessibility without being an expert.
 If the sites were made by accessibility experts, they would propably not ask such question.
 
 It's not unusual that you're not an accessibility expert. But it's great that you think about accessibility when designing your website.

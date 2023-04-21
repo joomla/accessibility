@@ -20,5 +20,5 @@
  - [Color tools – generators, simulators, checkers](tutorials/tools-color)
  - [Screenreader testing](tutorials/sc-testing)
  - [NVDA testing](tutorials/sc-nvda-testing)
-- **Tools & Reesources**
+- **Tools & Resources**
 - **Dictionary**

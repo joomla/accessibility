@@ -1,4 +1,4 @@
-This documentation is for the use of volunteers, working in the Joomla Accessibility Team and constitutes a set of guidelines, with a view to minimizing confusion, ambiguity, duplication and arguments, during the process of developing a variety of accessibility features into the Joomla! 4.0 version of the CMS. It is supplied as a set of RFC docvuments.
+This documentation is for the use of volunteers, working in the Joomla Accessibility Team and constitutes a set of guidelines, with a view to minimizing confusion, ambiguity, duplication and arguments, during the process of developing a variety of accessibility features into the Joomla! 4.0 version of the CMS. It is supplied as a set of RFC documents.
 
 ***The RFC documentation methodology:***
 
