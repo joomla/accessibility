@@ -26,7 +26,7 @@ An alert is an element that displays a brief, important message, in a way that a
 
 Note: See Alert dialog.
 
-## Accesibility requirements
+## Accessibility requirements
 
 ### General
 
